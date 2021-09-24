@@ -16,10 +16,9 @@ Det kostar 200 SEK att hyra lokalen dagtid + kvällstid.
 Lokalen bokas genom att skicka mejl till:
 
 * Per-Åke Jansson, perake.jansson49@icloud.com
-* Ingrid Mathillas, ingrid.mathillas@icloud.com
 * Kerstin Eurenius, kerstin.eurenius@gmail.com eller
 * Gunilla Rehn, rehngunilla@gmail.com
 
 Ange Brf-nummer samt nummer enligt skatteverkets regler, e-postadress samt önskat datum när du önskar hyra lokalen.
 
-[Information om bokning av gemensamhetslokalen (pdf)](</images/uploads/Riktlinjer_Gemensamhetslokal_juni_2021.pdf>)
+[Information om bokning av gemensamhetslokalen (pdf)](/images/uploads/Riktlinjer_Gemensamhetslokal_juni_2021.pdf)
