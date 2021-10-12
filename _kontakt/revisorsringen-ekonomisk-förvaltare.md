@@ -12,7 +12,7 @@ Distansgatan 2
 
 421 74 Västra Frölunda
 
-Catharina Tagemark är föreningens kontaktperson på Revisorsringen
+Catharina Tagemark är föreningens kontaktperson på Revisorsringen.
 
 031-7098598
 
