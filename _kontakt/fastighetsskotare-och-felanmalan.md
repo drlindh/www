@@ -3,9 +3,9 @@ layout: page
 title: Fastighetsskötare och felanmälan
 teaser: /images/uploads/svensk-markservcie-logo.png
 ---
-**Använd i första hand e-post för att kontakta fastighetsskötaren**
+**För att kontakta fastighetsskötaren, klicka på den gröna ikonen "Felanmälan" längst ned till höger, så kommer du till ett webbformulär. Alternativt kan du använda e-post.** 
 
-**E-post:** [fastighetsskotaren@drlindh.se](mailto:fastighetsskotaren@drlindh.se)
+**E-post:** [felanmälan@drlindh.se](mailto:fastighetsskotaren@drlindh.se)
 
 **Telefon:** 031-41 34 04 (telefonsvarare)
 
