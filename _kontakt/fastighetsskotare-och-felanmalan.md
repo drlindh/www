@@ -5,7 +5,7 @@ teaser: /images/uploads/svensk-markservcie-logo.png
 ---
 **För att kontakta fastighetsskötaren, klicka på den gröna ikonen "Felanmälan" längst ned till höger, så kommer du till ett webbformulär. Alternativt kan du använda e-post.** 
 
-**E-post:** [felanmälan@drlindh.se](mailto:fastighetsskotaren@drlindh.se)
+**E-post:** [felanmalan@drlindh.se](mailto:felanmalan@drlindh.se)
 
 **Telefon:** 031-41 34 04 (telefonsvarare)
 
