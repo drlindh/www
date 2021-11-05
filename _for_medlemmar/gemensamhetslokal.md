@@ -13,6 +13,8 @@ Du ansvarar själv för att städa lokalen efter uthyrningen.
 
 Det kostar 200 SEK att hyra lokalen dagtid + kvällstid.
 
+Bokning kan göras tidigast 3 månader i förväg.
+
 Lokalen bokas genom att skicka mejl till:
 
 * Per-Åke Jansson, perake.jansson49@icloud.com eller
