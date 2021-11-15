@@ -19,4 +19,4 @@ Du bokar lägenheten genom att kontakta någon av de bokningsansvariga, Per-Åk
 
 Bokning kan ske tidigast tre månader i förväg och senast 2 dagar före incheckningsdag. En bokning får omfatta max 5 nätter. Det går bara att göra en bokning i taget och en ny bokning är möjlig först när föregående bokning är avverkad. Eventuella undantag kan beviljas av bokningsansvarig beroende av det aktuella bokningsläget.
 
-[Information om gästlägenheten i pdf-format](/images/uploads/Info_om_Gästlägenheten_september21.pdf)
+[Information om gästlägenheten i pdf-format](/images/uploads/Info_om_Gästlägenheten_november21.pdf)
