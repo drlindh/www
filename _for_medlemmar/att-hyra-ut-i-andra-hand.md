@@ -8,7 +8,7 @@ För andrahandsuthyrning längre tid än en månad krävs styrelsens tillåtelse
 
 Vid andrahandsuthyrning av bostadsrätt ska bostadsrättshavaren säga upp hyresavtal för P-plats och extra förråd. P-plats får inte hyras ut i andra hand.
 
-Har ni frågor om andrahandsuthyrning kontakta gärna styrelsens representant för dessa ärenden per e-post: Hans Ragneskog, hans.ragneskog@gmail.com. Blankett för ansökan finns längst ner på denna sida.
+Har ni frågor om andrahandsuthyrning kontakta gärna styrelsens representant för dessa ärenden per e-post: Christina Axelson, kontakt@drlindh.se. Ansökan om andrahandsuthyrning kan göras i webbportalen hos föreningens ekonomiska förvaltare Nabo, nabo.se. Välj "Din lägenhet/lokal" i vänsterspalten, och klicka sedan på "Ansökan om andrahandsuthyrning" uppe till höger, så kommer du till ett formulär att fylla i och skicka. Det går också att använda den blankett för ansökan som finns längst ner på denna sida.
 
 ### Ansök i god tid
 
@@ -29,12 +29,6 @@ Med andrahandsuthyrning menas att en person som inte är delägare i bostadsra
 Ansökan om andrahandsuthyrning skall lämnas minst en månad i förväg. Den första ansökan skall vara skriftlig och undertecknad. Ansökan om förlängning kan ske via e-post.
 
 För andrahandsuthyrning debiteras en årlig avgift som motsvarar 10 % av prisbasbeloppet. Denna debiteras månadsvis via avgiften.
-
-Ansökan om att hyra ut sin bostadsrätt i andra hand skall innehålla uppgift om
-
-* Brf-innehavarens namn, Lägenhetens Brf-nummer och lantmäterinummer.
-* Namn och personnummer på den som skall hyra lägenheten i andra hand. Vi önskar även kontaktuppgifter som telefonnummer och e-postadress
-* Period för andrahandsuthyrningen (max ett år)
 
 **Exempel på godtagbara skäl för andrahandsuthyrning**
 
