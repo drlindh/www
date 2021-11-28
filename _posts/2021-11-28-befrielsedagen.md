@@ -2,7 +2,7 @@
 layout: post
 title: Befrielsedagen
 date: 2021-11-28T19:37:55.437Z
-teaser: /images/uploads/20211127_121203.jpg
+teaser: /images/uploads/befrielsedagen.jpg
 ---
 Varmt välkomna
 
