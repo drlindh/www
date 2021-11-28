@@ -18,6 +18,4 @@ Kring gårdens julgran kan alla från de mindre barnen till pensionärer dansa j
 
 Om ditt barn vill sjunga i Lindhs Barnkör kan du kontakta Linda Sturk i Hus 1.
 
-Om du är med i Facebookgruppen BRF Doktor Lindh, kan du också läsa här:
-
-https://www.facebook.com/events/480368560181616
+Om du är med i Facebookgruppen BRF Doktor Lindh, kan du också läsa [här.](https://www.facebook.com/events/48036856018161)
