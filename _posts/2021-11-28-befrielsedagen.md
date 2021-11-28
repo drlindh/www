@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Befrielsedagen
+title: Befrielsedagen 4 dec kl 16
 date: 2021-11-28T19:37:55.437Z
 teaser: /images/uploads/befrielsedagen.jpg
 ---
