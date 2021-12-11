@@ -3,7 +3,7 @@
 {
 	"title": {{ post.title | jsonify }},
 	"body": {{ post.excerpt | strip_html | truncate: 1000 | jsonify }},
-	"date": {{ post.date | jsonify }},
+	"date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
 	"url": "https://drlindh.se{{ site.url }}{{ post.url }}"
 }{% unless forloop.last %},{% endunless %}
 
