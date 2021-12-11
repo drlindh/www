@@ -3,6 +3,7 @@
 {
 	"title": {{ post.title | jsonify }},
 	"body": {{ post.teaser | jsonify }},
+	"date": {{ post.date | jsonify }},
 	"url": "{{ site.url }}{{ post.url }}"
 }{% unless forloop.last %},{% endunless %}
 
