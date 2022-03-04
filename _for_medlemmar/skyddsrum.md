@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skyddsrum
-teaser: /images/uploads/skyddsrumsdörr.png
+teaser: /images/uploads/skyddsrumsdorr.png
 ---
 Skyddsrum finns i samtliga hus i vår förening.
 
