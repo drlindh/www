@@ -14,7 +14,7 @@ Hus 3     Inga-Maja Nilsson Björling
 
 Hus 4     Kerstin Navander Eriksson
 
-Hus 6     Nisse Hinnerson
+Hus 6     Anna-Britt Ragneskog
 
 Husråden sammanträder regelbundet med föreningens styrelse. Minnesanteckningar från senaste mötet 14 oktober hittar du här:
 
