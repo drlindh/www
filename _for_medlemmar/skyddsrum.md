@@ -9,4 +9,4 @@ Skyddsrummen besiktigades enligt gällande regelverk år 2015  av MSB (Myndighe
 
 Här kan du se läge och kapacitet för alla Sveriges skyddsrum:
 
-https://www.msb.se/sv/verktyg--tjanster/skyddsrumskarta/
+<https://www.msb.se/sv/verktyg--tjanster/skyddsrumskarta/>
