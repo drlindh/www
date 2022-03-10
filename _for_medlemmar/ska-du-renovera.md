@@ -74,6 +74,15 @@ Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt d
 
 [Regler och rekommendationer om balkonger](/images/uploads/REV_REGLER_OCH_REKOMMENDATIONER.pdf)
 
+## Ramavtal Sjövalla Byggservice
+
+Föreningen har tecknat ett ramavtal med Sjövalla Byggservice AB för byggnads-och installationsarbeten
+för reparations-och renoveringsprojekt.
+
+Som bostadsrättsägare har Du möjlighet att anlita Sjövalla Byggservice AB med de villkor som gäller i avtalet.
+
+Kontaktperson är Daniel Sundén,  daniel@sjovallabygg.se  0705-223568
+
 ## Parkering för hantverkare
 
 När du som medlem anlitar hantverkare måste dessa följa samma parkeringsrelger som alla andra.
