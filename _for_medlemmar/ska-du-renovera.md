@@ -81,7 +81,7 @@ för reparations-och renoveringsprojekt.
 
 Som bostadsrättsägare har Du möjlighet att anlita Sjövalla Byggservice AB med de villkor som gäller i avtalet.
 
-Kontaktperson är Daniel Sundén,  daniel@sjovallabygg.se  0705-223568
+Kontaktperson är Daniel Sundén,  [daniel@sjovallabygg.se](mailto:daniel@sjovallabygg.se), 0705-223568
 
 ## Parkering för hantverkare
 
