@@ -85,4 +85,4 @@ Kontaktperson är Daniel Sundén,  [daniel@sjovallabygg.se](mailto:daniel@sjoval
 
 ## Parkering för hantverkare
 
-När du som medlem anlitar hantverkare måste dessa följa samma parkeringsrelger som alla andra.
+När du som medlem anlitar hantverkare måste dessa följa samma parkeringsregler som alla andra.
