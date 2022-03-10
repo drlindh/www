@@ -58,13 +58,13 @@ Föreningen accepterar följande alternativ:
 
 -Kolfiberfläkt, ej ansluten till fastighetens ventilationssystem
 
--Fläkt ansluten till fastighetens ventilationssystem. I detta fall krävs att stryplåda (typ Sirrus KFS 125) monteras efter fläkten.  Kontakta gärna företaget Torfors AB 031-822500 beträffande detta.
+-Fläkt ansluten till fastighetens ventilationssystem. I detta fall krävs att stryplåda (typ Sirrus KFS 125) monteras efter fläkten.  Kontakta gärna företaget Torfors AB, 031-822500 beträffande detta.
 
 ### Gasspis
 
 Då det gäller gasspis så har Räddningsverket informerat oss om att man får förvara upp till 5 liter gas (ca 2 kg) i en behållare i lägenheten samt upp till 26 liter (motsvarar en P11:a) på balkongen i ett flerbostadshus. OBS! Om man har en inglasad balkong får gasolhållare som förvaras på balkongen ha maximal volym 5 liter. Vid en installation ska den inkopplade flaskan förvaras i ett ”tätt men ventilerat” utrymme. Den ska ventileras ut ur huskroppen enligt Sprängämnesinspektionen.
 
-Eftersom regelverket är mycket strängt så har styrelsen beslutat att införa anmälningsplikt från den boende FÖRE installationen. Besiktning av färdig installation ska sedan ske av behörig besiktningsman som lägenhetsinnehavaren själv tillkallar och ersätter. Besiktningsprotokollet ska skickas till styrelsen. Först efter en godkänd besiktning får gasspisen tas i bruk. Kontakta styrelsen på kontakt@drlindh.se vid frågor rörande gasspisar.
+Eftersom regelverket är mycket strängt så har styrelsen beslutat att införa anmälningsplikt från den boende FÖRE installationen. Besiktning av färdig installation ska sedan ske av behörig besiktningsman som lägenhetsinnehavaren själv tillkallar och ersätter. Besiktningsprotokollet ska skickas till styrelsen. Först efter en godkänd besiktning får gasspisen tas i bruk. Kontakta styrelsen på [kontakt@drlindh.se](mailto:kontakt@drlindh.se) vid frågor rörande gasspisar.
 
 ## Balkonger
 
