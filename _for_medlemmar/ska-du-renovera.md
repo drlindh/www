@@ -70,7 +70,7 @@ Eftersom regelverket är mycket strängt så har styrelsen beslutat att införa 
 
 Blomlådor på balkongräcket ska av säkerhetsskäl placeras på insidan.
 
-Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt djup är 4 cm. Att måla betonggolv är bostadsrättsinnehavarens ansvar. Vattenbaserd färg rekommenderas. Underhåll av väggpanelen är föreningens ansvar. Undersida balkongplatta får inte målas. Mer detaljer finns i regler och rekommendationer nedan.
+Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt djup är 4 cm. Att måla betonggolv är bostadsrättsinnehavarens ansvar. Vattenbaserad färg rekommenderas. Underhåll av väggpanelen är föreningens ansvar. Undersida balkongplatta får inte målas. Mer detaljer finns i regler och rekommendationer nedan.
 
 [Regler och rekommendationer om balkonger](/images/uploads/REV_REGLER_OCH_REKOMMENDATIONER.pdf)
 
