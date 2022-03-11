@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skyddsrum
-teaser: /images/uploads/skyddsrumsdorr.png
+teaser: /images/uploads/skyddsrumsskylt.png
 ---
 Skyddsrum finns i samtliga hus i vår förening. I hus 6 finns två skyddsrum, i övriga hus ett vardera. Skyddsrummen utnyttjas i fredstid dels som cykelrum, dels som förråd till ett antal lägenheter.
 
