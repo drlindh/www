@@ -9,7 +9,7 @@ Skyddsrum finns i samtliga hus i vår förening. I hus 6 finns två skyddsrum, i
 
 Samtliga rum är utmärkta med skylt enligt bild. Avsikten är att skyddsrummen skall nås från insidan av husen (med undantag av det ena skyddsrummet i hus 6, som enbart har ingång från utsidan). Därför sitter i några hus endast skyltar utanför entreerna. Styrelsen arbetar på att komplettera skyltningen.
 
-Observera att du tillhör inget särskilt skyddsrum utan använder det som finns närmast där du befinner dig. Det betyder också att personer som tillfälligt befinner sig här, även icke boende, skall bege sig till våra skyddsrum.
+Observera att du tillhör inget särskilt skyddsrum utan använder det som finns närmast där du befinner dig. Det betyder också att personer som tillfälligt befinner sig här, det vill säga även icke boende, skall bege sig till våra skyddsrum.
 
 Om vi hamnar i den olyckliga situation där cykelrummen måste transformeras till skyddsrum, kommer vi förhoppningsvis att få 48 timmar på oss för genomförandet. Detta är ett arbete som alla arbetsföra medlemmar är skyldiga att hjälpa till med. Hur det skall gå till kan du läsa om här:
 
