@@ -8,17 +8,17 @@ Det finns både p-platser att hyra och gästparkeringsplatser.
 
 ## Garage och P-däck
 
-Det finns p-platser på p-däcket och i garaget. I garaget finns dessutom möljighet att, för en tilläggsavgift, erhålla plats med uttag för elektrisk motorvärmare. 
+Det finns p-platser på p-däcket och i garaget. Några platser är dessutom utrustade med laddstolpar för elbilar. 
 
-Parkeringsplatsen hör inte till lägenheten utan plats söks i särskild ordning (kölista).  I första hand kan medlem hyra en parkeringsplats per medlem/familj. Medlem kan hyra mer än en parkeringsplats om ingen kösituation föreligger. All uthyrning och uppsägning av garage/parkeringsplatser sköts av Revisorsringen.  
+Parkeringsplatsen hör inte till lägenheten utan plats söks i särskild ordning (kölista).  I första hand kan medlem hyra en parkeringsplats per medlem/familj. Medlem kan hyra mer än en parkeringsplats om ingen kösituation föreligger. All uthyrning och uppsägning av garage/parkeringsplatser sköts av vår ekonomiske förvaltare Nabo.  
 
 Andrahandsuthyrning av P-platser i garage och på P-däck är inte tillåtet. Vid andrahandsuthyrning av lägenhet förfaller omgående hyresrätten till parkeringsplats.
 
-På parkeringsplatsen får enbart kördugligt och registrerat fordon parkeras. Det betyder  att platsen endast är avsedd för fordon, det är inte tillått att förvara andra saker som däck, takbox m.m. på parkeringsplatsen.
+På parkeringsplatsen får enbart kördugligt och registrerat fordon parkeras. Det betyder att platsen endast är avsedd för fordon, det är inte tillåtet att förvara andra saker som däck, takbox m.m. på parkeringsplatsen.
 
 **Frågor om parkeringsplatser**
 
-Vid frågor ring eller maila Revisorsringen, Catharina Tagemark, catharina.tagemark@revisorsringen.se, 031-7098598.
+Vid frågor kontakta Nabo, Catharina Tagemark, tel 010-2880027. Du kan också logga in på portal.nabo.se, och skapa ett ärende till Nabo.
 
 ## Besöksparkering
 
@@ -26,7 +26,7 @@ Föreningen har 19 besöksplatser i anslutning till P-däck och infart vid undre
 
 Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 6 kr/tim, övrig tid 3 kr/tim. Det är möjligt att betala med hjälp av telefonen, avgiften är densamma som man betalar med mynt.
 
-För gäster till medlemmar finns möjlighet till reducerad taxa (för tillfället 30 kr/dygn) om man använder parkeringstillståndet som sitter längst bak i Lindhbladet. Notera att den reducerade taxan betalas med appen Easy Park, den speciella koden som ska användas finns angiven på parkeringstillståndet. Notera att tillståndet endast är giltig tillsammans med erlagd avgift via appen.
+För gäster till medlemmar finns möjlighet till reducerad taxa (för tillfället 30 kr/dygn) om man använder parkeringstillståndet som sitter längst bak i Lindhbladet. Notera att den reducerade taxan betalas med appen Easy Park, den speciella koden som ska användas finns angiven på parkeringstillståndet. Notera att tillståndet endast är giltigt tillsammans med erlagd avgift via appen.
 
 ## Parkering för rörelsehindrade
 
@@ -44,4 +44,4 @@ Det är tillåtet att parkera max 15 minuter i bostadsområdet i samband med av-
 
 ### Controlla
 
-P-övervakningen hanteras f o m januari 2007 av Controlla, Tel. 23 00 00.
+P-övervakningen hanteras fr o m januari 2007 av Controlla, Tel. 23 00 00.
