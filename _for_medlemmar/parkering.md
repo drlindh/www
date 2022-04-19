@@ -8,11 +8,11 @@ Det finns både p-platser att hyra och gästparkeringsplatser.
 
 ## Garage och P-däck
 
-Det finns p-platser på p-däcket och i garaget. Några platser är dessutom utrustade med laddstolpar för elbilar. 
+Det finns P-platser på P-däcket och i garagen. Några platser är dessutom utrustade med laddstolpar för elbilar. 
 
 Parkeringsplatsen hör inte till lägenheten utan plats söks i särskild ordning (kölista).  I första hand kan medlem hyra en parkeringsplats per medlem/familj. Medlem kan hyra mer än en parkeringsplats om ingen kösituation föreligger. All uthyrning och uppsägning av garage/parkeringsplatser sköts av vår ekonomiske förvaltare Nabo.  
 
-Andrahandsuthyrning av P-platser i garage och på P-däck är inte tillåtet. Vid andrahandsuthyrning av lägenhet förfaller omgående hyresrätten till parkeringsplats.
+Andrahandsuthyrning av P-platser i garage och på P-däck är inte tillåten. Vid andrahandsuthyrning av lägenhet förfaller omgående hyresrätten till parkeringsplats.
 
 På parkeringsplatsen får enbart kördugligt och registrerat fordon parkeras. Det betyder att platsen endast är avsedd för fordon, det är inte tillåtet att förvara andra saker som däck, takbox m.m. på parkeringsplatsen.
 
