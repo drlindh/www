@@ -16,8 +16,8 @@ Hus 4     Kerstin Navander Eriksson
 
 Hus 6     Anna-Britt Ragneskog
 
-Husråden sammanträder regelbundet med föreningens styrelse. Minnesanteckningar från senaste mötet 14 oktober hittar du här:
+Husråden sammanträder regelbundet med föreningens styrelse. Minnesanteckningar från senaste mötet 23 mars hittar du här:
 
-[Minnesanteckningar husrådsmöte](/images/uploads/2020-10-14_Gemensamt_husr%C3%A5dsm%C3%B6te.pdf)
+[Minnesanteckningar husrådsmöte](/images/uploads/2022-03-23_Gemensamt_husradsmote.pdf)
 
-Husråden ansvarar för vår- och höststädningsdagar. De ordnar bl. a. också föreningens födelsedag, allmänt kallad "befrielsedagen", som firas med glögg i december.
+Husråden ansvarar för vår- och höststädningsdagar. De ordnar bland annat också föreningens födelsedag, allmänt kallad "befrielsedagen", som firas med glögg i december.
