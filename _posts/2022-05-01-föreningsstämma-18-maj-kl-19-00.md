@@ -8,5 +8,5 @@ Brf Doktor Lindh håller föreningsstämma den 18 maj 2022, kl 19:00 i  gemensam
 
 [Kallelse till föreningsstämman](/images/uploads/Kallelse_Foreningsstamma_maj_2022.pdf)
 
-[Formulär för fullmakt] (/images/uploads/FULLMAKT_2022.pdf)
+[Formulär för fullmakt](/images/uploads/FULLMAKT_2022.pdf)
 
