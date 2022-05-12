@@ -14,17 +14,17 @@ Portnycklar och sk aptusbricka till porten kvitterar du ut hos fastighetsskötar
 
 ## Namnskylt
 
-Förhoppningsvis har du redan fått ditt namn utsatt på brevlådan och i entrén när du flyttar in. Om du inte har fått det eller tycker att namnet behöver justeras, tag kontakt med fastighetsskötaren.
+Förhoppningsvis har du redan fått ditt namn på namnskylten bredvid dörren och i entrén när du flyttar in. Om du inte har fått det eller tycker att namnet behöver justeras, tag kontakt med fastighetsskötaren.
 
 ## Numrering av lägenheterna
 
 Våra lägenheter har två olika nummer, dels Brf-numret som är unikt inom föreningen för varje lägenhet. Detta nummer används vid kontakt med föreningen, för bokning av tvättstugan och numrering av vindsförråden. Det används även när man skriver lägenhetskontrakt och i samband med pantsättning av en lägenhet. Numret finns längs upp på varje dörr.
 
-Varje lägenhet har även ett nummer fastställt av lantmäteriverket. Numret står intill brevinkastet. Numret är beroende på var i huset lägenheten är belägen. Detta nummer används (tillsammans med husnumret) av skattemyndigheten för folkbokföring och av posten.
+Varje lägenhet har även ett nummer fastställt av lantmäteriverket. Numret står på namnskylten bredvid dörren. Numret är beroende på var i huset lägenheten är belägen. Detta nummer används (tillsammans med husnumret) av skattemyndigheten för folkbokföring och av posten.
 
 ## Telefoni, internet och TV
 
-Föreningen har avtal med Telenor om internet, telefoni och TV.  Det gäller internetuppkoppling, telefoni och basutbud för TV. Detta betalas genom föreningens månadsavgift. Tilläggstjänster som inte ingår i avtalet betalar var och en själv. När du är ny medlem ska du anmäla till Telenor att du övertagit lägenheten och vilka tjänster du vill ha. Du får låna router och TV-box av Telenor och dessa ska lämnas tillbaka när du flyttar.
+Föreningen har avtal med Telenor om internet, telefoni och TV.  Det gäller internetuppkoppling, telefoni och basutbud för TV. Detta betalas genom föreningens månadsavgift. Tilläggstjänster som inte ingår i avtalet betalar var och en själv. När du är ny medlem ska du anmäla till Telenor att du övertagit lägenheten och vilka tjänster du vill ha. Du får låna router och TV-box av Telenor. Dessa ska lämnas tillbaka när du flyttar.
 
 [Telenor kundservice](https://www.telenor.se/kundservice/)
 
@@ -34,7 +34,7 @@ Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar
 
 ## Hemförsäkring
 
-Föreningen har tecknat en extra tilläggsförsäkring som innebär att bostadsrättsinnehavaren inte behöver komplettera sin egen hemförsäkring med något extra skydd för att bostaden är en bostadsrätt. Hos en del försäkringsbolag ingår Bostadsrättstillägg som en del i ett paket och det finns risk att t ex reseskydd kan falla bort, om man väljer att avstå från Bostadsrättstillägg. Föreningens försäkring är tecknad hos Länsförsäkringar. Följ länken nedan för information från Länsförsäkringar.
+Föreningen har tecknat en extra tilläggsförsäkring som innebär att bostadsrättsinnehavaren inte behöver komplettera sin egen hemförsäkring med något extra skydd för att bostaden är en bostadsrätt. Hos en del försäkringsbolag ingår Bostadsrättstillägg som en del i ett paket, och det finns risk att t ex reseskydd kan falla bort, om man väljer att avstå från Bostadsrättstillägg. Det finns också bolag, där bostadsrättstillägget ingår i hemförsäkringens grundskydd och inte kan väljas bort. Föreningens försäkring är tecknad hos Länsförsäkringar. Följ länken nedan för information från Länsförsäkringar.
 
 [Länsförsäkringars information om Bostadsrättsförsäkring - Kollektiv (pdf-dokument)](https://www.drlindh.se/image/uploads/Info_Lansforsakringar.pdf)
 
