@@ -56,9 +56,9 @@ Enligt Boverkets Byggregler skall läckageskydd installeras där det finns risk 
 
 Föreningen accepterar följande alternativ:
 
--Kolfiberfläkt, ej ansluten till fastighetens ventilationssystem
+\-Kolfiberfläkt, ej ansluten till fastighetens ventilationssystem
 
--Fläkt ansluten till fastighetens ventilationssystem. I detta fall krävs att stryplåda (typ Sirrus KFS 125) monteras efter fläkten.  Kontakta gärna företaget Torfors AB, 031-822500 beträffande detta.
+\-Fläkt ansluten till fastighetens ventilationssystem. I detta fall krävs att stryplåda (typ Sirrus KFS 125) monteras efter fläkten.  Kontakta gärna företaget Torfors AB, 031-822500 beträffande detta.
 
 ### Gasspis
 
@@ -79,7 +79,7 @@ Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt d
 Föreningen har tecknat ett ramavtal med Sjövalla Byggservice AB för byggnads-och installationsarbeten
 för reparations-och renoveringsprojekt.
 
-Som bostadsrättsägare har Du möjlighet att anlita Sjövalla Byggservice AB med de villkor som gäller i avtalet.
+Som bostadsrättsägare har Du möjlighet att anlita Sjövalla Byggservice AB med de villkor som gäller i avtalet. För mera information kontakta styrelsen. Klicka på den gröna ikonen Felanmälan nedan!
 
 Kontaktperson är Daniel Sundén,  [daniel@sjovallabygg.se](mailto:daniel@sjovallabygg.se), 0705-223568
 
