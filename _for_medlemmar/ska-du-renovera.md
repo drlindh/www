@@ -89,4 +89,4 @@ När du som medlem anlitar hantverkare måste dessa följa samma parkeringsregle
 
 ## Byggavfall
 
-I entreer och på våningsplan får byggavfall endast lämnas högst tillfälligt. Avfall som lämnas utanför husen måste avlägsnas inom 48 timmar. 
+I entréer och på våningsplan får byggavfall endast lämnas högst tillfälligt. Avfall som lämnas utanför husen måste avlägsnas inom 48 timmar. 
