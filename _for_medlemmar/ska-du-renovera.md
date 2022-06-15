@@ -86,3 +86,7 @@ Kontaktperson är Daniel Sundén,  [daniel@sjovallabygg.se](mailto:daniel@sjoval
 ## Parkering för hantverkare
 
 När du som medlem anlitar hantverkare måste dessa följa samma parkeringsregler som alla andra.
+
+## Byggavfall
+
+Byggavfall som lämnas utanför husen måste avlägsnas inom 48 timmar. 
