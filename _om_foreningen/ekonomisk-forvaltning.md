@@ -21,16 +21,15 @@ Uthyrning och uppsägning av garage- och parkeringsplatser sköts av Nabo.
 
 Alla frågor om pantsättning eller utdrag ur lägenhetsförteckningen handlägges av Nabo. 
 
-## Frågor om hyra och avgifter
+### Uppgifter om lägenheten
 
 Alla medlemmar har tillgång till information om den egna bostadsrätten i Nabos kundportal, som du når på portal.nabo.se. Du loggar in med mobilt BankID.
 
-När det gäller hyres- och avgiftsdebitering eller andra liknande frågor kontakta Nabo.
+I kundportalen kan du också skapa ärenden till Nabo, t.ex. om du har frågor om avgifts- eller hyresdebitering.
 
 * [Kundportalen](https://portal.nabo.se/kundportal/login) 
 
 ## Kontaktuppgifter
 
-* [**Webb**](https://nabo.se/kontakt)
-* **Telefon** 010-288 00 27 (må-fr 09.00-12.00)
+**Telefon** 010-288 00 27 (må-fr 09.00-12.00)
 
