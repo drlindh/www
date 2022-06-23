@@ -4,7 +4,7 @@ title: Ekonomisk förvaltning
 teaser: /images/uploads/Lagenhetsnummer liten.jpg
 feature: /images/uploads/Lagenhetsnummer feature.jpg
 ---
-Föreningens ekonomiska förvaltning sköts sedan 2007 av Revisorsringen. Revisorsringens uppdrag omfattar:
+Föreningens ekonomiska förvaltning sköts sedan 2021 av Nabo. Nabos uppdrag omfattar:
 
 * Ekonomisk förvaltning inklusive bl a hyres- och avgiftsdebitering
 * Debitering av elavgift
@@ -14,23 +14,22 @@ Föreningens ekonomiska förvaltning sköts sedan 2007 av Revisorsringen. Reviso
 
 ### Garage- och parkeringsplatser
 
-Uthyrning och uppsägning av garage- och parkeringsplatser sköts av Revisorsringen.
+Uthyrning och uppsägning av garage- och parkeringsplatser sköts av Nabo.
 
 ### **Frågor om pantsättning och utdrag ur lägenhetsregistret**
 
-Alla frågor om pantsättning eller utdrag ur lägenhetsförteckningen handlägges av Revisorsringen. 
+Alla frågor om pantsättning eller utdrag ur lägenhetsförteckningen handlägges av Nabo. 
 
 ## Frågor om hyra och avgifter
 
-Alla medlemmar har tillgång till information om den egna bostadsrätten i "Realportalen" som är Revisorsringens digitala tjänst. Användarnamn och lösenord finns på "hyresavin".
+Alla medlemmar har tillgång till information om den egna bostadsrätten i Nabos kundportal, som du når på portal.nabo.se. Du loggar in med mobilt BankID.
 
-När det gäller hyres- och avgiftsdebitering eller andra liknande frågor kontakta Revisorsringen.
+När det gäller hyres- och avgiftsdebitering eller andra liknande frågor kontakta Nabo.
 
-* [Realportalen](https://revisorsringen.realportal.nu/) 
+* [Kundportalen](https://portal.nabo.se/kundportal/login) 
 
 ## Kontaktuppgifter
 
-* **E-post** [brf@revisorsringen.se](mailto:brf@revisorsringen.se)
-* **Vanlig post** Revisorsringen BRF, Distansgatan 2, 421 74 Västra Frölunda.
+* [**Webb**](https://nabo.se/kontakt)
+* **Telefon** 010-288 00 27 (må-fr 09.00-12.00)
 
-* **Webb** [Revisorsringens webbsida](http://www.revisorsringen.se/)
