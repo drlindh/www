@@ -4,7 +4,8 @@ title: Ekonomisk förvaltning
 teaser: /images/uploads/Lagenhetsnummer liten.jpg
 feature: /images/uploads/Lagenhetsnummer feature.jpg
 ---
-Föreningens ekonomiska förvaltning sköts sedan 2021 av Nabo. Nabos uppdrag omfattar:
+Föreningens ekonomiska förvaltning sköts sedan 2021 av Nabo. 
+Nabos uppdrag omfattar:
 
 * Ekonomisk förvaltning inklusive bl a hyres- och avgiftsdebitering
 * Debitering av elavgift
