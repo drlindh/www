@@ -26,4 +26,4 @@ Många av balkongerna är inglasade. Inglasningen är gjord på varje enskild me
 
 Blomlådor på balkongräcket skall av säkerhetsskäl placeras på insidan.
 
-[Regler och rekommendationer om balkonger](/images/uploads/REV_REGLER_OCH_REKOMMENDATIONER.pdf)
+[Regler och rekommendationer om balkonger](/images/uploads/REGLER_OCH_REKOMMENDATIONER_FÖR_BALKONGER_220731.pdf)
