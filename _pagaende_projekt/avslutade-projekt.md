@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Avslutade projekt
-teaser: /images/400x250.png
+teaser: /images/uploads/Gym 2.jpg
 feature: /images/uploads/Ritning nya lgh.jpg
 ---
 ## SDN lokalen i hus 1 blir bostadsrätter
@@ -73,4 +73,9 @@ Det har anmälts, framförallt från hus 3, att det är skillnad i värme mellan
 ## Hobbyrummet
 
 Nytt golv lades i maj 2020. Utrustningen i rummet kompletterades med en slipmaskin och en liten pelarborr.
+
+## Mer plats i gymmet
+
+I samband med ombyggnaden av SDN-lokalen till lägenheter gjordes också en viss omdisponering i källarplanet under. Gamla ventilationsutrymmen blev förråd och tidigare förrådsyta blev expansionsyta för gymmet. 
+
 
