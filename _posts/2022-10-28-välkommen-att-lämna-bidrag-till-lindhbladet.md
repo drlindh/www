@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Välkommen att lämna bidrag till Lindhbladet
-date: 2022-10-28T22:28:18.217Z
+date: 2022-10-29T22:28:18.217Z
 teaser: /images/uploads/linblad-400x250.jpeg
 ---
 Välkommen att lämna bidrag till kommande nummer av Lindhbladet.
