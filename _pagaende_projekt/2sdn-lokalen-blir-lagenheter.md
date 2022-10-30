@@ -32,4 +32,4 @@ Framtagande av en Bygglovshandling har genomförts och en ansökan om bygglov ha
 
 Förhoppningen är att besked om bygglov och upphandling av entreprenör ska vara klart under sommaren år 2019 så att ombyggnaden kan starta direkt därefter.
 
-Styrelsen räknar med att försäljningen av bostadsrätterna ska tillföra så mycket kapital att det täcker en stor del av kostnaderna för de omfattande underhållsarbeten som har genomförts.
+<!--Styrelsen räknar med att försäljningen av bostadsrätterna ska tillföra så mycket kapital att det täcker en stor del av kostnaderna för de omfattande underhållsarbeten som har genomförts.-->
