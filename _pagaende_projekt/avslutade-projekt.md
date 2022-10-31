@@ -64,4 +64,9 @@ Nytt golv lades i maj 2020. Utrustningen i rummet kompletterades med en slipmask
 
 I samband med ombyggnaden av SDN-lokalen till lägenheter gjordes också en viss omdisponering i källarplanet under. Gamla ventilationsutrymmen blev förråd och tidigare förrådsyta blev expansionsyta för gymmet. 
 
+## Dörrbyte
+
+Några soprum och cykelrum hade dörrar i sådant behov av renovering att de måste bytas ut. Styrelsen fattade beslut om detta våren 2019. Bytet utfördes senare under året.
+
+
 
