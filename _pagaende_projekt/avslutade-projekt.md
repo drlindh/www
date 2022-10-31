@@ -20,6 +20,7 @@ Kompletterande mätningar har gjorts i källarvåningar och entréplan, här vä
 
 ### Ombyggnad av SDN-lokalen i hus 1 till bostadsrätter
 
+
 Föreningen har sedan lång tid tillbaka hyrt ut lokaler i bottenvåningen i hus 1 till Stadsdelsnämnden Centrum (SDN). Lokalerna har tidigare använts för vård av multihandikappade barn. De senaste åren har de fungerat som stödboende för ensamkommande ungdomar.
 
 Föreningen sade upp avtalet med SDN från och med 2019-07-30. På föreningsstämman år 2018 togs ett stämmobeslut att bygga om lokalerna till bostadsrätter.
