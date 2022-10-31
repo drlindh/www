@@ -22,7 +22,7 @@ Rivningsarbetena startade den 1 oktober. Byggarbete pågick i cirka 5 månader. 
 
 Försäljningen av bostadsrätterna tillförde så mycket kapital att det täckte en stor del av kostnaderna för de omfattande underhållsarbeten som har genomförts.
 
-## Garagerenoveringen är avslutad
+## Garagerenovering
 
 Renoveringen av garaget startade i maj år 2018. Arbetet utfördes av Betong Teknik Väst AB på totalentreprenad. Före sommaren färdigställdes nytt tätskikt på övre garagedäck. Tätskiktet består av bitumenmatta med ett skyddande skikt av gjutasfalt.
 
@@ -67,6 +67,13 @@ I samband med ombyggnaden av SDN-lokalen till lägenheter gjordes också en viss
 ## Dörrbyte
 
 Några soprum och cykelrum hade dörrar i sådant behov av renovering att de måste bytas ut. Styrelsen fattade beslut om detta våren 2019. Bytet utfördes senare under året.
+
+## Byte av frånluftsfläkt i hus 3 och 4
+
+Nya frånluftsfläktar installerades i hus 3 och 4 2020. I hus 1 och 6 byttes frånluftsfläktarna 2017.
+
+
+
 
 
 
