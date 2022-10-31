@@ -24,14 +24,10 @@ I år, 2020, är det dags igen, till hösten kommer detta att ske.
 
 Det var också länge sedan rensning av ventilationskanaler utfördes. Styrelsen planerar därför att genomföra detta i samband med kontrollen.
 
-## Dörrbyte
-
-Det kommer att bytas dörrar. Några soprum och cykelrum har dörrar i sådant behov av renovering att de kommer att bytas ut. Styrelsen fattade beslut om detta våren 2019. Sjäva arbetet med att byta är planerat vecka 46.
-
 ## Snörasskydd
 
 Under vintern 2018/19 var det vid flera tillfällen snö och is som riskerade att rasa ner från taket vid husentréer. Detta gäller hus 1 och 3 eftersom taket här lutar så att den lägsta sidan är på husens entrésida. För att detta inte ska hända igen är snörasskydd beställda och ska monteras på hus 1 och 3 under hösten/vintern 2019/20.
 
 ## Ny utemöbel
 
-Bilden visar den nya utemöbel som efter lång väntan nu är uppsatt utanför hus 4. (augusti 2019)
+Bilden visar den nya utemöbel som efter lång väntan sattes upp utanför hus 4. (augusti 2019)
