@@ -6,12 +6,6 @@ feature: /images/uploads/utemobel_renovering_feature.jpeg
 ---
 Det pågår nästa alltid något projekt i och runt våra hus. Här finns kort information om både sådant som planeras och sådant som är gjort. 
 
-## Byte av frånluftsfläkt i hus 3 och 4
-
-Nya frånluftsfläktar kommer att installeras under v 25 (15-18 juni). Detta gäller hus 3 och 4. I hus 1 och 6 byttes frånluftsfläktarna 2017.
-
-Enligt underhållsplanen ska frånluftsfläktarna i hus 3 och 4 bytas under 2021. Men det finns skäl att ta itu med detta redan nu i år. Det är också en fördel om sommaren blir varm.
-
 ## Tvättstugor
 
 Det kommer under sommar/höst 2020 att ske en översyn och byte av hoar i alla tvättstugor. Där det finns behov och möjlighet kommer vanlig tvättho ersättas eller kompletteras med utslagsho för skurvatten. 
