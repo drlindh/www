@@ -21,7 +21,7 @@ layout: default
 				{{ content }}
 
 				<div class="tiles">
-					{% for post in site.[page.collection] %}
+					{% for post in site.[page.collection] | reverse %}
 						{% include post-grid.html %}
 					{% endfor %}
 				</div><!-- /.tiles -->
