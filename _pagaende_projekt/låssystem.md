@@ -3,6 +3,8 @@ layout: page
 title: Låssystem
 teaser: /images/uploads/nycklar liten.jpg
 ---
+F﻿öreningen uppgraderar låssystemet till iLOQ 5S. Detta gäller alla utrymmen som saknar elektriska lås. De som vill kan även byta sina lägenhetslås till samma system för att kuna använda sin portnyckel även till lägenheten.
+
 ** Uppdatering 2022-10-31**
 
 B﻿yten av låsen är nästan helt klart. Det som är kvar är portlåsen i Hus 1, 3 och 6. Dessa kommer bytas så snart alla medlemmar har fått möjlighet att kvittera ut nya nycklar.
