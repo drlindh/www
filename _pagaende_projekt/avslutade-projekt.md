@@ -6,7 +6,7 @@ feature: /images/uploads/Ritning nya lgh.jpg
 ---
 #﻿## OVK - obligatorisk ventilationskontroll hösten 2020
 
-FöÖreningen fick dispens ett år på grund av pandemin, och OVK genomfördes 2021
+Föreningen fick dispens ett år på grund av pandemin, och OVK genomfördes 2021
 
 
 Enligt plan- och bygglagen ska obligatorisk ventilationskontroll, OVK, utföras regelbundet i alla bostadshus. Det ska ske vart sjätte år för hus med den typ av ventilationssystem vi har, ventilation där frånluftsflödena är fläktstyrda.
