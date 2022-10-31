@@ -4,6 +4,10 @@ title: Avslutade projekt
 teaser: /images/uploads/Gym 2.jpg
 feature: /images/uploads/Ritning nya lgh.jpg
 ---
+#﻿## Relining - renovering av avloppsledningar i bottenplanet i hus 1, 3 och 4
+
+Renovering av avloppsledningar i bottenplanet i hus 1, 3 och 4 genomfördes under 2020.
+
 #﻿## Radonmätning i Brf Doktor Lindh
 
 
