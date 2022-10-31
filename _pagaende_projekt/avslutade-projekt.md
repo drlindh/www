@@ -4,6 +4,16 @@ title: Avslutade projekt
 teaser: /images/uploads/Gym 2.jpg
 feature: /images/uploads/Ritning nya lgh.jpg
 ---
+#﻿## Radonmätning i Brf Doktor Lindh
+
+
+Tack till alla som bidrog till mätningarna genom att ha dosor i sina lägenheter och komma ihåg att lämna in dem i tid!
+
+Mätningar genomförda
+Under våren 2019 placerades mätdosor ut. Radonmätningsdosorna skickades för analys och vi har fått svar. Redovisningen från Radonova är en rapport per lägenhet där mätningar gjorts. Sammantaget visar dessa mätningar att alla våra lägenheter har bra värden, det ligger på 10% – 20% av gränsvärdet som gäller.
+
+Kompletterande mätningar har gjorts i källarvåningar och entréplan, här väntar vi på svar. Ytterligare kompletteringar görs under hösten 2019 i studentrummen som SGS hyr. Detta har varit nödvändigt eftersom otillräckligt med dosor placerats i dessa områden.
+
 ### Ombyggnad av SDN-lokalen i hus 1 till bostadsrätter
 
 Föreningen har sedan lång tid tillbaka hyrt ut lokaler i bottenvåningen i hus 1 till Stadsdelsnämnden Centrum (SDN). Lokalerna har tidigare använts för vård av multihandikappade barn. De senaste åren har de fungerat som stödboende för ensamkommande ungdomar.
