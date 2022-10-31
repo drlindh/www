@@ -24,8 +24,7 @@ område utanför hus 4. Detta av ekonomiska skäl
 - Klätterställning installeras mellan norra fotbollsmålet och hus 3
 - Fotbollsplanen behålls som grusplan
 - Grusplanen norr om hus 6 utvidgas något Grill placeras på större avstånd från hus.
-
-- Slutligt val av växter sker i dialog med föreningens utegrupp och entreprenören.
+- Slutligt val av växter sker i dialog med föreningens utegrupp och entreprenören.
 
 Entreprenaden uppdelas i två etapper. Fram till årets slut utföres etapp 1 som omfattar 
 delområdena 3,4 och 5, 6 enligt [tidigare utsänt material](/images/uploads/Bilaga_Lindhbladet_var_2022.pdf) dvs grillplats mellan hus 4 och 6, 
