@@ -30,3 +30,5 @@ Entreprenaden uppdelas i två etapper. Fram till årets slut utföres etapp 1 so
 delområdena 3,4 och 5, 6 enligt [tidigare utsänt material](/images/uploads/Bilaga_Lindhbladet_var_2022.pdf) dvs grillplats mellan hus 4 och 6, 
 området vid lekplats och fotbollsplan samt område norr om hus 6.
 Tidpunkt för start av etapp 2 bestäms senare.
+
+
