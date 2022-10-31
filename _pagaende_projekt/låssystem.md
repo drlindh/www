@@ -3,6 +3,14 @@ layout: page
 title: Låssystem
 teaser: /images/uploads/nycklar liten.jpg
 ---
+** Uppdatering 2022-10-31**
+
+B﻿yten av låsen är nästan helt klart. Det som är kvar är portlåsen i Hus 1, 3 och 6. Dessa kommer bytas så snart alla medlemmar har fått möjlighet att kvittera ut nya nycklar.
+
+D﻿et kommer finnas möjlighet att kvitter ut nycklar på städdagen den 13 november.
+
+-﻿--
+
 Styrelsen har tillsammans med fastighetsskötaren utvärderat de nya låsen i hus 4, och beslutat att fortsätta med utbyggnaden av detta låssystem. Övriga hus, och de allra flesta låsen som nu inte har kopplingen mot Aptus (våra taggar) kommer bytas ut mot iLOQ efter hand. 
 
 För de medlemmar som är intresserade kommer det dessutom komma ett erbjudande om att byta överlåset i lägenhetsdörrarna till samma låstyp – då kan man använda samma nyckel till både porten samt till sin egen lägenhet. Genom ett reglage på låsets insida finns det möjlighet att ge fastighetsskötaren tillgång till lägenheten vid till exempel ventilationskontroll. Lägenhetslåset kommer administreras av låssmeden och inte fastighetsskötaren, mer information kommer i samband med detta erbjudande från låssmeden. 
