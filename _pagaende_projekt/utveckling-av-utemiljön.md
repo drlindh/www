@@ -21,7 +21,7 @@ område utanför hus 4. Detta av ekonomiska skäl
 - Målning av betong utanför hus 1 utgår.
 - Parkeringsficka utanför hus 6 breddas
 - Rullstolsanpassad gång anordnas intill befintlig trappa till grillplats mellan hus 4 och 6
-- Klätterställning installeras mellan norra fotbollsmålet och hus 3 
+- Klätterställning installeras mellan norra fotbollsmålet och hus 3
 - Fotbollsplanen behålls som grusplan
 - Grusplanen norr om hus 6 utvidgas något Grill placeras på större avstånd från hus.
 
