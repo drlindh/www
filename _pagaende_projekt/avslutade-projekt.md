@@ -4,7 +4,7 @@ title: Avslutade projekt
 teaser: /images/uploads/Gym 2.jpg
 feature: /images/uploads/Ritning nya lgh.jpg
 ---
-## Ombyggnad av SDN-lokalen i hus 1 till bostadsrätter
+### Ombyggnad av SDN-lokalen i hus 1 till bostadsrätter
 
 Föreningen har sedan lång tid tillbaka hyrt ut lokaler i bottenvåningen i hus 1 till Stadsdelsnämnden Centrum (SDN). Lokalerna har tidigare använts för vård av multihandikappade barn. De senaste åren har de fungerat som stödboende för ensamkommande ungdomar.
 
@@ -22,7 +22,7 @@ Rivningsarbetena startade den 1 oktober. Byggarbete pågick i cirka 5 månader. 
 
 Försäljningen av bostadsrätterna tillförde så mycket kapital att det täckte en stor del av kostnaderna för de omfattande underhållsarbeten som har genomförts.
 
-## Garagerenovering
+### Garagerenovering
 
 Renoveringen av garaget startade i maj år 2018. Arbetet utfördes av Betong Teknik Väst AB på totalentreprenad. Före sommaren färdigställdes nytt tätskikt på övre garagedäck. Tätskiktet består av bitumenmatta med ett skyddande skikt av gjutasfalt.
 
@@ -46,7 +46,9 @@ Inom den del av garagebyggnaden som ligger närmast hus 1 utfördes nytt tätski
 
 Totala kostnaden för garagerenoveringen bedöms till cirka 7 Mkr. Detta finansierades med ett nytt lån samt likvida medel. 
 
-## Byte av radiatorventiler
+## Mindre projekt
+
+### Byte av radiatorventiler
 
 Radiatorventilerna är nu bytta i alla hus. Under våren 2018 genomfördes byte i hus 1 och hus 4 och efter sommaren i hus 3 och hus 6. Med tanke på det stora antalet radiatorer i föreningen så har det uppstått väldigt få problem. 
 
@@ -56,21 +58,27 @@ Vid bytet av ventilerna, blev färg avskavd på vissa radiatorer och värmerör.
 
 Det har anmälts, framförallt från hus 3, att det är skillnad i värme mellan bostadsrätterna mot hus 1 och bostadsrätterna mot Sahlgrenska. Vi hoppas att det skall vara åtgärdat nu. Men om det fortfarande upplevs kallt i bostadsrätten, trots att man vridit termostaterna på max, så anmäl omedelbart till fastighetsskötaren. Skulle det upplevas för varmt, så får man vrida ner termostaterna.
 
-## Hobbyrummet
+### Hobbyrummet
 
 Nytt golv lades i maj 2020. Utrustningen i rummet kompletterades med en slipmaskin och en liten pelarborr.
 
-## Mer plats i gymmet
+### Mer plats i gymmet
 
 I samband med ombyggnaden av SDN-lokalen till lägenheter gjordes också en viss omdisponering i källarplanet under. Gamla ventilationsutrymmen blev förråd och tidigare förrådsyta blev expansionsyta för gymmet. 
 
-## Dörrbyte
+### Dörrbyte
 
 Några soprum och cykelrum hade dörrar i sådant behov av renovering att de måste bytas ut. Styrelsen fattade beslut om detta våren 2019. Bytet utfördes senare under året.
 
-## Byte av frånluftsfläkt i hus 3 och 4
+### Byte av frånluftsfläktar i hus 3 och 4
 
-Nya frånluftsfläktar installerades i hus 3 och 4 2020. I hus 1 och 6 byttes frånluftsfläktarna 2017.
+Nya frånluftsfläktar installerades i hus 3 och 4 sommaren 2020. I hus 1 och 6 byttes frånluftsfläktarna 2017.
+
+### Tvättstugor
+
+Under 2020 gjordes översyn och byte av hoar i alla tvättstugor. Där det fanns behov och möjlighet ersattes eller kompletterades vanliga tvätthoar med utslagshoar för skurvatten. 
+
+
 
 
 
