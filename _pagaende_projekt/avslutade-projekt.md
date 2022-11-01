@@ -83,6 +83,10 @@ Totala kostnaden för garagerenoveringen bedöms till cirka 7 Mkr. Detta finansi
 
 ## Mindre projekt
 
+### Balkongtak
+
+2014-2016 fick våra hus nya balkonger. I samband med garantibesiktningen efter 5 år kunde konstateras att vissa balkongtak hade fått fläckar, som krävde ommålning. Denna genomfördes sommaren 2022 på entreprenörens bekostnad.
+
 ### Hjärtstartare
 
 Under 2022 införskaffades hjärtstartare till hus 1, 3 och 6 som komplettering till den hjärtstartare som sedan tidigare fanns i hus 4.
@@ -101,7 +105,7 @@ Det har anmälts, framförallt från hus 3, att det är skillnad i värme mellan
 
 Nytt golv lades i maj 2020. Utrustningen i rummet kompletterades med en slipmaskin och en liten pelarborr.
 
-### Mer plats i gymmet
+### Utvidgning av gymmet
 
 I samband med ombyggnaden av SDN-lokalen till lägenheter gjordes också en viss omdisponering i källarplanet under. Gamla ventilationsutrymmen blev förråd och tidigare förrådsyta blev expansionsyta för gymmet. 
 
