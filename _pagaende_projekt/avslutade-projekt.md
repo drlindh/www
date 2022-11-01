@@ -25,6 +25,10 @@ Under våren 2019 placerades mätdosor ut. Radonmätningsdosorna skickades för 
 
 Kompletterande mätningar har gjorts i källarvåningar och entréplan, här väntar vi på svar. Ytterligare kompletteringar görs under hösten 2019 i studentrummen som SGS hyr. Detta har varit nödvändigt eftersom otillräckligt med dosor placerats i dessa områden.
 
+### Brandlarm
+
+Under 2021-2022 installerades nytt brandlarm i gemensamma utrymmen. Vid brand någonstans ringer klockor på samtliga våningsplan i det aktuella huset. Fastighetsskötaren och samtliga styrelseledamöter får också via en app i mobilen ett meddelande, där det framgår exakt vilken brandvarnare som löst ut larmet.
+
 ### Ombyggnad av SDN-lokalen i hus 1 till bostadsrätter
 
 
