@@ -23,6 +23,13 @@ Under våren 2019 placerades mätdosor ut i ett antal lägenheter. Radonmätning
 
 Kompletterande mätningar har gjorts i källarvåningar och entréplan. Ytterligare kompletteringar gjordes under hösten 2019 i studentrummen som SGS hyr. Detta var nödvändigt eftersom otillräckligt antal dosor placerats i dessa områden.
 
+### Informationsskärmar
+
+Under 2022 investerade föreningen i ett digitalt skyltsystem för såväl boenderegister som information från styrelsen i hissar och entréer.
+
+Informationstavlor med boenderegister placerades i entrédörrarna, synliga utifrån, samt utanför hissarna. Alla lägenhetsdörrar försågs även med digitala namnskyltar. I hissar och i entréhallarna monterades informationsskärmar som visar notiser från styrelsen eller senaste inläggen på vår hemsida.
+
+
 ### Brandlarm
 
 Under 2021-2022 installerades nytt brandlarm i gemensamma utrymmen. Vid brand någonstans ringer klockor på samtliga våningsplan i det aktuella huset. Fastighetsskötaren och samtliga styrelseledamöter får också via en app i mobilen ett meddelande, där det framgår exakt vilken brandvarnare som löst ut larmet.
