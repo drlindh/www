@@ -20,10 +20,9 @@ Renovering av avloppsledningar i bottenplanet i hus 1, 3 och 4 genomfördes unde
 
 Tack till alla som bidrog till mätningarna genom att ha dosor i sina lägenheter och komma ihåg att lämna in dem i tid!
 
-Mätningar genomförda
-Under våren 2019 placerades mätdosor ut. Radonmätningsdosorna skickades för analys och vi har fått svar. Redovisningen från Radonova är en rapport per lägenhet där mätningar gjorts. Sammantaget visar dessa mätningar att alla våra lägenheter har bra värden, det ligger på 10% – 20% av gränsvärdet som gäller.
+Under våren 2019 placerades mätdosor ut i ett antal lägenheter. Radonmätningsdosorna skickades därefter för analys. Redovisningen från Radonova är en rapport per lägenhet där mätningar gjorts. Sammantaget visar dessa mätningar att alla våra lägenheter har bra värden, som ligger på 10% – 20% av det gränsvärde som gäller.
 
-Kompletterande mätningar har gjorts i källarvåningar och entréplan, här väntar vi på svar. Ytterligare kompletteringar görs under hösten 2019 i studentrummen som SGS hyr. Detta har varit nödvändigt eftersom otillräckligt med dosor placerats i dessa områden.
+Kompletterande mätningar har gjorts i källarvåningar och entréplan. Ytterligare kompletteringar gjordes under hösten 2019 i studentrummen som SGS hyr. Detta var nödvändigt eftersom otillräckligt antal dosor placerats i dessa områden.
 
 ### Brandlarm
 
