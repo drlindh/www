@@ -4,6 +4,10 @@ title: Telefoni, internet och TV
 teaser: /images/uploads/Sladdar liten.jpg
 feature: /images/uploads/Sladdar feature.jpg
 ---
+Föreningen har beslutat att byta leverantör av TV, bredband och telefoni från Telenor till Sappa, då det gällande avtalet löper ut 31 mars 2023. Mera om bytet kan du läsa här:
+
+[Byte av bredbandsleverantör](https://www.drlindh.se/pagaende_projekt/byte-av-bredbandsleverantör)
+
 Föreningen har ett avtal med Telenor som omfattar FiberTV, bredband och IP-telefoni. Bredbandet är 250/250 Mbit/s. FiberTV innebär att TV distribueras genom bredbandet. FiberTV omfattar för närvarande 16 TV kanaler. Samtliga kan ses i HD kvalitet. I avtalet ingår en router och en digital TV-box.
 
 **Ny medlem**, som ny medlem ska du anmäla till Telenor att du övertagit lägenheten och vilka tjänster du vill ha. Du får låna router och TV-box av Telenor och de ska återlämnas när du flyttar.
