@@ -31,6 +31,8 @@ delområdena 3,4 och 5, 6 enligt [tidigare utsänt material](/images/uploads/Bil
 området vid lekplats och fotbollsplan samt område norr om hus 6.
 Tidpunkt för start av etapp 2 bestäms senare.
 
+<a href="/images/uploads/Bilaga_Lindhbladet_var_2022.pdf" style="color: blue; text-decoration: underline">Styrelsens ursprungliga förslag (bilaga till Lindhbladet våren 2022)</a>
+
 
 
 
