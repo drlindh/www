@@ -9,7 +9,7 @@ F﻿öreningen uppgraderar låssystemet till iLOQ 5S. Detta gäller alla utrymme
 
 B﻿yten av låsen är nästan helt klart. Det som är kvar är portlåsen i Hus 1, 3 och 6. Dessa kommer bytas så snart alla medlemmar har fått möjlighet att kvittera ut nya nycklar.
 
-D﻿et kommer finnas möjlighet att kvitter ut nycklar på städdagen den 13 november.
+D﻿et kommer finnas möjlighet att kvittera ut nycklar på städdagen den 13 november.
 
 -﻿--
 
