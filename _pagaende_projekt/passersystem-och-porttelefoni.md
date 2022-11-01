@@ -2,6 +2,7 @@
 layout: page
 title: Passersystem och porttelefoni
 teaser: /images/uploads/Lagenhetsnummer liten.jpg
+feature: /images/uploads/Lagenhetsnummer feature.jpg
 ---
 Föreningens passersystem och porttelefoni börjar bli gammalt och det är svårt att hitta reservdelar när de behöver bytas ut. Därför har styrelsen påbörjat en upphandlingsprocess för att uppgradera dessa system.
 
