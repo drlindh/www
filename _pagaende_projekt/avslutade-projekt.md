@@ -6,14 +6,13 @@ feature: /images/uploads/Ritning nya lgh.jpg
 ---
 ### OVK - obligatorisk ventilationskontroll hösten 2020
 
-Föreningen fick dispens ett år på grund av pandemin, och OVK genomfördes 2021
+Föreningen fick dispens ett år på grund av pandemin, och OVK genomfördes 2021.
 
-
-Enligt plan- och bygglagen ska obligatorisk ventilationskontroll, OVK, utföras regelbundet i alla bostadshus. Det ska ske vart sjätte år för hus med den typ av ventilationssystem vi har, ventilation där frånluftsflödena är fläktstyrda.
+Enligt plan- och bygglagen ska obligatorisk ventilationskontroll, OVK, utföras regelbundet i alla bostadshus. Det ska ske vart sjätte år för hus med den typ av ventilationssystem vi har, där frånluftsflödena är fläktstyrda.
 
 ### Relining - renovering av avloppsledningar i bottenplanet i hus 1, 3 och 4
 
-Renovering av avloppsledningar i bottenplanet i hus 1, 3 och 4 genomfördes under 2020.
+Renovering av avloppsledningar i bottenplanen i hus 1, 3 och 4 genomfördes under 2020.
 
 ### Radonmätning i Brf Doktor Lindh
 
