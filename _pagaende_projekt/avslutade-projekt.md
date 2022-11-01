@@ -28,6 +28,10 @@ Kompletterande mätningar har gjorts i källarvåningar och entréplan. Ytterlig
 
 Under 2021-2022 installerades nytt brandlarm i gemensamma utrymmen. Vid brand någonstans ringer klockor på samtliga våningsplan i det aktuella huset. Fastighetsskötaren och samtliga styrelseledamöter får också via en app i mobilen ett meddelande, där det framgår exakt vilken brandvarnare som löst ut larmet.
 
+### Laddning av elbilar
+
+Under 2021 installerades laddplatser för elbilar på vår parkering. För installationen anlitades Elcab. Laddboxarna levererades av DEFA. Totalt finns nu 20 laddplatser, 12 i övre garaget, 4 på parkeringsdäcket och 4 på gästplatserna.
+
 ### Ombyggnad av SDN-lokalen i hus 1 till bostadsrätter
 
 
@@ -72,6 +76,10 @@ Inom den del av garagebyggnaden som ligger närmast hus 1 utfördes nytt tätski
 Totala kostnaden för garagerenoveringen bedöms till cirka 7 Mkr. Detta finansierades med ett nytt lån samt likvida medel. 
 
 ## Mindre projekt
+
+### Hjärtstartare
+
+Under 2022 införskaffades hjärtstartare till hus 1, 3 och 6 som komplettering till den hjärtstartare som sedan tidigare fanns i hus 4.
 
 ### Byte av radiatorventiler
 
