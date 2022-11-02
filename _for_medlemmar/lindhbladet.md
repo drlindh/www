@@ -12,7 +12,8 @@ Om du är intresserad av tidigare Lindhblad än de som ligger här nedan, så h�
 
 ## Senaste numret av Lindhbladet
 
-* [Lindhbladet 1: 2022](/images/uploads/lindhbladet_1_2022_web.pdf)
+* [Lindhbladet 1: 2022](/images/uploads/lindhbladet_1_2022_web.pdf) med 
+[bilaga](/images/uploads/Bilaga_Lindhbladet_var_2022.pdf)
 
 ## Tidigare nummer av Lindhbladet
 
