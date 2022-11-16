@@ -22,7 +22,7 @@ Föreningens styrelse har möte en gång i månaden, vanligen första helgfria o
 Styrelsens ledamöter har olika ansvarsområden.
 För vissa områden är också medlemmar utanför styrelsen ansvariga.
 
-Kontaktuppgifter till styrelsemedlemmarna hittar du på anslagstavlorna i entreerna.
+Kontaktuppgifter till styrelsemedlemmarna hittar du på anslagstavlorna i entréerna.
 
 ## Revisorer
 
