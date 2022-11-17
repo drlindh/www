@@ -13,7 +13,7 @@ Föreningens styrelse har möte en gång i månaden, vanligen första helgfria o
 * **Sekreterare** Per-Åke Jansson, Hus 1
 * **Kassör** Kent Asp, Hus 4
 * **Ledamot** Stig-Olof Eriksson, Hus 4
-* **Ledamot** Christina Axelsson, Hus 1
+* **Ledamot** Christina Axelson, Hus 1
 * **Ledamot** Johan Bergström, Hus 3
 * **Suppleant** Ulrika Hillberg Enander, Hus 4
 * **Suppleant** Ingrid Mathillas, Hus 3
