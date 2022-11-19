@@ -18,7 +18,7 @@ Om du har frågor om medlemskap eller överlåtelse / försäljning av lägenhet
 
 Överlåtelseavgift betalas av köpare. Handläggning av pantsättning av bostadsrätter handläggs av vår ekonomiske förvaltare Nabo. All korrespondens kan ske direkt med Nabo.
 
-Om du har frågor, vänd dig till Catharina Tagemark, tel 010-2880027. Som medlem kan du också skapa ett ärende i Nabos portal på https://nabo.se.
+Om du har frågor, vänd dig till Catharina Tagemark, lämpligen genom att skapa ett ärende i Nabos ärendeportal på https://nabo.se. Catharina kan alternativt nås på tel 010-288 00 27.
 
 ## Medlemmars respektive föreningens ansvar
 
