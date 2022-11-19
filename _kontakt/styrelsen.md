@@ -13,8 +13,8 @@ Doktor Lindhs gata 3
 
 **E-postadress:** [kontakt@drlindh.se](mailto:kontakt@drlindh.se)
 
-Önskar du kontakt med någon person i styrelsen kan du skicka ett mail till kontakt@drlindh.se, mailboxen öppnas dagligen, e-post vidarebefordras till den person det gäller.
+Önskar du kontakt med någon person i styrelsen kan du skicka ett mail till styrelsens e-postadress [kontakt@drlindh.se](mailto:kontakt@drlindh.se). Mailboxen öppnas dagligen, och all e-post vidarebefordras till den person det gäller. Alternativt kan du klicka på den gröna ikonen Felanmälan på denna sida.
 
 \----
 
-**Webbredaktör:** Per-Åke Jansson, använd styrelsens e-postadress för kontakt: [kontakt@drlindh.se](mailto:kontakt@drlindh.se)
+**Webbredaktör:** Per-Åke Jansson
