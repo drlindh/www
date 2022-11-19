@@ -17,4 +17,4 @@ Doktor Lindhs gata 3
 
 \----
 
-**Webbredaktör:** Per-Åke Jansson
+**Webbredaktör:** Per-Åke Jansson (för kontakt, använd styrelsens e-postadress)
