@@ -10,7 +10,7 @@ För att bli medlem i föreningen måste man vara delägare till minst 10 % i en
 
 Man blir medlem i samband med en överlåtelse. Då ansöker alla blivande delägare om medlemskap i bostadsrättsföreningen med stöd av en överlåtelsehandling. Mäklaren brukar ordna med detta. 
 
-En medlem kan överlåta eller sälja delar av sin andel av bostadsrätten. Man kan också ärva en bostadsrätt. Eller genom upplåtelse, då föreningen säljer en lägenhet.
+En medlem kan överlåta eller sälja delar av sin andel av bostadsrätten. Man kan också ärva en bostadsrätt. 
 
 Om du har frågor om medlemskap eller överlåtelse / försäljning av lägenheten kontakta gärna styrelsens representant för dessa ärenden, Christina Axelson, kontakt@drlindh.se. Om du genomfört en överlåtelse skicka handlingarna, inkl. ansökan om medlemskap, till föreningens ekonomiske förvaltare [Nabo](https://portal.nabo.se/kundportal/login).
 
