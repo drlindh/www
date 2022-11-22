@@ -4,11 +4,9 @@ title: Att hyra ut i andra hand
 teaser: /images/uploads/img_6149 (liten).jpg
 feature: /images/uploads/img_6149 (feature).jpg
 ---
-För andrahandsuthyrning längre tid än en månad krävs styrelsens tillåtelse. Det är tillåtet att hyra ut i max ett (1) år om godtagbara skäl kan anges.
+För andrahandsuthyrning längre tid än en månad krävs styrelsens tillåtelse. Det är tillåtet att hyra ut i max ett (1) år om godtagbara skäl kan anges. Uthyrning av bostadsrätten i andra hand utan styrelsens medgivande kan medföra att nyttjanderätten till bostadsrätten förverkas. 
 
-Uthyrning av bostadsrätten i andra hand utan styrelsens medgivande kan medföra att nyttjanderätten till bostadsrätten förverkas. 
-
-Har ni frågor om andrahandsuthyrning, kontakta gärna styrelsens representant för dessa ärenden per e-post: Christina Axelson, kontakt@drlindh.se. Ansökan om andrahandsuthyrning kan göras i webbportalen hos föreningens ekonomiska förvaltare [Nabo](https://portal.nabo.se/kundportal/login). Välj "Din lägenhet/lokal" i vänsterspalten, och klicka sedan på "Ansökan om andrahandsuthyrning" uppe till höger, så kommer du till ett formulär att fylla i och skicka. Det går också att använda den blankett för ansökan som finns längst ner på denna sida.
+Har ni frågor om andrahandsuthyrning, kontakta gärna styrelsens representant för dessa ärenden per e-post: Christina Axelson,  [kontakt@drlindh.se](mailto:kontakt@drlindh.se). Ansökan om andrahandsuthyrning kan göras i webbportalen hos föreningens ekonomiska förvaltare [Nabo](https://portal.nabo.se/kundportal/login). Välj "Din lägenhet/lokal" i vänsterspalten, och klicka sedan på "Ansökan om andrahandsuthyrning" uppe till höger, så kommer du till ett formulär att fylla i och skicka. Det går också att använda den blankett för ansökan som finns längst ner på denna sida.
 
 ### Ansök i god tid
 
