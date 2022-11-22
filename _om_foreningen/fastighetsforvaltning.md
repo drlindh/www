@@ -4,11 +4,11 @@ title: Fastighetsförvaltning och felanmälan
 teaser: /images/uploads/img_6138 (liten).jpg
 feature: /images/uploads/img_6138 (feature).jpg
 ---
-**Teknisk fastighetsförvaltning sköts av Trädgård & Markmiljö (TMM).**
+Teknisk fastighetsförvaltning sköts av Trädgård & Markmiljö (TMM).
 
-## Kontakt med fastighetsskötaren
+### Kontakt med fastighetsskötaren
 
-**För att kontakta vår Pierre Meths, klicka på den gröna ikonen Felanmälan nere till höger.**
+För att kontakta vår fastighetsskötare Pierre Meths med medarbetare, klicka på den gröna ikonen Felanmälan nere till höger.
 
 Alternativt kan e-post användas.
 
@@ -20,6 +20,6 @@ Alternativt kan e-post användas.
 
 **OBS!** Enskild medlem som tar direktkontakt med leverantör är ansvarig mot leverantören.
 
-## Nycklar och dörrbricka
+### Nycklar och dörrbricka
 
 Nycklar och dörrbrickor administreras av fastighetsskötarna.
