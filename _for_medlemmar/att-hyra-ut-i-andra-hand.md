@@ -6,19 +6,17 @@ feature: /images/uploads/img_6149 (feature).jpg
 ---
 För andrahandsuthyrning längre tid än en månad krävs styrelsens tillåtelse. Det är tillåtet att hyra ut i max ett (1) år om godtagbara skäl kan anges.
 
-Vid andrahandsuthyrning av bostadsrätt ska bostadsrättshavaren säga upp hyresavtal för P-plats och extra förråd. P-plats får inte hyras ut i andra hand.
+Uthyrning av bostadsrätten i andra hand utan styrelsens medgivande kan medföra att nyttjanderätten till bostadsrätten förverkas. 
 
-Har ni frågor om andrahandsuthyrning kontakta gärna styrelsens representant för dessa ärenden per e-post: Christina Axelson, kontakt@drlindh.se. Ansökan om andrahandsuthyrning kan göras i webbportalen hos föreningens ekonomiska förvaltare Nabo, nabo.se. Välj "Din lägenhet/lokal" i vänsterspalten, och klicka sedan på "Ansökan om andrahandsuthyrning" uppe till höger, så kommer du till ett formulär att fylla i och skicka. Det går också att använda den blankett för ansökan som finns längst ner på denna sida.
+Har ni frågor om andrahandsuthyrning, kontakta gärna styrelsens representant för dessa ärenden per e-post: Christina Axelson, kontakt@drlindh.se. Ansökan om andrahandsuthyrning kan göras i webbportalen hos föreningens ekonomiska förvaltare [Nabo](https://portal.nabo.se/kundportal/login). Välj "Din lägenhet/lokal" i vänsterspalten, och klicka sedan på "Ansökan om andrahandsuthyrning" uppe till höger, så kommer du till ett formulär att fylla i och skicka. Det går också att använda den blankett för ansökan som finns längst ner på denna sida.
 
 ### Ansök i god tid
 
 Ansökan ska lämnas in minst en månad före den tidpunkt du önskar att andrahandsuthyrningen ska träda i kraft. Styrelsen måste meddelas om önskemålet att hyra ut i andra hand i så god tid att ärendet hinner behandlas på ett ordinarie styrelsemöte (vanligen första helgfria onsdagen i månaden).
 
-Uthyrning av bostadsrätten i andra hand utan styrelsens medgivande kan medföra att nyttjanderätten till bostadsrätten förverkas. 
-
 ## Policy för andrahandsupplåtelse
 
-Med andrahandsuthyrning menas att en person som inte är delägare i bostadsrätten självständigt förfogar över bostadsrätten. Bostadsrättshavaren har rätt att upplåta sin bostadsrätt i andra hand men måste ha föreningens tillåtelse. Andrahandsuthyrning utan föreningens tillåtelse kan leda till att bostadsrätten förverkas. Bostadsrättshavaren är under andrahandsuthyrningen ansvarig för att avgiften blir inbetald. Det är inte tillåtet att hyra ut sin parkeringsplats i andra hand. Om du hyr ut din bostadsrätt i andra hand skall parkeringsplatsen sägas upp. I mån av plats får parkeringsplats hyras till förhöjd hyra (+ 50%) och med kortare uppsägningstid.
+Med andrahandsuthyrning menas att en person som inte är delägare i bostadsrätten självständigt förfogar över bostadsrätten. Bostadsrättshavaren har rätt att upplåta sin bostadsrätt i andra hand men måste ha föreningens tillåtelse. Andrahandsuthyrning utan föreningens tillåtelse kan leda till att bostadsrätten förverkas. Bostadsrättshavaren är under andrahandsuthyrningen ansvarig för att avgiften blir inbetald. Om du hyr ut din bostadsrätt i andra hand skall eventuell parkeringsplats och extra förråd sägas upp. I mån av plats får parkeringsplats hyras till förhöjd hyra (+ 50%) och med kortare uppsägningstid. Det är inte tillåtet att hyra ut sin parkeringsplats i andra hand. 
 
 **Föreningens principer**
 
