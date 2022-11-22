@@ -12,11 +12,11 @@ Man blir medlem i samband med en överlåtelse. Då ansöker alla blivande delä
 
 En medlem kan överlåta eller sälja delar av sin andel av bostadsrätten. Man kan också ärva en bostadsrätt. 
 
-Om du har frågor om medlemskap eller överlåtelse / försäljning av lägenheten kontakta gärna styrelsens representant för dessa ärenden, Christina Axelson, kontakt@drlindh.se. Om du genomfört en överlåtelse utan att använda mäklare, skicka handlingarna, inklusive ansökan om medlemskap, till föreningens ekonomiske förvaltare [Nabo](https://portal.nabo.se/kundportal/login).
+Om du har frågor om medlemskap eller överlåtelse/försäljning av lägenheten, kontakta gärna styrelsens representant för dessa ärenden, Christina Axelson, kontakt@drlindh.se. Om du genomfört en överlåtelse utan att använda mäklare, skicka handlingarna inklusive ansökan om medlemskap, till föreningens ekonomiska förvaltare [Nabo](https://portal.nabo.se/kundportal/login).
 
 ## Överlåtelse- och pantsättningsavgift tas ut enligt stadgar
 
-Överlåtelseavgift betalas av köpare. Handläggning av pantsättning av bostadsrätter handläggs av vår ekonomiske förvaltare Nabo. All korrespondens kan ske direkt med Nabo.
+Överlåtelseavgift betalas av köpare. Handläggning av pantsättning av bostadsrätter handläggs av vår ekonomiska förvaltare Nabo. All korrespondens kan ske direkt med Nabo.
 
 Om du har frågor, vänd dig till Catharina Tagemark, lämpligen genom att skapa ett ärende i [Nabos kundportal](https://portal.nabo.se/kundportal/login). Alternativt kan Catharina nås på tel 010-288 00 27.
 
