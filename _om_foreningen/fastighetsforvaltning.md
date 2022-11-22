@@ -4,11 +4,13 @@ title: Fastighetsförvaltning och felanmälan
 teaser: /images/uploads/img_6138 (liten).jpg
 feature: /images/uploads/img_6138 (feature).jpg
 ---
-Teknisk fastighetsförvaltning sköts av Svensk markservice (SMS). Fastighetsskötare Pierre Meths mfl.
+**Teknisk fastighetsförvaltning sköts av Trädgård & Markmiljö (TMM).**
 
 ## Kontakt med fastighetsskötaren
 
-**Använd i första hand e-post för att kontakta fastighetsskötaren**
+**För att kontakta vår Pierre Meths, klicka på den gröna ikonen Felanmälan nere till höger.**
+
+Alternativt kan e-post användas.
 
 **E-post:** [fastighetsskotaren@drlindh.se](mailto:fastighetsskotaren@drlindh.se)
 
@@ -18,6 +20,6 @@ Teknisk fastighetsförvaltning sköts av Svensk markservice (SMS). Fastighetssk�
 
 **OBS!** Enskild medlem som tar direktkontakt med leverantör är ansvarig mot leverantören.
 
-## Nycklar och dörr-bricka
+## Nycklar och dörrbricka
 
-Nycklar och dörr-brickor administreras av fastighetsskötarna.
+Nycklar och dörrbrickor administreras av fastighetsskötarna.
