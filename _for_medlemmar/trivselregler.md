@@ -45,4 +45,4 @@ Detta innebär t ex att s k kamphundar är förbjudna. Den boende ansvarar ocks�
 
 ## Rökning
 
-Tobaksrökning skall undvikas på balkonger och i anslutning till bostadshusens entréer, lekplatser och liknande.
+Tobaksrökning skall undvikas på balkonger och i anslutning till bostadshusens entréer och liknande. Rökning på lekplats är förbjudet enligt lag.
