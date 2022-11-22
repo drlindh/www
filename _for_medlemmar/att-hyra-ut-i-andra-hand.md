@@ -18,7 +18,7 @@ Uthyrning av bostadsrätten i andra hand utan styrelsens medgivande kan medföra
 
 ## Policy för andrahandsupplåtelse
 
-Med andrahandsuthyrning menas att en person som inte är delägare i bostadsrätten självständigt förfogar över bostadsrätten. Bostadsrättshavaren har rätt att upplåta sin bostadsrätt i andra hand men måste ha föreningens tillåtelse. Andrahandsuthyrning utan föreningens tillåtelse kan leda till att bostadsrätten förverkas. Bostadsrättshavaren är under andrahandsuthyrningen ansvarig för att avgiften blir inbetald. Det är inte tillåtet att hyra ut sin parkeringsplats i andra hand. Om du hyr ut din bostadsrätt i andra hand skall parkeringsplatsen sägas upp om du inte har fått styrelsens tillstånd till att ha den kvar.
+Med andrahandsuthyrning menas att en person som inte är delägare i bostadsrätten självständigt förfogar över bostadsrätten. Bostadsrättshavaren har rätt att upplåta sin bostadsrätt i andra hand men måste ha föreningens tillåtelse. Andrahandsuthyrning utan föreningens tillåtelse kan leda till att bostadsrätten förverkas. Bostadsrättshavaren är under andrahandsuthyrningen ansvarig för att avgiften blir inbetald. Det är inte tillåtet att hyra ut sin parkeringsplats i andra hand. Om du hyr ut din bostadsrätt i andra hand skall parkeringsplatsen sägas upp. I mån av plats får parkeringsplats hyras till förhöjd hyra (+ 50%) och med kortare uppsägningstid.
 
 **Föreningens principer**
 
