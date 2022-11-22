@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fastighetsskötare och felanmälan
-teaser: /images/uploads/svensk-markservcie-logo.png
+teaser: /images/uploads/tmm_rgb.jpg
 ---
 **För att kontakta fastighetsskötaren, klicka på den gröna ikonen "Felanmälan" längst ned till höger, så kommer du till ett webbformulär. Alternativt kan du använda e-post.** 
 
