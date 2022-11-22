@@ -28,4 +28,4 @@ Av ansvarslistan framgår vem som svarar för vilken del av lägenheten och fast
 
 [Ansvarslista (rev 2014-12-06)](/images/uploads/Ansvarsfordelning_rev_Brf_bilaga_2014-12-06.pdf)
 
-Lägenhetsinnehavare får inte beställa hantverkare för att utföra arbeten som rör sådant som bostadsrättsföreningen ansvarar för. Lägenhetsinnehavaren svarar alltid för kostnader för hantverkare som lägenhetsinnehavaren har beställt eller arbeten som denne låtit utföra – oavsett vilka åtgärder som faktiskt utförts. Det är bara bostadsrättsföreningens styrelse, eller vår fastighetsförvaltare Svensk markservice (SMS), som har rätt att beställa eller låta utföra arbeten för bostadsrättsföreningen.
+Lägenhetsinnehavare får inte beställa hantverkare för att utföra arbeten som rör sådant som bostadsrättsföreningen ansvarar för. Lägenhetsinnehavaren svarar alltid för kostnader för hantverkare som lägenhetsinnehavaren har beställt eller arbeten som denne låtit utföra – oavsett vilka åtgärder som faktiskt utförts. Det är bara bostadsrättsföreningens styrelse, eller vår fastighetsförvaltare Trädgård & Markmiljö (TMM), som har rätt att beställa eller låta utföra arbeten för bostadsrättsföreningen.
