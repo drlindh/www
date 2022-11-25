@@ -14,15 +14,15 @@ Ansökan ska lämnas in minst en månad före den tidpunkt du önskar att andrah
 
 ## Policy för andrahandsupplåtelse
 
-Med andrahandsuthyrning menas att en person som inte är delägare i bostadsrätten självständigt förfogar över bostadsrätten. Bostadsrättshavaren har rätt att upplåta sin bostadsrätt i andra hand men måste ha föreningens tillåtelse. Andrahandsuthyrning utan föreningens tillåtelse kan leda till att bostadsrätten förverkas. Bostadsrättshavaren är under andrahandsuthyrningen ansvarig för att avgiften blir inbetald. Om du hyr ut din bostadsrätt i andra hand skall eventuell parkeringsplats och extra förråd sägas upp. I mån av plats får parkeringsplats hyras till förhöjd hyra (+ 50%) och med kortare uppsägningstid. Det är inte tillåtet att hyra ut sin parkeringsplats i andra hand. 
+Med andrahandsuthyrning menas att en person som inte är delägare i bostadsrätten självständigt förfogar över bostadsrätten. Bostadsrättshavaren har rätt att upplåta sin bostadsrätt i andra hand men måste ha föreningens tillåtelse. Andrahandsuthyrning utan föreningens tillåtelse kan leda till att bostadsrätten förverkas. Bostadsrättshavaren är under andrahandsuthyrningen ansvarig för att avgiften blir inbetald. Om du hyr ut din bostadsrätt i andra hand skall eventuell parkeringsplats och extra förråd sägas upp. I mån av tillgång får parkeringsplats hyras till förhöjd hyra (+ 50%) och med kortare uppsägningstid. Det är inte tillåtet att hyra ut sin parkeringsplats i andra hand. 
 
 **Föreningens principer**
 
-* Andrahandsuthyrning till juridiska personer eller förmedlingstjänster t ex Air BnB är aldrig tillåten
+* Andrahandsuthyrning till juridiska personer eller förmedlingstjänster, t.ex. Air BnB, är aldrig tillåten
 * För andrahandsuthyrning under längre tid än en månad krävs föreningens samtycke. Föreningen beviljar tillstånd för max ett år i taget.
 * Andrahandsuthyrning kan förlängas. För längre tid krävs starkare skäl.
 
-Ansökan om andrahandsuthyrning skall lämnas minst en månad i förväg. Den första ansökan skall vara skriftlig och undertecknad. Ansökan om förlängning kan ske via e-post.
+Ansökan om andrahandsuthyrning skall lämnas minst en månad i förväg. Den första ansökan skall vara skriftlig och undertecknad.
 
 För andrahandsuthyrning debiteras en årlig avgift som motsvarar 10 % av prisbasbeloppet. Denna debiteras månadsvis via avgiften.
 
