@@ -4,9 +4,7 @@ title: Brandvarning
 date: 2022-11-25T16:48:22.626Z
 teaser: /images/uploads/varmeljus.png
 ---
-Nu närmar sig jul och nyårshelgerna. Tänk på att kontrollera brandvarnarna och håll koll på var ni har brandsläckare och brandfilt.
-
-Lämna aldrig brinnande ljus och den som tänder dem ansvarar för att de släcks när ni lämnar rummet.
+Nu närmar sig jul och nyårshelgerna. Tänk på att kontrollera brandvarnarna och håll koll på var ni har brandsläckare och brandfilt. Lämna aldrig brinnande ljus och den som tänder dem ansvarar för att de släcks när ni lämnar rummet.
 
 Nedan går det att se en instruktionsfilm om hur man skyddar sig vid brand i lägenheten.
 
