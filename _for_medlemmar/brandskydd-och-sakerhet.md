@@ -26,9 +26,10 @@ Bostadsrättsföreningen är skyldig att genom regelbunden kontroll se till att 
 
 ## Hjärtstartare
 
-I entrén i Hus 4 finns en hjärtstartare. Alla medlemmar kan komma in i Hus 4 med sin nyckelbricka.
+Hjärtstartare finns i entréerna i alla hus.
+
+Vid akut situation – ring först 112, hämta sedan hjärtstartaren och följ sedan instruktionen. En röst talar om exakt hur man skall gå till väga
 
 ## Lägenhetsdörrar
 
 Alla dörrar in till lägenheterna är säkerhetsdörrar (Daloc) och försedda med ett cylinderlås och ett sjutillhållarlås. Vi rekommenderar alla att använda båda låsen.
-
