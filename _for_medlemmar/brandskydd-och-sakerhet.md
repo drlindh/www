@@ -7,7 +7,7 @@ feature: /images/uploads/img_6152 (feature).jpg
 Det är viktigt att veta hur du ska agera om det börjar brinna i ett flerbostadshus. Titta på informationen från räddningstjänsten om hur du skyddar dig och dina grannar mot brand.
 
 * [Mer om brandskydd](https://www.msb.se/sv/Forebyggande/Brandskydd/)
-* [Brandsäkerhet i flerbostadshus](https://www.msb.se/sv/Forebyggande/Brandskydd/Brandskydd-byggnader-och-anlaggningar/Flerbostadshus/)
+* [Brandsäkerhet i flerbostadshus](https://www.msb.se/sv/publikationer/brandskydd-i-flerbostadshus/)
 
 ## Brandvarnare och brandsläckare
 
