@@ -9,8 +9,8 @@ Det är viktigt att veta hur du ska agera om det börjar brinna i ett flerbostad
 * [Mer om brandskydd](https://www.msb.se/sv/Forebyggande/Brandskydd/)
 * [Brandsäkerhet i flerbostadshus](https://www.msb.se/sv/publikationer/brandskydd-i-flerbostadshus/)
 
-* <iframe src="https://player.vimeo.com/video/655283092?h=564af5ed24" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/655283092">Gl&ouml;m inte att sl&auml;cka ljusen</a> from <a href="https://vimeo.com/informationsbolaget">Informationsbolaget</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/655283092?h=564af5ed24" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Brandvarnare och brandsläckare
 
