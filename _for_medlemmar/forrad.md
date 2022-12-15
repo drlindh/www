@@ -14,7 +14,7 @@ Till varje lägenhet hör ett vindsförråd. Dessa är anpassade till lägenhets
 
 I hus 1:s källare finns 5 stora förråd på 8-13 kvm och ett 30 tal mindre nätförråd på 2-6 kvm som är möjliga att hyra för föreningens medlemmar. Från och med 2023 är hyran för stora förråd 660 kr per kvm och år och för små förråd 216 kr per kvm och år.
 
-För frågor eller önskan att ställa sig i kö för stora eller små förråden maila namn, BRF-nummer, lgh-nummer till kontakt@drlindh.se.
+För frågor eller önskan att ställa sig i kö för stora eller små förråd, maila namn, BRF-nummer, lgh-nummer till kontakt@drlindh.se.
 
 I cykelrummen i vissa av husen finns även en del mindre förråd, av historiska skäl benämnda syltförråd. Från och med 2023 är hyran för dessa 25 kr/månad.
 
