@@ -8,7 +8,7 @@ Lägenhetsförråd, extra förråd och cykelrum
 
 ## Lägenhetsförråd
 
-Till varje lägenhet hör ett vindsförråd. Vindsförråden är anpassade till lägenhetsstorleken, det vill säga att de stora lägenheterna, 4-6 rummare, har stora vindsförråd och 1 rummare har mindre vindsförråd.
+Till varje lägenhet hör ett vindsförråd. Dessa är anpassade till lägenhetsstorleken, det vill säga de stora lägenheterna, 4-6 rum, har stora vindsförråd, och enrummare har mindre vindsförråd.
 
 ## Extra förråd
 
