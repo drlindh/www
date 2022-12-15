@@ -16,6 +16,8 @@ I hus 1:s källare finns 5 stora förråd på 8-13 kvm och ett 30 tal mindre nä
 
 För frågor eller önskan att ställa sig i kö för stora eller små förråden maila namn, BRF-nummer, lgh-nummer till kontakt@drlindh.se.
 
+I cykelrummen i vissa av husen finns även en del mindre förråd, av historiska skäl benämnda syltförråd. Från och med 2023 är hyran för dessa 25 kr/månad.
+
 ## Cykelrum
 
 I varje hus finns rum på entréplan för cyklar. Här förvaras också en del barnvagnar och andra utomhusleksaker.
