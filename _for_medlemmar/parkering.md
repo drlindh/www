@@ -26,7 +26,7 @@ Vid frågor kontakta Nabo, Catharina Tagemark, tel 010-2880027. Du kan också lo
 
 Föreningen har ett antal besöksplatser i anslutning till p-däck och infart vid undre garageporten. Avgift betalas i automaten vid infarten till p-däcket och är mån-fre kl 8-22 6 kr/tim, övrig tid 3 kr/tim. Det är möjligt att betala med hjälp av appen EasyPark eller med mynt.
 
-För gäster till medlemmar finns möjlighet att parkera till reducerad taxa, om man använder parkeringstillståndet som sitter längst bak i Lindhbladet. Notera att den reducerade taxan betalas med appen EasyPark. Den speciella koden som ska användas finns angiven på parkeringstillståndet. Notera att tillståndet endast är giltigt tillsammans med erlagd avgift via appen.
+För gäster till medlemmar finns möjlighet att parkera till reducerad taxa, om man använder parkeringstillståndet som sitter längst bak i Lindhbladet. Priset för helt dygn är då 34,95 kr. Notera att den reducerade taxan betalas med appen EasyPark. Den speciella koden som ska användas finns angiven på parkeringstillståndet. Tillståndet är endast giltigt tillsammans med erlagd avgift via appen.
 
 På två av platserna finns laddstolpar för elbilar. Där kan man ladda genom att ladda hem appen CloudCharge från DEFA. Det kan vara bra att tänka på att gästplatserna med ladduttag endast är till för bilar med pågående laddning.
 
