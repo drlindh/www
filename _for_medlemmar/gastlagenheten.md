@@ -8,7 +8,9 @@ Vår gästlägenhet är enkelt inredd, det finns två sängar, toa och dusch. De
 
 Gästlägenheten är belägen på bottenvåningen på Doktor Lindhs gata 3. Från och med 2023 är avgiften för lägenheten 250 kr per dygn under helgnätter (fredag-söndag) och 200 kr övriga nätter.  Avgiften debiteras på kommande månadsavgiftsavi från Nabo. 
 
-Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillfällig övernattning för gäster till boende inom bostadsrättsföreningen. Då trycket på lägenheten ofta är mycket högt, hyrs lägenheten tills vidare ej ut till medlemmar som inte bor i sina lägenheter. Detta innebär att den som hyr ut sin lägenhet i andra hand inte kan hyra gästlägenheten. Sängarna är utrustade med täcken, kuddar och filtar (allt i syntetmaterial). Den som hyr gästlägenheten ska ha med sig lakan och örngott samt handdukar. Tvål och schampo finns inte i lägenheten.
+Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillfällig övernattning för gäster till boende inom bostadsrättsföreningen. Då trycket på lägenheten ofta är mycket högt, hyrs lägenheten tills vidare ej ut till medlemmar som inte bor i sina lägenheter. Detta innebär att den som hyr ut sin lägenhet i andra hand inte kan hyra gästlägenheten. 
+
+Sängarna är utrustade med täcken, kuddar och filtar (allt i syntetmaterial). Den som hyr gästlägenheten ska ha med sig lakan och örngott samt handdukar. Tvål och schampo finns inte i lägenheten. Ej heller ingår städning.
 
 ## Bokning av gästlägenheten
 
@@ -19,6 +21,6 @@ Du bokar lägenheten genom att kontakta någon av de bokningsansvariga, Per-Åk
 
 Bokning kan ske tidigast tre månader i förväg och senast 2 dagar före incheckningsdag. En bokning får omfatta max 5 nätter. Det går bara att göra en bokning i taget och en ny bokning är möjlig först när föregående bokning är avverkad. Eventuella undantag kan beviljas av bokningsansvarig beroende av det aktuella bokningsläget. 
 
-Information om nyckelutlämning, avbokningsregler och mycket annat hittar du i dokumentet nedan.
+Information om nyckelutlämning, avbokningsregler, städning och mycket annat hittar du i dokumentet nedan.
 
 [Information om gästlägenheten i pdf-format](/images/uploads/Info_om_Gästlägenheten_december22.pdf)
