@@ -8,7 +8,13 @@ Som bostadsrättsinnehavare har du rätt att göra ändringar i din bostad. Tän
 
 ## Tillstånd för ombyggnad och nyinstallation på egen hand
 
-Du har rätt att efter eget val ändra, bygga om eller installera nyheter i din bostad. Men du måste först ha formellt tillstånd av bostadsrättsföreningens styrelse. Det beror på sådant som brandsäkerhet, fastighetens byggkonstruktion samt det faktum att i ägandet ingår rätten att disponera din bostad men ej ägande i egentlig mening. Det är föreningen som äger själva fastigheten.
+Du har rätt att efter eget val ändra, bygga om och installera nyheter i din bostad, men enligt bostadsrättslagen måste du för vissa åtgärder först ha formellt tillstånd av bostadsrättsföreningens styrelse. Det gäller 
+
+* sådant som berör bärande väggar,
+* nyinstallation och ändringar av ledningar för avlopp, vatten eller värme samt ventilations- och rökkanaler,
+* allt som rör brandskydd, t.ex. installation av eldstad.
+
+Detta beror på att i ägandet av bostadsrätten ingår rätten att disponera bostad, men ej ägande av lägenheten i egentlig mening. Det är föreningen som äger fastigheten. 
 
 Ansökan till styrelsen kan lämnas via e-post eller i föreningens brevlåda i entrén i Hus 3.
 
@@ -89,4 +95,4 @@ När du som medlem anlitar hantverkare måste dessa följa samma parkeringsregle
 
 ## Byggavfall
 
-I entréer och på våningsplan får byggavfall endast lämnas högst tillfälligt. Avfall som lämnas utanför husen måste avlägsnas inom 48 timmar. 
+I entréer och på våningsplan får byggavfall endast lämnas högst tillfälligt. Avfall som lämnas utanför husen måste avlägsnas inom 48 timmar.
