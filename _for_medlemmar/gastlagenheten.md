@@ -6,9 +6,9 @@ feature: /images/uploads/gastlgh (feature).jpg
 ---
 Vår gästlägenhet är enkelt inredd, det finns två sängar, toa och dusch. Det finns inga möjligheter att laga mat eller att brygga kaffe.
 
-Gästlägenheten är belägen på bottenvåningen på Doktor Lindhs gata 3. Från och med 2023 är avgiften för lägenheten 250 kr per dygn under helgnätter (fredag-söndag) och 200 kr övriga nätter.  Avgiften debiteras på kommande månadsavgiftsavi från Nabo. 
+Gästlägenheten är belägen på bottenvåningen på Doktor Lindhs gata 3. Avgiften för lägenheten är 250 kr per dygn under helgnätter (fredag-söndag samt vid större helger) och 200 kr övriga nätter.  Avgiften debiteras på kommande månadsavgiftsavi från Nabo. 
 
-Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillfällig övernattning för gäster till boende inom bostadsrättsföreningen. Då trycket på lägenheten ofta är mycket högt, hyrs lägenheten tills vidare ej ut till medlemmar som inte bor i sina lägenheter. Detta innebär att den som hyr ut sin lägenhet i andra hand inte kan hyra gästlägenheten. 
+Lägenheten får endast hyras av föreningens medlemmar och är avsedd för tillfällig övernattning för gäster till boende inom bostadsrättsföreningen. Då trycket på lägenheten ofta är mycket högt, hyrs lägenheten tills vidare ej ut till medlemmar som inte bor i sina lägenheter. Detta innebär att den som hyr ut sin lägenhet i andra hand inte kan hyra gästlägenheten. 
 
 Sängarna är utrustade med täcken, kuddar och filtar (allt i syntetmaterial). Den som hyr gästlägenheten ska ha med sig lakan och örngott samt handdukar. Tvål och schampo finns inte i lägenheten. Ej heller ingår städning.
 
