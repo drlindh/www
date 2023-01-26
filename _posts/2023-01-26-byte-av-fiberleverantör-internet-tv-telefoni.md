@@ -10,4 +10,4 @@ D﻿en 28 mars byter föreningen fiberleverantör från Telenor till Sappa. Dett
 - Då gruppavtalet med Telenor upphör, måste man själv säga upp eventuella privata tillägg till abonnemanget. 
 - Notera också att det nya avtalet med Sappa ej inkluderar telefoni. Har man nu ett befintligt abonnemang hos Telenor behöver det porteras till en annan operatör, t.ex. Sappa eller någon annan.
 - Sappa kommer till föreningen för ett informationsmöte den 21 mars klockan 17:00 i genemsanhetslokalen för att besvara eventuella frågor.
--﻿ Mer information finns på hemsidan under pågående projekt.
+- Mer information finns på hemsidan under pågående projekt.
