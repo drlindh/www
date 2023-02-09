@@ -20,3 +20,5 @@ I de stora hörnlägenheterna på våningsplan 1-7 ingår dessutom en så kallad
 TV-boxen skall kopplas in via en ethernetkabel till routern. Notera att Sappa inte stödjer att man sätter en switch före routern och kopplar in TV-boxen i den, utan TV-boxen måste kopplas via routern.
 
 Den nya TV-boxen stöder inte uppspelning av program som redan visats - däremot är det möjligt att koppla in en hårddisk till TV-boxen för att möjliggöra inspelning av program via fjärrkontrollen. Läs mer om denna funktion i tv-boxens manual.
+
+Sappa kommer till föreningen för ett informationsmöte den 21 mars klockan 17:00 i gemensamhetslokalen för att besvara eventuella frågor.
