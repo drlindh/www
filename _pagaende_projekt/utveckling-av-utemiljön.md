@@ -18,6 +18,7 @@ Efter presentationen av [styrelsens förslag på föreningsstämman](/images/upl
 * Klätterställning installeras mellan norra fotbollsmålet och hus 3.
 * Fotbollsplanen behålls som grusplan.
 * Grusplanen norr om hus 6 utvidgas något. Grill placeras på större avstånd från hus.
+* Häcken utanför hus 3 tas bort och ersätts med något marktäckande.
 * Slutligt val av växter sker i dialog med föreningens utegrupp och entreprenören.
 
 Entreprenaden är uppdelad i två etapper. Etapp 1 är i allt väsentligt avslutad. Denna omfattar 
