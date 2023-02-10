@@ -22,7 +22,7 @@ Efter presentationen av [styrelsens förslag på föreningsstämman](/images/upl
 
 Entreprenaden är uppdelad i två etapper. Etapp 1 är i allt väsentligt avslutad. Denna omfattar 
 delområdena 3, 4 och 5 enligt [tidigare utsänt material](/images/uploads/Bilaga_Lindhbladet_var_2022.pdf), dvs. grillplats mellan hus 4 och 6, 
-området vid lekplats och fotbollsplan samt område norr om hus 6.
+området vid lekplats och fotbollsplan samt område norr om hus 6. Vad som återstår är plantering av växter, där vi avvaktar mildare väder.
 Etapp 2 beräknas starta i slutet av februari.
 
 <a href="/images/uploads/Bilaga_Lindhbladet_var_2022.pdf" style="color: blue; text-decoration: underline">Styrelsens ursprungliga förslag (bilaga till Lindhbladet våren 2022)</a>
