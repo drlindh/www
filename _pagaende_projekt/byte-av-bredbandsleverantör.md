@@ -15,6 +15,8 @@ Detta innebär en del förändringar för alla boende.
 
 I abonnemanget ingår följande kanalpaket:
 
+!\[](/​images/uploads/​Kanaler.jpg)
+
 I de stora hörnlägenheterna på våningsplan 1-7 ingår dessutom en så kallad extender. Denna kan placeras någonstans inne i lägenheten för att förlänga räckvidden på WiFi:t.
 
 TV-boxen skall kopplas in via en ethernetkabel till routern. Notera att Sappa inte stödjer att man sätter en switch före routern och kopplar in TV-boxen i den, utan TV-boxen måste kopplas via routern.
