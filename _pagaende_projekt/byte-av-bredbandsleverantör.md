@@ -15,7 +15,7 @@ Detta innebär en del förändringar för alla boende.
 
 I abonnemanget ingår följande kanalpaket:
 
-!\[](/​images/uploads/​Kanaler.jpg)
+
 
 I de stora hörnlägenheterna på våningsplan 1-7 ingår dessutom en så kallad extender. Denna kan placeras någonstans inne i lägenheten för att förlänga räckvidden på WiFi:t.
 
