@@ -24,3 +24,5 @@ TV-boxen skall kopplas in via en ethernetkabel till routern. Notera att Sappa in
 Den nya TV-boxen stöder inte uppspelning av program som redan visats - däremot är det möjligt att koppla in en hårddisk till TV-boxen för att möjliggöra inspelning av program via fjärrkontrollen. Läs mer om denna funktion i tv-boxens manual.
 
 Sappa kommer till föreningen för ett informationsmöte den 21 mars klockan 17:00 i gemensamhetslokalen för att besvara eventuella frågor.
+
+[Välkomstbrev från Sappa](/images/uploads/Valkomstbrev_Brf_Doktor_Lindh.pdf)
