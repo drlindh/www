@@ -8,11 +8,11 @@ Som tidigare meddelats byter föreningen bredbandsleverantör från Telenor till
 
 [Sappa presentation 21 mars](/images/uploads/presentation_Sappa.pdf)
 
-Flera frågor gällde inkopplingen av den extender, som ingår för att förbättra nätverkets räckvidd i de större lägenheterna. Från Sappa har vi fått en skiss, som tydliggör hur denna skall kopplas in. Här finns också QR-koder till installationsanvisningar för routern och extendern.
+Flera frågor gällde den extender, som ingår för att förbättra nätverkets räckvidd i de större lägenheterna. Observera att extendrarna distribueras via husråden till skillnad från övrig utrustning, som skickas från Sappa direkt. Från Sappa har vi också fått en skiss, som tydliggör hur extendern skall kopplas in. Här finns också QR-koder till installationsanvisningar för routern och extendern.
 
 [Installationsanvisningar router och extender](/images/uploads/installation_router-extender.pdf)
 
-För den som behöver ytterligare hjälp med installationen finns ett VIP-nummer att ringa (se sista sidan i Sappas presentation). Förhoppningsvis finns det också grannar som kan bistå den som kör fast. 
+För den som behöver ytterligare hjälp med installationen finns ett VIP-nummer att ringa (se sista sidan i Sappas presentation). Förhoppningsvis finns det också en eller annan granne som kan bistå den som kör fast. 
 
 Sappa har dessutom ett avtal med företaget Hemfixarna, som kan ge service på plats. <https://hemfixarna.se/sappa/>.
 
