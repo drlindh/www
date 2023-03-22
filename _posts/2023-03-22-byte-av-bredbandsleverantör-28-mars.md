@@ -10,7 +10,7 @@ Som tidigare meddelats byter föreningen bredbandsleverantör från Telenor till
 
 Flera frågor gällde inkopplingen av den extender, som ingår för att förbättra nätverkets räckvidd i de större lägenheterna. Från Sappa har vi fått en skiss, som tydliggör hur denna skall kopplas in. Här finns också QR-koder till installationsanvisningar för routern och extendern.
 
-[Installationsanvisningar router och extender](/images/uploads/installation_router+extender.pdf)
+[Installationsanvisningar router och extender](/images/uploads/installation_router-extender.pdf)
 
 För den som behöver ytterligare hjälp med installationen finns ett VIP-nummer att ringa (se sista sidan i Sappas presentation). Förhoppningsvis finns det också grannar som kan bistå den som kör fast. 
 
