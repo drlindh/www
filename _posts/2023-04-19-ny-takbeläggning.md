@@ -5,7 +5,6 @@ date: 2023-04-19T22:12:51.820Z
 teaser: /images/uploads/img_6220 (liten).jpg
 ---
 Den 27 april startar arbetet med ny takbeläggning. Arbetet kommer att pågå 4-6 veckor.
-
 Entreprenör är Engman Tak AB.
 
 Torsdagen den **27 april** kommer takpapp m.m. att lyftas upp på taken till **hus 3 och 6**.
