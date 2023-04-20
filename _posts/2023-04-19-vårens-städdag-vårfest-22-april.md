@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vårens städdag & vårfest 22 april
+title: Städdag & vårfest 22 april
 date: 2023-04-19T22:22:43.630Z
 teaser: /images/uploads/container.png
 feature: ""
