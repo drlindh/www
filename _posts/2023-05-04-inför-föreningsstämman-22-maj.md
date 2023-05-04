@@ -14,6 +14,6 @@ Här är handlingarna till föreningsstämman, som äger rum måndagen den 22 ma
 
 [Styrelsens proposition om installation av solceller](/images/uploads/Proposition_föreningsstämma_2023.pdf)
 
-Du som önskar företrädas av ombud på stämman ombedes fylla i denna [fullmaktsblankett](/images/uploads/Fullmakt:2023.pdf), som ombudet medför till stämman.
+Du som önskar företrädas av ombud på stämman ombedes fylla i denna [fullmaktsblankett](/images/uploads/Fullmakt_2023.pdf), som ombudet medför till stämman.
 
 
