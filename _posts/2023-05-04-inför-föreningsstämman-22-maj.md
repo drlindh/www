@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inför föreningsstämman 22 maj
+title: Inför föreningsstämman
 date: 2023-05-04T12:43:36.435Z
 teaser: /images/uploads/arsredovisning.png
 ---
