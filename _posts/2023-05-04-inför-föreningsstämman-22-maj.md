@@ -14,7 +14,7 @@ Här är handlingarna till föreningsstämman, som äger rum måndagen den 22 ma
 
 [Styrelsens proposition om installation av solceller](/images/uploads/Proposition_föreningsstämma_2023.pdf)
 
-
+[Bygglov](images/uploads/Bygglov.pdf)
 
 [Utredning av Palö Konsult](/images/uploads/Förstudie_solceller_Brf_Dr_Lindh_Palö.pdf)
 
