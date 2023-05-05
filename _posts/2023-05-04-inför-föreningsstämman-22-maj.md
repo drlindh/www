@@ -8,7 +8,7 @@ Här är handlingarna till föreningsstämman, som äger rum måndagen den 22 ma
 
 [Kallelse](/images/uploads/Kallelse_föreningsstämma_2023.pdf)
 
-[Årsredovisning och revisionsberättelser](/images/uploads/Årsredovisning_2022.pdf)
+[Årsredovisning och revisionsberättelser](/images/uploads/Årsredovisning_2022.pdf) 
 
 [Valberedningens förslag till styrelse och revisorer](/images/uploads/Valberedningens_förslag_2023.pdf)
 
