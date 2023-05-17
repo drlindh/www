@@ -14,5 +14,7 @@ Hus 4: 1-9 juni
 
 
 Vänligen undvik därför transport av större föremål under aktuell period, eftersom framkomligheten  tidvis kommer att vara begränsad.
+
 Entreprenör är Ajour Trading AB.
+
 Kontaktman Martin Löhesaar 070-7907704
