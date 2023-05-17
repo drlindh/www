@@ -8,8 +8,11 @@ Golven i våra entréer skall renoveras. För hus 3 har detta redan utförts.
 Här kommer enbart underhållsslipning att utföras. För arbetet gäller följande tidplan:
 
 Hus 6 : 22-25 maj
+
 Hus 3  25-26 maj   
+
 Hus 1: 29 maj-1 juni
+
 Hus 4: 1-9 juni
 
 
