@@ -14,9 +14,9 @@ Parkeringsplatsen hör inte till lägenheten utan plats söks i särskild or
 
 Andrahandsuthyrning av p-platser i garage och på p-däck är inte tillåten. Vid andrahandsuthyrning av lägenhet förfaller omgående hyresrätten till parkeringsplats.
 
-På parkeringsplatsen får enbart kördugligt och registrerat fordon parkeras. Det betyder att platsen endast är avsedd för fordon, det är inte tillåtet att förvara andra saker som däck, takbox m.m. på parkeringsplatsen.
+I﻿ mån av plats hyr föreningen ut parkeringsplatser till medlemmar som ej bor i föreningen, samt personer som ej är medlemmar i föreningen, t.ex. andrahandshyresgäster. Dessa platser hyrs ut med kortare uppsägningstid, samt med en förhöjd hyra (+50% + moms). Kontakta styrelsen om ni är intresserade av en sådan plats.
 
-I﻿ mån av plats hyr föreningen ut parkeringsplatser till medlemmar som ej bor i föreningen, samt personer som ej är medlemmar i föreningen. Dessa platser hyrs ut med kortare uppsägningstid, samt med en förhöjd hyra (+50%). Kontakta styrelsen om ni är intresserade av en sådan plats.
+På parkeringsplatsen får enbart kördugligt och registrerat fordon parkeras. Det betyder att platsen endast är avsedd för fordon, det är inte tillåtet att förvara andra saker som däck, takbox m.m. på parkeringsplatsen.
 
 **Frågor om parkeringsplatser**
 
