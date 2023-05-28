@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Årsstämman gemomförd
+title: Årsstämman genomförd
 date: 2023-05-28T21:20:25.853Z
 teaser: /images/uploads/klubba.png
 ---
