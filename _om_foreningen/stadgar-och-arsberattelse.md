@@ -12,7 +12,8 @@ Föreningens stadgar är reviderade för att följa de senaste lagändringarna f
 
 ## Årsredovisning
 
-Föreningens årsstämma hålls normalt i månadsskiftet april/maj varje år. 
+Föreningens årsstämma hålls normalt i maj varje år. 
+* [2022 Årsredovisning](/images/uploads/Årsredovisning_2022.pdf)
 * [2021 Årsredovisning](/images/uploads/Årsredovisning_2021.pdf)
 * [2020 Årsredovisning](/images/uploads/Årsredovisning_2020.pdf)
 * [2019 Årsredovisning](/images/uploads/årsredovisning-2019.pdf)
