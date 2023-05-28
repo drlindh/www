@@ -6,7 +6,7 @@ feature: /images/uploads/Postlada feature.jpg
 ---
 Föreningens styrelse har möte en gång i månaden, vanligen första helgfria onsdagen i månaden. 
 
-## Styrelsen verksamhetsåret 2022-2023
+## Styrelsen verksamhetsåret 2023-2024
 
 * **Ordförande** Markus Berglund, Hus 4
 * **Vice ordförande** Christer Norén, Hus 3	
@@ -15,9 +15,9 @@ Föreningens styrelse har möte en gång i månaden, vanligen första helgfria o
 * **Ledamot** Stig-Olof Eriksson, Hus 4
 * **Ledamot** Christina Axelson, Hus 1
 * **Ledamot** Johan Bergström, Hus 3
-* **Suppleant** Ulrika Hillberg Enander, Hus 4
 * **Suppleant** Ingrid Mathillas, Hus 3
 * **Suppleant** Cristina Maglio, Hus 1
+* **Suppleant** Per Magnus Hansson, Hus 6
 
 Styrelsens ledamöter har olika ansvarsområden.
 För vissa områden är också medlemmar utanför styrelsen ansvariga.
@@ -27,7 +27,7 @@ Kontaktuppgifter till styrelsemedlemmarna hittar du på anslagstavlorna i entré
 ## Revisorer
 
 * Bernt Nielsen, ordinarie
-* Hans Ragneskog, suppleant
+* Tommy Åberg, suppleant
 
 ## Valberedning
 
