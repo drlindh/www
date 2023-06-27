@@ -10,7 +10,7 @@ Bredbandshastigheten är upp till 1000/1000 Mbit/s. 
 
 För närvarande ingår 19 TV-kanaler i basutbudet. Samtliga kan ses i HD-kvalitet. Vill man ha fler kanaler kan man köpa större kanalpaket. Merkostnaden får medlemmen själv betala. Läs mer på  <https://sappa.se/tv-paket> 
 
-I avtalet ingår en router och en digital TV-box. I de stora hörnlägenheterna på våningsplan 1-7 ingår dessutom en så kallad extender. Denna kan placeras någonstans inne i lägenheten för att förlänga räckvidden på det trådlösa nätverket. Utrustningen hör till lägenheten och skall lämnas kvar vid avflyttning. Som nyinflyttad kan du skapa ett konto hos Sappa på sappa.se/aktivera.
+I avtalet ingår en router och en digital TV-box. I de stora hörnlägenheterna på våningsplan 1-7 ingår dessutom en så kallad extender. Denna kan placeras någonstans inne i lägenheten för att förlänga räckvidden på det trådlösa nätverket. Utrustningen hör till lägenheten och skall lämnas kvar vid avflyttning. Som nyinflyttad kan du skapa ett konto hos Sappa på <sappa.se/aktivera>.
 
 Installationsanvisningar för router och extender hittar du på <https://www.drlindh.se/images/uploads/installation_router-extender.pdf>
 
