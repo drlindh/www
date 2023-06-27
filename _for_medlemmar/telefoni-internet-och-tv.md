@@ -1,44 +1,32 @@
 ---
 layout: page
-title: Telefoni, internet och TV
+title: Bredband, TV och telefoni
 teaser: /images/uploads/Sladdar liten.jpg
 feature: /images/uploads/Sladdar feature.jpg
 ---
-Föreningen har beslutat att byta leverantör av TV, bredband och telefoni från Telenor till Sappa, då det gällande avtalet löper ut 31 mars 2023. Mera om bytet kan du läsa här:
+Föreningen har ett avtal med Sappa som omfattar bredband och TV. 
 
-[Byte av bredbandsleverantör](https://www.drlindh.se/pagaende_projekt/byte-av-bredbandsleverantör)
+Bredbandshastigheten är upp till 1000/1000 Mbit/s. 
 
-Föreningen har ett avtal med Telenor som omfattar FiberTV, bredband och IP-telefoni. Bredbandet är 250/250 Mbit/s. FiberTV innebär att TV distribueras genom bredbandet. FiberTV omfattar för närvarande 16 TV kanaler. Samtliga kan ses i HD kvalitet. I avtalet ingår en router och en digital TV-box.
+För närvarande ingår 19 TV-kanaler i basutbudet. Samtliga kan ses i HD-kvalitet. Vill man ha fler kanaler kan man köpa större kanalpaket. Merkostnaden får medlemmen själv betala. Läs mer på  <https://sappa.se/tv-paket> 
 
-**Ny medlem**, som ny medlem ska du anmäla till Telenor att du övertagit lägenheten och vilka tjänster du vill ha. Du får låna router och TV-box av Telenor och de ska återlämnas när du flyttar.
+I avtalet ingår en router och en digital TV-box. I de stora hörnlägenheterna på våningsplan 1-7 ingår dessutom en så kallad extender. Denna kan placeras någonstans inne i lägenheten för att förlänga räckvidden på det trådlösa nätverket. Utrustningen hör till lägenheten och skall lämnas kvar vid avflyttning. Som nyinflyttad kan du skapa ett konto hos Sappa på sappa.se/aktivera.
 
-### **Telenors** kundsupport
+Installationsanvisningar för router och extender hittar du på <https://www.drlindh.se/images/uploads/installation_router-extender.pdf>
 
-Kundsupport, tel. 020-222 222, dit ringer man vid alla typer av problem som rör Telenor. Man ringer dit också när man vill beställa saker, allt från prylar till tjänster och tekniker som kommer hem och gör saker. Allt som är utöver avtalet måste man betala själv.
+Notera att TV-boxen antingen måste kopplas med kabel direkt till routern (i ett av de uttag som är avsedda är TV), alternativt kan man koppla en kabel mellan router och extender, och koppla en kabel från TV-boxen till extendern. Det är inte möjligt att koppla TV:n till extendern om extendern inte har kabelanslutning till routern.
 
-[Telenor kundservice](https://www.telenor.se/kundservice/)
+Digitalboxen stöder inte uppspelning av program som redan visats – däremot är det möjligt att koppla in en hårddisk till boxen för att möjliggöra inspelning av program via fjärrkontrollen. Läs mer om denna funktion i boxens manual.
+
+I avtalet ingår också playtjänsten Sappa Play där du kan streama de flesta kanalerna från ditt utbud till mobil, surfplatta eller dator. Första gången du loggar in behöver du registrera ett konto på sappaplay.se eller i appen Sappa Play.
+
+Vill du ha fast telefoni kan du kontakta Sappa på 0770-45 73 47. Fast telefoni kostar 29 kr/mån – en låg samtalskostnad tillkommer.
+
+På sappa.se/kundsupport hittar du svar på vanliga frågor och hjälpguider för alla tjänster.
 
 ## Avbrott i telekommunikationen
 
-Vid avbrott i bredbandsanslutningen fungerar ingenting. TV fungerar inte, där kan finnas meddelande om att nätverkskontakt saknas. IP-telefonen fungerar inte, det går inte att ringa och det går inte att ta emot samtal. När bredbandet inte fungerar går det inte att surfa på Internet, det går inte att skicka eller ta emot e-post. Första åtgärd är att stänga av strömmen till routern, vänta 30 sek och sedan starta routern igen. Om det fortfarande är problem, ring Telenors kundsupport, 020-222 222.
-
-## **FiberTV**
-
-Föreningen har avtal med Telenor om FiberTV. FiberTV distribueras genom bredbandet. I avtalet ingår en digital TV-box och tjänsten T1 Bas. I T1 Bas ingår tjänsten Telenor Stream. Vill man ha fler kanaler kan man köpa större kanalpaket, T2 Flex eller T3 Stor. Merkostnaden får medlemmen själv betala.
-
-**Telenor Stream**
-
-Telenor Stream gör att man kan se på Telenors TV utbud på vilken apparat som helst som har en skärm. Man kan t.ex. se på 2 TV-apparater i lägenheten, eller så kan man se på TV i sommarstugan, bara man har tillgång till Internet. Det som krävs är att man registrerar ett konto hos Telenor. Man behöver ha sitt kundnummer hos Telenor. Gå in på <https://www.telenor.se/stream>. Välj Logga in. Välj sedan att du redan är Telenorkund. Svara sen på frågorna. Du väljer själv lösenord, kom ihåg det sen.
-
-Får du problem, kan du ringa Kundtjänst  020-222 222, så får du hjälp. Tänk på att alltid ha ditt kundnummer framme.
-
-Telenor Stream är en app som man laddar ner och installerar på en enhet med skärm, t.ex. dator, smartphone, iPad, AppleTV, Chromecast.
-
-## E-post
-
-Om Du har e-post-adress @drlindh.se och vill läsa den från en annan dator än din egen kan du logga in via webmail på adress: http://www.webbpost.tele2.se.
-
-Inga nya e-postadresser @drlindh.se delas ut, och de som finns kommer successivt att avvecklas.
+Vid avbrott i bredbandsanslutningen fungerar ingenting. TV fungerar inte, där kan finnas meddelande om att nätverkskontakt saknas. När bredbandet inte fungerar går det inte att surfa på Internet, det går inte att skicka eller ta emot e-post. Eventuell IP-telefon fungerar inte, det går inte att ringa och det går inte att ta emot samtal. Första åtgärd är då att stänga av strömmen till routern, vänta 30 sek och sedan starta routern igen. Om det fortfarande är problem, kontakta Sappas kundsupport 0770-45 73 47.
 
 ## Parabol
 
