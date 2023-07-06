@@ -19,7 +19,7 @@ Med andrahandsuthyrning menas att en person som inte är delägare i bostadsra
 **Föreningens principer**
 
 * Andrahandsuthyrning till juridiska personer eller förmedlingstjänster, t.ex. Air BnB, är aldrig tillåten
-* För andrahandsuthyrning under längre tid än en månad krävs föreningens samtycke. Föreningen beviljar tillstånd för max ett år i taget.
+* För andrahandsuthyrning krävs föreningens samtycke. Föreningen beviljar tillstånd för max ett år i taget.
 * Andrahandsuthyrning kan förlängas. För längre tid krävs starkare skäl.
 * Ansökan om andrahandsuthyrning skall lämnas minst en månad i förväg. 
 * För andrahandsuthyrning debiteras en årlig avgift som motsvarar 10 % av prisbasbeloppet. Denna debiteras månadsvis via avgiften.
