@@ -12,11 +12,7 @@ Husen värms med fjärrvärme och det är vattenburen värme i lägenheterna. An
 
 ## El
 
-Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar därför el via månadsavgiften till föreningen. Avstämning görs årligen.
-
-Det är möjligt för medlemmar att teckna sk hängavtal med leverantören för el till tex fritidshus.
-
-[Information om Enkla elbolagets hängavtal](/images/uploads/Enkla_elbolaget_Hangavtal_fritidshus.pdf)
+Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar därför el via månadsavgiften till föreningen. Avstämning görs varje månad..
 
 ## Balkonger
 
