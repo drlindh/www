@@ -49,7 +49,7 @@ Visst avfall, t.ex. elektronik, är alltid gratis. Här kan du läsa mer om åte
 
 ## Container
 
-Container beställs till föreningen i samband med höst- och vårstädning, i januari (julgranar) samt normalt ytterligare ett par gånger om året.
+Container för grovsopor beställs till föreningen i samband med höst- och vårstädning, i januari (julgranar) samt normalt ytterligare ett par gånger om året.
 
 ## Farligt avfallbilen
 
