@@ -49,13 +49,7 @@ Visst avfall, t.ex. elektronik, är alltid gratis. Här kan du läsa mer om åte
 
 ## Container
 
-Container beställs till föreningen regelbundet, torsdag till söndag, följande veckor (preliminär planering):
-
-* Vecka 1, för julgranar mm
-* Vecka 16, eller i samband med föreningens vårstädning
-* Vecka 21
-* Vecka 35
-* Vecka 42, eller i samband med föreningens höststädning
+Container beställs till föreningen i samband med höst- och vårstädning, i januari (julgranar) samt normalt ytterligare ett par gånger om året.
 
 ## Farligt avfallbilen
 
