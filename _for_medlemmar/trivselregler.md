@@ -20,7 +20,7 @@ Ljusa vår- och sommarkvällar lockar till fotbollsspel och är tillåtet fram t
 
 ## Grillning
 
-Föreningen har anordnat en grillplats mellan husen 4 och 6 som medlemmarna uppmanas att använda. Grillning på balkongerna medför olägenheter för grannar i form av rök och innebär brandrisk och är därför inte tillåtet.
+Inom området finns två grillplatser, som medlemmarna uppmanas att använda. Den ena är belägen mellan hus 4 och hus 6, den andra på norra sidan av hus 6. Grillning på balkongerna är inte tillåten, eftersom detta dels medför olägenheter för grannar i form av rök och grillos, dels innebär brandrisk.
 
 ## Fester
 
