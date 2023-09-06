@@ -6,7 +6,7 @@ feature: /images/uploads/img_6149 (feature).jpg
 ---
 För andrahandsuthyrning krävs styrelsens tillåtelse. Det är tillåtet att hyra ut i max ett (1) år om godtagbara skäl kan anges. Uthyrning av bostadsrätten i andra hand utan styrelsens medgivande kan medföra att nyttjanderätten till bostadsrätten förverkas. 
 
-Har ni frågor om andrahandsuthyrning, kontakta gärna styrelsens representant för dessa ärenden per e-post: Christina Axelson,  [kontakt@drlindh.se](mailto:kontakt@drlindh.se). Ansökan om andrahandsuthyrning kan göras i webbportalen hos föreningens ekonomiska förvaltare [Nabo](https://portal.nabo.se/kundportal/login). Välj "Din lägenhet/lokal" i vänsterspalten, och klicka sedan på "Ansökan om andrahandsuthyrning" uppe till höger, så kommer du till ett formulär att fylla i och skicka. Det går också att använda den blankett för ansökan som finns längst ner på denna sida.
+Har ni frågor om andrahandsuthyrning, kontakta gärna styrelsens representant för dessa ärenden per e-post: Christina Axelson,  [kontakt@drlindh.se](mailto:kontakt@drlindh.se). Ansökan om andrahandsuthyrning kan göras i webbportalen hos föreningens ekonomiska förvaltare [Nabo](https://portal.nabo.se/kundportal/login). Välj "Din lägenhet/lokal" i vänsterspalten, och klicka sedan på "Ansökan om andrahandsuthyrning" uppe till höger, så kommer du till ett formulär att fylla i och skicka.
 
 ### Ansök i god tid
 
@@ -24,7 +24,6 @@ Med andrahandsuthyrning menas att en person som inte är delägare i bostadsra
 * Ansökan om andrahandsuthyrning skall lämnas minst en månad i förväg. 
 * För andrahandsuthyrning debiteras en årlig avgift som motsvarar 10 % av prisbasbeloppet. Denna debiteras månadsvis via avgiften.
 
-
 **Exempel på godtagbara skäl för andrahandsuthyrning**
 
 * Studier, arbete eller praktik på annan ort under begränsad tid
@@ -40,5 +39,3 @@ Vi rekommenderar att du inte hyr ut till rökare eftersom röklukt kan uppleva
 Föreningen ansvarar genom fastighetsskötaren för att din dörrskylt förses med namnuppgift på hyresgästen.
 
 [Policy för andrahandsuthyrning i pdf-format](/images/uploads/Policy_for_andrahandsupplatelse.pdf)
-
-[Blankett för ansökan om andrahandsuthyrning](/images/uploads/Ans_andrahandsuth_2019.pdf)
