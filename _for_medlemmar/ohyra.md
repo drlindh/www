@@ -7,4 +7,4 @@ Om du drabbas av ohyra (mjölbaggar, vägglöss, kackerlackor,…), är du skyld
 [kontakt@drlindh.se](mailto:kontakt@drlindh.se)
 
 [](mailto:kontakt@drlindh.se)
-Föreningen har fastighetsförsäkring med individuellt bostadsrättstillägg hos Länsförsäkringar, som har avtal med Anticimex. Du kan själv [göra skadeanmälan direkt till Anticimex](https://www.anticimex.se/formular/skadedjursproblem-lagenhet).
+Föreningen har fastighetsförsäkring med individuellt bostadsrättstillägg hos Länsförsäkringar. Kontakta Länsförsäkringar för att göra skadeanmälan.
