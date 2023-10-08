@@ -23,4 +23,4 @@ Bokning kan ske tidigast tre månader i förväg och senast 2 dagar före inc
 
 Information om nyckelutlämning, avbokningsregler, städning och mycket annat hittar du i dokumentet nedan.
 
-[Information om gästlägenheten i pdf-format](/images/uploads/Info_om_Gästlägenheten_oktober_23.pdf)
+[Information om gästlägenheten i pdf-format](/images/uploads/Info_om_Gastlagenheten_oktober_23.pdf)
