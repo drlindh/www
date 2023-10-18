@@ -33,7 +33,6 @@ Här finns möjlighet att lämna:
 
 * Elektronik (TV-apparater, datorer, skrivare, brödrost m.m.)
 * Batterier (små), lågenergilampor, glödlampor, lysrör
-* Vitvaror (inkl. kyl och frys)
 
 **Tips!** när du köper kylskåp, frys, tvättmaskin, TV m.m. så betalar du också för att leverantören skall ta hand om din gamla apparat.
 
