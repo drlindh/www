@@ -31,7 +31,7 @@ I alla våra soprum är det möjligt att källsortera skräp. I soprummet kan du
 
 Här finns möjlighet att lämna:
 
-* Elektronik (TV-apparater, datorer, skrivare, brödrost m.m.)
+* Elektronik (TV-apparater, datorer, skrivare, brödrostar m.m.)
 * Batterier (små), lågenergilampor, glödlampor, lysrör
 
 Däremot kan du inte lämna vitvaror här. Om du köpt exempelvis kyl och frys med hemleverans, brukar leverantören i allmänhet ta hand om den uttjänta produkten.
