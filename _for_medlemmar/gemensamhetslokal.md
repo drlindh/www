@@ -22,4 +22,4 @@ Lokalen bokas genom att skicka mejl till:
 
 Ange lägenhetsnummer (föreningens interna samt nummer enligt skatteverkets regler), e-postadress samt önskat datum när du önskar hyra lokalen.
 
-[Information om bokning av gemensamhetslokalen (pdf)](/images/uploads/Riktlinjer_Gemensamhetslokal_juni_2023_2.pdf)
+[Information om bokning av gemensamhetslokalen (pdf)](/images/uploads/Riktlinjer_Gemensamhetslokal_juni_2023.pdf)
