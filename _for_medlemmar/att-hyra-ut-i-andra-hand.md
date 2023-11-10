@@ -22,7 +22,7 @@ Med andrahandsuthyrning menas att en person som inte är delägare i bostadsra
 * För andrahandsuthyrning krävs föreningens samtycke. Föreningen beviljar tillstånd för max ett år i taget.
 * Andrahandsuthyrning kan förlängas. För längre tid krävs starkare skäl.
 * Ansökan om andrahandsuthyrning skall lämnas minst en månad i förväg. 
-* För andrahandsuthyrning debiteras en årlig avgift som motsvarar 10 % av prisbasbeloppet. Denna debiteras månadsvis via avgiften.
+* För att täcka föreningens administrativa merkostnader debiteras en årlig avgift för andrahandsuthyrning. Avgiften motsvarar 10 % av prisbasbeloppet. Medlem som hyr ut sin lägenhet i andra hand har ju heller inte möjlighet att hjälpa till med föreningsarbete, t.ex. i samband med städdagar. Avgiften debiteras månadsvis via avgiften. 
 
 **Exempel på godtagbara skäl för andrahandsuthyrning**
 
