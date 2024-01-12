@@ -24,7 +24,7 @@ Varje lägenhet har även ett nummer fastställt av lantmäteriverket. Numret st
 
 ## Bredband
 
-Föreningen har avtal med Sappa om bredband.  Detta omfattar internetuppkoppling och basutbud för TV. Kostnaden ingår i din månadsavgift till föreningen. Tilläggstjänster som inte ingår i avtalet betalar var och en själv. När du är ny medlem ska du anmäla till Sappa att du övertagit lägenheten och vilka tjänster du vill ha. Router och TV-box tillhör lägenheten och ska lämnas kvar när du flyttar. Till de större lägenheterna hör öven en s.k. extender för att öka nätverkets räckvidd.
+Föreningen har avtal med Sappa om bredband.  Detta omfattar internetuppkoppling och basutbud för TV. Kostnaden ingår i din månadsavgift till föreningen. Tilläggstjänster som inte ingår i avtalet betalar var och en själv. När du är ny medlem ska du anmäla till Sappa att du övertagit lägenheten och vilka tjänster du vill ha. Router och TV-box tillhör lägenheten och ska lämnas kvar när du flyttar. Till de större lägenheterna hör även en s.k. extender för att öka nätverkets räckvidd.
 
 [Mera information hittar du här](https://www.drlindh.se/for_medlemmar/bredband-tv-och-telefoni)
 
