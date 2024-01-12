@@ -22,7 +22,7 @@ Förhoppningsvis har du redan fått ditt namn på namnskylten bredvid dörren oc
 
 Våra lägenheter har två olika nummer, dels Brf-numret som är unikt inom föreningen för varje lägenhet. Detta nummer används vid kontakt med föreningen, för bokning av tvättstugan och numrering av vindsförråden. Det används även när man skriver lägenhetskontrakt och i samband med pantsättning av en lägenhet. Numret finns längs upp på varje dörr.
 
-Varje lägenhet har även ett nummer fastställt av lantmäteriverket. Numret står på namnskylten bredvid dörren. Numret är beroende på var i huset lägenheten är belägen. Detta nummer används (tillsammans med husnumret) av skattemyndigheten för folkbokföring och av posten.
+Varje lägenhet har även ett nummer fastställt av Lantmäteriverket. Numret står på namnskylten bredvid dörren. Numret är beroende på var i huset lägenheten är belägen. Detta nummer används (tillsammans med husnumret) av skattemyndigheten för folkbokföring och av posten.
 
 ## Bredband
 
