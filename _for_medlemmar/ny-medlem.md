@@ -10,7 +10,7 @@ Det är mycket att tänka på när man flyttar. Här är en checklista som vi ho
 
 Lägenhetsnycklarna ska du ha fått av säljaren.
 
-Portnycklar och sk aptusbricka till porten kvitterar du ut hos fastighetsskötaren. Om du fick portnycklar och bricka av säljaren bör du kontakta fastighetsskötaren så att dessa registreras på dig själv.
+Portnycklar och s.k. taggar till porten kvitterar du ut hos fastighetsskötaren. Om du fick portnycklar och taggar av säljaren bör du kontakta fastighetsskötaren så att dessa registreras på dig själv.
 
 ## Namnskylt
 
@@ -22,11 +22,10 @@ Våra lägenheter har två olika nummer, dels Brf-numret som är unikt inom för
 
 Varje lägenhet har även ett nummer fastställt av lantmäteriverket. Numret står på namnskylten bredvid dörren. Numret är beroende på var i huset lägenheten är belägen. Detta nummer används (tillsammans med husnumret) av skattemyndigheten för folkbokföring och av posten.
 
-## Telefoni, internet och TV
+## Bredband
 
-Föreningen har avtal med Telenor om internet, telefoni och TV.  Det gäller internetuppkoppling, telefoni och basutbud för TV. Detta betalas genom föreningens månadsavgift. Tilläggstjänster som inte ingår i avtalet betalar var och en själv. När du är ny medlem ska du anmäla till Telenor att du övertagit lägenheten och vilka tjänster du vill ha. Du får låna router och TV-box av Telenor. Dessa ska lämnas tillbaka när du flyttar.
+Föreningen har avtal med Sappa om bredband.  Detta omfattar internetuppkoppling och basutbud för TV. Kostnaden ingår i din månadsavgift till föreningen. Tilläggstjänster som inte ingår i avtalet betalar var och en själv. När du är ny medlem ska du anmäla till Sappa att du övertagit lägenheten och vilka tjänster du vill ha. Router och TV-box tillhör lägenheten och ska lämnas kvar när du flyttar. Till de större lägenheterna hör öven en s.k. extender för att öka nätverkets räckvidd.
 
-[Telenor kundservice](https://www.telenor.se/kundservice/)
 
 ## El
 
@@ -48,6 +47,6 @@ Om du har tänkt renovera din nya lägenhet rekommenderar vi att du läser här 
 
 ## Information
 
-Information om föreningen finns här på webbsidan. Anslagstavlorna i entréer och hissar används flitigt. Fråga gärna grannar, husråd och styrelsen när det är något du undrar. 
+Information om föreningen finns här på webbsidan. Informationsskärmarna i entréer och hissar används flitigt. Fråga gärna grannar, husråd och styrelsen när det är något du undrar. 
 
 ## Välkommen!
