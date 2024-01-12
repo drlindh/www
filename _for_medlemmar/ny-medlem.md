@@ -10,7 +10,9 @@ Det är mycket att tänka på när man flyttar. Här är en checklista som vi ho
 
 Lägenhetsnycklarna ska du ha fått av säljaren.
 
-Portnycklar och s.k. taggar till porten kvitterar du ut hos fastighetsskötaren. Om du fick portnycklar och taggar av säljaren bör du kontakta fastighetsskötaren så att dessa registreras på dig själv.
+Portnycklar och s.k. dörrbrickor till porten kvitterar du ut hos fastighetsskötaren. Om du fick portnycklar och taggar av säljaren bör du kontakta fastighetsskötaren så att dessa registreras på dig själv.
+
+[Här kan du läsa mera om nycklar och dörrbrickor](https://www.drlindh.se/for_medlemmar/dorr-brickor-och-nycklar)
 
 ## Namnskylt
 
@@ -31,7 +33,7 @@ Föreningen har avtal med Sappa om bredband.  Detta omfattar internetuppkoppling
 
 ## El
 
-Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar därför el via månadsavgiften till föreningen. Avstämning görs årligen.
+Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar därför el via månadsavgiften till föreningen. Avstämning görs varje månad.
 
 ## Hemförsäkring
 
