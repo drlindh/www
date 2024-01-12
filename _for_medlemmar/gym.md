@@ -4,7 +4,7 @@ title: Gym
 teaser: /images/uploads/Gym 1 liten.jpg
 feature: /images/uploads/Gym feature.jpg
 ---
-I hus 1:s källare, ingång norra gaveln, har föreningen ett gym för bostadsrättsinnehavarna. Gymmet kan användas alla dagar mellan kl 8.00 och 22.00.
+I hus 1:s källare, ingång södra gaveln, har föreningen ett gym för bostadsrättsinnehavarna. Gymmet kan användas alla dagar mellan kl 8.00 och 22.00.
 
 Gymmet är välutrustat och kanske just därför lite trångt. Här finns vikter, bänkpress, löpband mm. Det sensate tillskottet är en roddmaskin. Gummimattor på golvet finns för att dämpa ljudet. 
 
