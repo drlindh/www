@@ -10,7 +10,7 @@ Det är mycket att tänka på när man flyttar. Här är en checklista som vi ho
 
 Lägenhetsnycklarna ska du ha fått av säljaren.
 
-Portnycklar och s.k. dörrbrickor till porten kvitterar du ut hos fastighetsskötaren. Om du fick portnycklar och taggar av säljaren bör du kontakta fastighetsskötaren så att dessa registreras på dig själv.
+Portnycklar och s.k. dörrbrickor kvitterar du ut hos fastighetsskötaren. Om du fick portnycklar och taggar av säljaren bör du kontakta fastighetsskötaren så att dessa registreras på dig själv.
 
 [Här kan du läsa mera om nycklar och dörrbrickor](https://www.drlindh.se/for_medlemmar/dorr-brickor-och-nycklar)
 
@@ -26,7 +26,7 @@ Varje lägenhet har även ett nummer fastställt av Lantmäteriverket. Numret st
 
 ## Bredband
 
-Föreningen har avtal med Sappa om bredband.  Detta omfattar internetuppkoppling och basutbud för TV. Kostnaden ingår i din månadsavgift till föreningen. Tilläggstjänster som inte ingår i avtalet betalar var och en själv. När du är ny medlem ska du anmäla till Sappa att du övertagit lägenheten och vilka tjänster du vill ha. Router och TV-box tillhör lägenheten och ska lämnas kvar när du flyttar. Till de större lägenheterna hör även en s.k. extender för att öka nätverkets räckvidd.
+Föreningen har avtal med Sappa om bredband.  Detta omfattar internetuppkoppling och basutbud för TV. Kostnaden ingår i din månadsavgift till föreningen. Tilläggstjänster, t.ex. ytterligare TV-kanaler som inte ingår i basutbudet, betalar var och en själv. När du är ny medlem ska du anmäla till Sappa att du övertagit lägenheten och vilka tjänster du vill ha. Router och TV-box tillhör lägenheten och ska lämnas kvar när du flyttar. Till de större lägenheterna hör även en s.k. extender för att öka nätverkets räckvidd.
 
 [Mera information hittar du här](https://www.drlindh.se/for_medlemmar/bredband-tv-och-telefoni)
 
@@ -37,7 +37,7 @@ Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar
 
 ## Hemförsäkring
 
-Föreningen har tecknat en extra tilläggsförsäkring som innebär att bostadsrättsinnehavaren inte behöver komplettera sin egen hemförsäkring med något extra skydd för att bostaden är en bostadsrätt. Hos en del försäkringsbolag ingår Bostadsrättstillägg som en del i ett paket, och det finns risk att t ex reseskydd kan falla bort, om man väljer att avstå från Bostadsrättstillägg. Det finns också bolag, där bostadsrättstillägget ingår i hemförsäkringens grundskydd och inte kan väljas bort. Föreningens försäkring är tecknad hos Länsförsäkringar. Följ länken nedan för information från Länsförsäkringar.
+Föreningen har tecknat en extra tilläggsförsäkring som innebär att bostadsrättsinnehavaren inte behöver komplettera sin egen hemförsäkring med något extra skydd för att bostaden är en bostadsrätt. Hos en del försäkringsbolag ingår bostadsrättstillägg som en del i ett paket, och det finns risk att t ex reseskydd kan falla bort, om man väljer att avstå från detta. Det finns också bolag, där bostadsrättstillägget ingår i hemförsäkringens grundskydd och inte kan väljas bort. Föreningens försäkring är tecknad hos Länsförsäkringar. Följ länken nedan för information från Länsförsäkringar.
 
 [Länsförsäkringars information om Bostadsrättsförsäkring - Kollektiv (pdf-dokument)](https://www.drlindh.se/images/uploads/Info_Lansforsakringar.pdf)
 
@@ -51,7 +51,7 @@ Om du har tänkt renovera din nya lägenhet rekommenderar vi att du läser här 
 
 ## Information
 
-Information om föreningen finns här på webbsidan. Informationsskärmarna i entréer och hissar används flitigt. Fråga gärna grannar, husråd och styrelsen när det är något du undrar. 
+Mera information om föreningen finns här på webbplatsen. I entréer och hissar finns dessutom informationsskärmar, som används flitigt. Fråga gärna grannar, husråd och styrelsen när det är något du undrar. 
 
 Styrelsen och fastighetsskötaren når du på e-postadressen [kontakt@drlindh.se](mailto:kontakt@drlindh.se) eller genom att klicka på den gröna ikonen längst ner på denna sida.
 
