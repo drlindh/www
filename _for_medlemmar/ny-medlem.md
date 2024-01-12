@@ -53,4 +53,6 @@ Om du har tänkt renovera din nya lägenhet rekommenderar vi att du läser här 
 
 Information om föreningen finns här på webbsidan. Informationsskärmarna i entréer och hissar används flitigt. Fråga gärna grannar, husråd och styrelsen när det är något du undrar. 
 
+Styrelsen och fastighetsskötaren når du på e-postadressen kontakt@drlindh.se eller genom att klicka på den gröna ikonen längst ner på denna sida.
+
 ## Välkommen!
