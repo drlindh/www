@@ -22,7 +22,11 @@ Förhoppningsvis har du redan fått ditt namn på namnskylten bredvid dörren oc
 
 Våra lägenheter har två olika nummer, dels Brf-numret som är unikt inom föreningen för varje lägenhet. Detta nummer används vid kontakt med föreningen, för bokning av tvättstugan och numrering av vindsförråden. Det används även när man skriver lägenhetskontrakt och i samband med pantsättning av en lägenhet. Numret finns längs upp på varje dörr.
 
-Varje lägenhet har även ett nummer fastställt av Lantmäteriverket. Numret står på namnskylten bredvid dörren. Numret är beroende på var i huset lägenheten är belägen. Detta nummer används (tillsammans med husnumret) av skattemyndigheten för folkbokföring och av posten.
+Varje lägenhet har även ett nummer fastställt av Lantmäteriverket. Numret står på namnskylten bredvid dörren. Numret anger var i huset lägenheten är belägen. Detta nummer används (tillsammans med husnumret) av Skatteverket för folkbokföring och för adressering av post.
+
+## Månadsavgift
+
+Avier om månadsavgifter skicka ut av Nabo, som sköter föreningens ekonomiska förvaltning. Du kan själv logga in på [Nabos webbportal](https://portal.nabo.se/kundportal/login) med Mobilt BankID och ändra aviserings- och betalningssätt.
 
 ## Bredband
 
@@ -41,6 +45,12 @@ Föreningen har tecknat en extra tilläggsförsäkring som innebär att bostadsr
 
 [Länsförsäkringars information om Bostadsrättsförsäkring - Kollektiv (pdf-dokument)](https://www.drlindh.se/images/uploads/Info_Lansforsakringar.pdf)
 
+## Parkering 
+
+Du kan själv ställa dig i kö till parkeringsplats i [Nabos webbportal](https://portal.nabo.se/kundportal/login). 
+
+Observera att det är tillåtet att parkera max 15 minuter på föreningens tomtmark, om inget annat framgår av skyltning.
+
 ## Lägenhetsrenovering
 
 Om du har tänkt renovera din nya lägenhet rekommenderar vi att du läser här om vad du bör tänka på:
@@ -52,6 +62,8 @@ Om du har tänkt renovera din nya lägenhet rekommenderar vi att du läser här 
 ## Information
 
 Mera information om föreningen finns här på webbplatsen. I entréer och hissar finns dessutom informationsskärmar, som används flitigt. Fråga gärna grannar, husråd och styrelsen när det är något du undrar. 
+
+## Kontakt
 
 Styrelsen och fastighetsskötaren når du på e-postadressen [kontakt@drlindh.se](mailto:kontakt@drlindh.se) eller genom att klicka på den gröna ikonen Felanmälan längst ner på denna sida.
 
