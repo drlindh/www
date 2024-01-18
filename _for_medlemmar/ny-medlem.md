@@ -43,7 +43,7 @@ Föreningen har avtal med Sappa om bredband.  Detta omfattar internetuppkoppling
 
 Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar därför el via månadsavgiften till föreningen.
 
-## Hemförsäkring
+## Försäkring – bostadsrättstillägg
 
 Föreningen har tecknat en extra tilläggsförsäkring som innebär att bostadsrättsinnehavaren inte behöver komplettera sin egen hemförsäkring med något extra skydd för att bostaden är en bostadsrätt. Hos en del försäkringsbolag ingår bostadsrättstillägg som en del i ett paket, och det finns risk att t.ex. reseskydd kan falla bort, om man väljer att avstå från detta. Det finns också bolag, där bostadsrättstillägget ingår i hemförsäkringens grundskydd och inte kan väljas bort. Föreningens försäkring är tecknad hos Länsförsäkringar. Följ länken nedan för information från Länsförsäkringar.
 
