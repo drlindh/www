@@ -14,12 +14,12 @@ Arbeten i lägenheten som medför hög ljudnivå, t ex borrning, slipning och sp
 * Lördagar kl. 9.00-16.00
 * Söndagar och helgdagar är vilodagar
 
-När det gäller mera omfattande arbeten, t.ex. badrumsrenovering, gäller snävare tider. Dessa meddelas i samband med att styrelsen beviljar tillstånd för renoveringen.
+När det gäller mera omfattande arbeten, t.ex. badrumsrenovering, gäller snävare tider. Dessa meddelas i samband med att styrelsen beviljar tillstånd för renoveringen. 
 
 
 ## Fotbollsspel på lekplatsen
 
-Ljusa vår- och sommarkvällar lockar till fotbollsspel och är tillåtet fram till kl. 22, därefter stör det medlemmarna som bor med fönster mot lekplatsen.
+Ljusa vår- och sommarkvällar lockar till fotbollsspel och är tillåtet fram till kl. 22. Därefter stör det medlemmarna som bor med fönster mot lekplatsen.
 
 ## Grillning
 
