@@ -4,7 +4,7 @@ title: Ny medlem
 teaser: /images/uploads/gavel_liten.png
 feature: /images/uploads/gavel_feature.png
 ---
-Det är mycket att tänka på när man flyttar. Här är en checklista som vi hoppas hjälper både nya medlemar och gamla. Bra att veta när man flyttar in, bor eller flyttar ut.
+Det är mycket att tänka på när man flyttar. Här är en checklista som vi hoppas hjälper både nya medlemmar och gamla. Bra att veta när man flyttar in, bor eller flyttar ut.
 
 ## Nycklar
 
@@ -26,7 +26,7 @@ Varje lägenhet har även ett nummer fastställt av Lantmäteriverket. Numret st
 
 ## Månadsavgift
 
-Avier om månadsavgifter skicka ut av Nabo, som sköter föreningens ekonomiska förvaltning. Du kan själv logga in på [Nabos webbportal](https://portal.nabo.se/kundportal/login) med Mobilt BankID och ändra aviserings- och betalningssätt.
+Avier om månadsavgifter skickas ut av Nabo, som sköter föreningens ekonomiska förvaltning. Du kan själv logga in på [Nabos webbportal](https://portal.nabo.se/kundportal/login) med Mobilt BankID och ändra aviserings- och betalningssätt.
 
 ## Bredband
 
