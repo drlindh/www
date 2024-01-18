@@ -6,17 +6,21 @@ feature: /images/uploads/gavel_feature.png
 ---
 Det är mycket att tänka på när man flyttar. Här är en checklista som vi hoppas hjälper både nya medlemmar och gamla. Bra att veta när man flyttar in, bor eller flyttar ut.
 
-## Nycklar
+## Nycklar och dörrbrickor
 
-Lägenhetsnycklarna ska du ha fått av säljaren.
-
-Portnycklar och s.k. dörrbrickor kvitterar du ut hos fastighetsskötaren. Om du fick portnycklar och brickor av säljaren bör du kontakta fastighetsskötaren så att dessa registreras på dig själv.
+Lägenhetsnycklarna, portnycklar och s.k. dörrbrickor ska du ha fått av säljaren. Du bör kontakta fastighetsskötaren för att kontrollera hur många portnycklar och dörrbrickor som hör till lägenheten, så att eventuella saknade nycklar och brickor kan spärras.
 
 [Här kan du läsa mera om nycklar och dörrbrickor](https://www.drlindh.se/for_medlemmar/dorr-brickor-och-nycklar)
 
+## Porttelefon
+
+Porttelefonen kan kopplas till en eller flera mobiltelefoner eller till fast telefon. Lämna önskade telefonnummer till fastighetsskötaren för registrering i systemet.
+
 ## Namnskylt
 
-Förhoppningsvis har du redan fått ditt namn på namnskylten bredvid dörren och i entrén när du flyttar in. Om du inte har fått det eller tycker att namnet behöver justeras, tag kontakt med fastighetsskötaren.
+Förhoppningsvis har du redan fått ditt namn på namnskylten bredvid dörren och i entrén när du flyttar in. Om du inte har fått det eller tycker att namnet behöver justeras, tag kontakt med vår fastighetsskötare Pierre.
+
+Namnet på brevinkastet byts inte längre ut av fastighetsskötaren. Om det inte sedan tidigare är utbytt till en dubbelsidig REKLAM NEJ/REKLAM JA kan man hämta en sådan hos Pierre och byta själv.
 
 ## Numrering av lägenheterna
 
