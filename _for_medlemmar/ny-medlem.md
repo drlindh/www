@@ -16,6 +16,8 @@ Lägenhetsnycklarna, portnycklar och s.k. dörrbrickor ska du ha fått av sälja
 
 Porttelefonen kan kopplas till en eller flera mobiltelefoner eller till fast telefon. Lämna önskade telefonnummer till fastighetsskötaren för registrering i systemet.
 
+[Här kan du läsa mera om porttelefonen](https://www.drlindh.se/for_medlemmar/porttelefoni)
+
 ## Namnskylt
 
 Förhoppningsvis har du redan fått ditt namn på namnskylten bredvid dörren och i entrén när du flyttar in. Om du inte har fått det eller tycker att namnet behöver justeras, tag kontakt med vår fastighetsskötare Pierre.
