@@ -7,10 +7,10 @@ Porttelefonisystemet kan kopplas till både mobiltelefon, fast telefon samt en f
 
 ## Fast telefon 
 
-En fast telefon (031-XXX XXX) kan kopplas till porttelefonen. När någon slår in lägenhetsnumret på porttelefonen ringer det då i den vanliga telefonen och man kan prata med besökaren. Vill man öppna trycker man på telefonens ”5”a. 
+En fast telefon (031-XXX XXX) kan kopplas till porttelefonen. När någon slår in lägenhetsnumret på porttelefonen ringer det då i den vanliga telefonen från 031-3201005, och man kan prata med besökaren. Vill man öppna trycker man på telefonens ”5”a. 
 
 ## Mobiltelefon  
-På samma sätt kan man ange en mobiltelefon (07X-XXX XXX) och öppna genom att trycka på siffran 5.
+På samma sätt kan man ange en mobiltelefon (07X-XXX XXXX) och öppna genom att trycka på siffran 5.
  
 ## Flera mottagare
  
