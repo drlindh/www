@@ -20,6 +20,6 @@ Lokalen bokas genom att skicka mejl till:
 * Per-Åke Jansson, perake.jansson49@icloud.com eller
 * Gunilla Rehn, rehngunilla@gmail.com
 
-Ange lägenhetsnummer (föreningens interna samt nummer enligt skatteverkets regler), e-postadress samt önskat datum när du önskar hyra lokalen.
+Ange lägenhetsnummer (föreningens interna samt nummer enligt Lantmäteriverkets regler), e-postadress samt önskat datum när du önskar hyra lokalen.
 
 [Information om bokning av gemensamhetslokalen (pdf)](/images/uploads/Riktlinjer_Gemensamhetslokal_juni_2023.pdf)
