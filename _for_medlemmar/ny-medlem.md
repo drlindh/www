@@ -49,6 +49,10 @@ Föreningen har tecknat en extra tilläggsförsäkring som innebär att bostadsr
 
 [Länsförsäkringars information om Bostadsrättsförsäkring - Kollektiv (pdf-dokument)](https://www.drlindh.se/images/uploads/Info_Lansforsakringar.pdf)
 
+## Tvättstuga
+
+Tvättstugan bokar du manuellt med hjälp av lås på tavla i tvättstugan. Nyckel till låset skall du ha fått av säljaren.
+
 ## Parkering 
 
 Du kan själv ställa dig i kö till parkeringsplats i [Nabos webbportal](https://portal.nabo.se/kundportal/login). 
