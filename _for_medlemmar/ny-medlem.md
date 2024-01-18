@@ -16,7 +16,7 @@ Lägenhetsnycklarna, portnycklar och s.k. dörrbrickor ska du ha fått av sälja
 
 Porttelefonen kan kopplas till en eller flera mobiltelefoner eller till fast telefon. Lämna önskade telefonnummer till fastighetsskötaren för registrering i systemet.
 
-[Här kan du läsa mera om porttelefonen](https://www.drlindh.se/for_medlemmar/porttelefoni)
+[Här kan du läsa mera om porttelefonen](https://www.drlindh.se/for_medlemmar/porttelefon)
 
 ## Namnskylt
 
