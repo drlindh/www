@@ -22,7 +22,7 @@ Porttelefonen kan kopplas till en eller flera mobiltelefoner eller till fast tel
 
 Förhoppningsvis har du redan fått ditt namn på namnskylten bredvid dörren och i entrén när du flyttar in. Om du inte har fått det eller tycker att namnet behöver justeras, tag kontakt med vår fastighetsskötare Pierre.
 
-Namnet på brevinkastet byts inte längre ut av fastighetsskötaren. Om det inte sedan tidigare är utbytt till en dubbelsidig REKLAM NEJ/REKLAM JA kan man hämta en sådan hos Pierre och byta själv.
+Namnet på brevinkastet byts inte längre ut av fastighetsskötaren. Om det inte sedan tidigare är utbytt till en dubbelsidig REKLAM NEJ/REKLAM JA, kan man hämta en sådan hos Pierre och byta själv.
 
 ## Numrering av lägenheterna
 
