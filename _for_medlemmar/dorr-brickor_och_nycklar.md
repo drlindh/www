@@ -12,6 +12,6 @@ T﻿ill varje lägenhet har dessutom föreningen försett medlemmar med två sty
 
 Anledningen till att det skall gå genom Nabo-portalen är för att säkra beställarens identitet.
 
-F﻿ör att beställa nytt lägenhetslås där de befintliga iLOQ-nycklarna fungerar - gör en intresseanmälan här: [Lägenhetslås](/for_medlemmar/lägenhetslås)
+<!--F﻿ör att beställa nytt lägenhetslås där de befintliga iLOQ-nycklarna fungerar - gör en intresseanmälan här: [Lägenhetslås](/for_medlemmar/lägenhetslås)-->
 
 Nycklar till lägenhetsdörren är medlemmens privata. Föreningen har ingen kopia av dem. Föreningen kan inte komma in i lägenheten utan medlemmens vetskap och samtycke.
