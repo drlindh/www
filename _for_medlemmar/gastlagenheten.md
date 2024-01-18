@@ -4,7 +4,7 @@ title: Gästlägenheten
 teaser: /images/uploads/gastlgh (liten).jpg
 feature: /images/uploads/gastlgh (feature).jpg
 ---
-Vår gästlägenhet är enkelt inredd, det finns två sängar, toa och dusch. Det finns inga möjligheter att laga mat eller att brygga kaffe.
+Vår gästlägenhet är enkelt inredd, det finns två sängar, toa och dusch. Det finns inga möjligheter att laga mat, endast vattenkokning är möjlig.
 
 Gästlägenheten är belägen på bottenvåningen på Doktor Lindhs gata 3. Avgiften för lägenheten är 250 kr per dygn under helgnätter (fredag-söndag samt vid större helger) och 200 kr övriga nätter.  Avgiften debiteras på kommande månadsavgiftsavi från Nabo. 
 
