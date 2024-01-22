@@ -21,10 +21,12 @@ Man kan ange flera nummer, om man är fler som bor i lägenheten. Då ringer por
 
 Svarsapparaten erbjuder möjlighet att se besökaren via video. Även föreningens brandlarm kopplas till enheten vilket gör att enheten larmar med en ljudsignal om brandlarmet går i trapphuset. Den befintliga ringklockan ansluts också och får en egen ringsignal. Dörren låses upp genom att trycka på den mittersta knappen med en nyckelsymbol.
 
+![](i53w.png)
+
 O﻿m man trycker på knappen "Do Not Disturb" på svarsapparaten så kopplas inga samtal fram till enheten (ringklocka och brandlarm fungerar dock fortsatt) - istället kopplas samtalen efter en viss fördröjning till registrerade telefonnummer.
 
 Svarsapparaten, samt dess installation, är valfri och bekostas av medlemmen själv. Priset om man installerade vid första erbjudandet var 2,400:-. Föreningen lämnar 1 års garanti på svarsapparaten. Svarsapparaten övergår därefter till medlemmens ansvar.
 
 Vill man i efterhand installera en svarsapparat - kontakta styrelsen på kontakt@drlindh.se så går det att ordna till självkostnadspris.
 
-Den svarsapparat som installeras är modellen i53w från fanvil. Det är säkerligen möjligt att använda andra modeller - men i53w är den som föreningen automatiskt konfigurerar.
+Den svarsapparat som installeras är modellen [i53w från fanvil](https://fanvil.com/products/p5/sipshineiji/20210921/5024.html). Det är säkerligen möjligt att använda andra modeller - men i53w är den som föreningen automatiskt konfigurerar.
