@@ -21,7 +21,7 @@ Man kan ange flera nummer, om man är fler som bor i lägenheten. Då ringer por
 
 Svarsapparaten erbjuder möjlighet att se besökaren via video. Även föreningens brandlarm kopplas till enheten vilket gör att enheten larmar med en ljudsignal om brandlarmet går i trapphuset. Den befintliga ringklockan ansluts också och får en egen ringsignal. Dörren låses upp genom att trycka på den mittersta knappen med en nyckelsymbol.
 
-![](i53w.png)
+![](images/uploads/i53w.png)
 
 O﻿m man trycker på knappen "Do Not Disturb" på svarsapparaten så kopplas inga samtal fram till enheten (ringklocka och brandlarm fungerar dock fortsatt) - istället kopplas samtalen efter en viss fördröjning till registrerade telefonnummer.
 
