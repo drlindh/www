@@ -3,6 +3,8 @@ layout: page
 title: Avslutade projekt
 teaser: /images/uploads/Gym 2.jpg
 feature: /images/uploads/Ritning nya lgh.jpg
+completed: true
+year: "2020-2021"
 ---
 ### OVK - obligatorisk ventilationskontroll hösten 2020
 
@@ -53,7 +55,9 @@ SDN lämnade lokalerna 2019-07-30 och efter sommaren kunde vi upphandla
  entreprenaden av MVB Astor Bygg AB. Entreprenadsumman var cirka 5 Mkr
  inklusive moms.
 
-Rivningsarbetena startade den 1 oktober. Byggarbete pågick i cirka 5 månader. I samband med ombyggnaden kunde ett fönster anordnas i vävstugan, som ligger intill gymmet. 
+Rivningsarbetena startade den 1 oktober. Byggarbete pågick i cirka 5 månader. 
+I samband med ombyggnaden kunde ett fönster anordnas i vävstugan, som ligger 
+intill gymmet. 
 
 Försäljningen av bostadsrätterna tillförde så mycket kapital att det täckte en stor del av kostnaderna för de omfattande underhållsarbeten som har genomförts.
 

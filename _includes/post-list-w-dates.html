@@ -3,7 +3,10 @@
     <img src="{{ site.url }}{{ post.teaser }}" alt="teaser" itemprop="image">
   </a>
   <h2 class="post-title" itemprop="namefoobar"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-  {% if post.date %}<time class="entry-date" datetime="{{ post.date | date: " %Y-%m-%d" }}" itemprop="datePublished">{{
+
+  {% if post.year %}<p class="entry-date">{{ post.year }}</p>
+  {% elsif post.date %}<time class="entry-date" datetime="{{ post.date | date: " %Y-%m-%d" }}"
+    itemprop="datePublished">{{
     post.date | date:
     "%B %d, %Y" }}</time>{% endif %}
 </article><!-- /.tile -->

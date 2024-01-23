@@ -3,6 +3,8 @@ layout: page
 title: Minskad elanvändning i garage
 teaser: /images/uploads/garage_med_få_bilar.png
 feature: /images/uploads/P-dack renovering feataure.jpg
+completed: true
+year: "2022"
 ---
 B﻿elysningen i garaget drar onödigt mycket ström då den lyser dygnet runt. Även om det numera är LED-belysning finns det anledning att styra belysningen smartare.
 

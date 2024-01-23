@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+	<div class="wrap">
+		{% if page.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ site.url }}{{ page.feature }}" class="page-feature-image" alt="{{ page.title }}">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		{% endif %}
+		<div class="page-title">
+			<h1>{{ page.title }}</h1>
+			{% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
+		</div>
+		<div class="archive-wrap">
+			<div class="page-content">
+				{{ content }}
+
+				<div class="tiles">
+					{% for post in site.[page.collection] %}
+					{% unless post.completed %}
+					{% include post-grid.html %}
+					{% endunless %}
+					{% endfor %}
+				</div><!-- /.tiles -->
+
+				<article class="post-list" itemscope itemtype="http://schema.org/Article">
+				</article><!-- /.tile -->
+				<div class="page-title">
+					<h1>Avslutade projekt</h1>
+				</div>
+				<div class="post-list">
+					{% assign sorted_posts = site.[page.collection] | sort: "year" | reverse %}
+					{% for post in sorted_posts %}
+					{% if post.completed %}
+					{% include post-list-w-dates.html %}
+					{% endif %}
+					{% endfor %}
+
+				</div>
+
+			</div><!-- /.page-content -->
+		</div class="archive-wrap"><!-- /.archive-wrap -->
+	</div><!-- /.wrap -->
+</div><!-- /#main -->

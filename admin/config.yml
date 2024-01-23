@@ -87,5 +87,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Färdigt", name: "completed", widget: "boolean", required: true, default: false}
+      - {label: "Årtal", name: "year", widget: "string", required: true, default: "2024"}
       - {label: "Liten bild (rek storlek: 400x250)", name: "teaser", widget: "image", default: "/images/400x250.png"}
       - {label: "Stor bild (valfritt, rek storlek: 1024x256)", name: "feature", widget: "image", required: false}

@@ -3,6 +3,8 @@ layout: page
 title: Byte av bredbandsleverantör
 teaser: /images/uploads/Sladdar liten.jpg
 feature: /images/uploads/Sladdar feature.jpg
+completed: true
+year: "2021"
 ---
 Föreningen har ingått avtal med leverantören Sappa som kommer förse alla lägenheter med internet och TV-box från och med 28/3 2023.
 

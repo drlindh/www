@@ -3,6 +3,8 @@ layout: page
 title: Utveckling av utemiljön
 teaser: /images/uploads/Lekplatsen1_liten.jpeg
 feature: /images/uploads/Hus1host feature.jpg
+completed: true
+year: "2021-2022"
 ---
 Sedan oktober är arbetena för att utveckla utemiljön igång.
 
