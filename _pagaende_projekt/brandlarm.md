@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Brandlarm
-teaser: /images/uploads/Gym 2.jpg
-feature: /images/uploads/Ritning nya lgh.jpg
 completed: true
 year: "2022"
+teaser: /images/uploads/brandbil.jpg
+feature: /images/uploads/brandbil_feature.png
 ---
 ### Brandlarm
 
