@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Garagerenovering
-teaser: /images/uploads/Gym 2.jpg
-feature: /images/uploads/Ritning nya lgh.jpg
 completed: true
 year: "2018"
+teaser: /images/uploads/P-dack renovering liten.jpg
+feature: /images/uploads/P-dack renovering feataure.jpg
 ---
 ### Garagerenovering
 
