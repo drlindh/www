@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Radonmätning
-teaser: /images/uploads/Gym 2.jpg
-feature: /images/uploads/Ritning nya lgh.jpg
 completed: true
 year: "2019"
+teaser: /images/uploads/radondosa.png
+feature: /images/uploads/Ritning nya lgh.jpg
 ---
 ### Radonmätning i Brf Doktor Lindh
 
