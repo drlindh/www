@@ -4,7 +4,7 @@ title: Medlemskap
 teaser: /images/uploads/Hus1 var liten.jpg
 feature: /images/uploads/Hus1 var featrue.jpg
 ---
-För att bli medlem i föreningen måste man vara delägare till minst 10 % i en bostadsrätt i föreningen. Alla medlemmar ska godkännas av föreningens styrelse.
+För att bli medlem i föreningen måste man vara delägare till minst 10 % i en bostadsrätt i föreningen, samt ha för avsikt att permanent bosätta sig i lägenheten. Alla medlemmar ska godkännas av föreningens styrelse. 
 
 ## Hur blir man medlem?
 
