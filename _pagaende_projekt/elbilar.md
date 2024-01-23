@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Laddning av elbilar
-teaser: /images/uploads/Gym 2.jpg
-feature: /images/uploads/Ritning nya lgh.jpg
 completed: true
 year: "2021"
+teaser: /images/uploads/laddplats.png
+feature: /images/uploads/Parkeringsplatser 1 feature.jpg
 ---
 ### Laddning av elbilar
 
