@@ -34,8 +34,9 @@ layout: default
 					<h1>Avslutade projekt</h1>
 				</div>
 				<div class="post-list">
-					{% assign sorted_posts = site.[page.collection] | sort: "year" | reverse %}
-					{% for post in sorted_posts %}
+					{% assign sorted_posts = site.[page.collection] | where: "completed", true | sort: "year" | reverse
+					%}
+					{% for post in sorted_posts limit: 30 %}
 					{% if post.completed %}
 					{% include post-list-w-dates.html %}
 					{% endif %}
