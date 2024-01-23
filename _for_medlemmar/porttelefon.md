@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Porttelefon
-teaser: /images/400x250.png
+teaser: /images/uploads/porttelefon.jpeg
 ---
 Porttelefonisystemet kan kopplas till både mobiltelefon, fast telefon samt en fast svarsapparat i lägenheten. 
 
