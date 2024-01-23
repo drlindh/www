@@ -2,7 +2,7 @@
 layout: archive
 title: Välkommen till BRF Doktor Lindh
 permalink: /
-feature: /images/uploads/vy från vattentornet feature.jpg
+feature: /images/uploads/vy fran vattentornet feature.jpg
 pagination:
   enabled: true
 ---

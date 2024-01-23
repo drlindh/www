@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Aktiviteter
-teaser: /images/uploads/Vår plantering liten.jpg
-feature: /images/uploads/Vår plantering feature.jpg
+teaser: /images/uploads/Var plantering liten.jpg
+feature: /images/uploads/Var plantering feature.jpg
 ---
 I föreningen ordnas flera olika aktiviteter, de ordnas av husråden och av våra medlemmar. Det handlar till exempel om vår- och höststädning, vårsalong, glögg till föreningens födelsedag mm.
 

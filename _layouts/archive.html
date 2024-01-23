@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div id="main" role="main">			
+<div id="main" role="main">
 	<div class="wrap">
 		{% if page.feature %}
 		<div class="page-feature">
@@ -21,33 +21,23 @@ layout: default
 				<p>{{ content }}</p>
 
 				<div class="tiles">
-					{% for post in paginator.posts %}
-						{% include post-grid-w-dates.html %}
+					{% for post in site.posts limit: 4 %}
+					{% include post-grid-w-dates.html %}
 					{% endfor %}
 				</div><!-- /.tiles -->
 
-			</div><!-- /.page-content -->
-  <!-- 
-    Showing buttons to move to the next and to the previous list of posts (pager buttons).
-  -->
-  {% if paginator.total_pages > 1 %}
-  <ul class="pager">
-      {% if paginator.previous_page %}
-      <li class="previous">
-          <a class=".btn" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Nyare notiser</a>
-      </li>
-      {% endif %}
-      {% if paginator.next_page %}
-      <li class="next">
-          <a class=".btn" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Äldre notiser &rarr;</a>
-      </li>
-      {% endif %}
-  </ul>
-  {% endif %}
-		</div class="archive-wrap"><!-- /.archive-wrap -->
+				<article class="post-list" itemscope itemtype="http://schema.org/Article">
+				</article><!-- /.tile -->
+				<div class="page-title">
+					<h1>Äldre notiser</h1>
+				</div>
+				<div class="post-list">
+					{% for post in site.posts offset: 4 limit: 30 %}
+					{% include post-list-w-dates.html %}
+					{% endfor %}
+
+				</div>
+			</div>
+		</div>
 	</div><!-- /.wrap -->
 </div><!-- /#main -->
-
-
-
-
