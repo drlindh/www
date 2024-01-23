@@ -4,7 +4,7 @@
   </a>
   <h2 class="post-title" itemprop="namefoobar"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
 
-  {% if post.year %}<p class="entry-date">{{ post.year }}</p>
+  {% if post.year %}<div class="entry-date">{{ post.year }}</div>
   {% elsif post.date %}<time class="entry-date" datetime="{{ post.date | date: " %Y-%m-%d" }}"
     itemprop="datePublished">{{
     post.date | date:
