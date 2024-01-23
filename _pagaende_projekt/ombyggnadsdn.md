@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Ombyggnad av SDN-lokalen i hus 1 till bostadsrätter
-teaser: /images/uploads/Gym 2.jpg
-feature: /images/uploads/Ritning nya lgh.jpg
 completed: true
 year: "2020"
+teaser: /images/uploads/saljbild.jpg
+feature: /images/uploads/Ritning nya lgh.jpg
 ---
 ### Ombyggnad av SDN-lokalen i hus 1 till bostadsrätter
 

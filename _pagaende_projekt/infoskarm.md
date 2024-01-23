@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Informationsskärmar
-teaser: /images/uploads/Gym 2.jpg
-feature: /images/uploads/Ritning nya lgh.jpg
 completed: true
 year: "2022"
+teaser: /images/uploads/Anslagstavla liten.jpg
+feature: /images/uploads/Anslagstavla feature.jpg
 ---
 ### Informationsskärmar
 
