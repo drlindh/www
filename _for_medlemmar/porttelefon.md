@@ -5,6 +5,8 @@ teaser: /images/uploads/porttelefon.jpeg
 ---
 Porttelefonisystemet kan kopplas till både mobiltelefon, fast telefon samt en fast svarsapparat i lägenheten. 
 
+**[Instruktion för att ansluta svarsapparat till WiFi](https://drlindh.se/i53w.wifi.pdf)**
+
 ## Fast telefon
 
 En fast telefon (031-XXX XXX) kan kopplas till porttelefonen. När någon slår in lägenhetsnumret på porttelefonen ringer det då i den vanliga telefonen från 031-3201005, och man kan prata med besökaren. Vill man öppna trycker man på telefonens ”5”a. 
