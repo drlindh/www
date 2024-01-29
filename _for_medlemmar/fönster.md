@@ -24,11 +24,11 @@ Ansvar för fönster är delat mellan föreningen och lägenhetsinnehavaren. Det
 
 [](images/uploads/Ansvarsfordelning_rev_Brf_bilaga_2014-12-06.pdf)[Ansvarslista (rev 2014-12-06)](/images/uploads/Ansvarsfordelning_rev_Brf_bilaga_2014-12-06.pdf)
 
-### Underhåll
+## Underhåll
 
 För att fönstren skall gå lätt att öppna och lätt att svänga runt behöver de underhållas och smörjas. Tar det på minsta sätt emot när du ska öppna, avbryt. Använd aldrig mer kraft! Den vanligaste orsaken till att det går trögt, är att man inte har smort fönstren, spanjolett och beslag.
 
-## Hur gör man när man smörjer handtag och beslag?
+### Hur gör man när man smörjer handtag och beslag?
 
 **Information hämtad ur fönsterleverantörens katalog**
 
