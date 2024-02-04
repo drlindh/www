@@ -10,7 +10,7 @@ Styrelsen fick i uppdrag av Föreningsstämman att undersöka möjligheterna att
 
 Detta arbete pågår för fullt tillsammans med en av föreningens erfarna energikonsulter.
 
--﻿--------------
+___________________________
 
 ### Uppdatering 2024-02-04
 
