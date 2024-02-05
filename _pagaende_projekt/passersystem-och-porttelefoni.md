@@ -55,3 +55,7 @@ I﻿nstallationen av passersystem baserat på Axema är i det närmaste klart. D
 !﻿[](/images/uploads/porttelefon.jpeg)
 
 Ä﻿ven porttelefonen är monterad - alla medlemmar erbjöds mot en kostnad att installera en fast svarsapparat för att få videofunktion i svarsapparaten. Cirka 70 lägenheter valde denna lösning.
+
+[M﻿an kan läsa mer om porttelefonen här](/for_medlemmar/porttelefon)
+
+[M﻿an kan läsa mer om nycklar och nyckelbrickor här](/for_medlemmar/dorr-brickor-och-nycklar)
