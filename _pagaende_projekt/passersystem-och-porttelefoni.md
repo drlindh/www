@@ -52,7 +52,7 @@ ___________________________
 
 I﻿nstallationen av passersystem baserat på Axema är i det närmaste klart. Då många medlemmar inte ville ha en digital bokningslösning ströks det i projektet och en enkät har samlats in för att se hur alla medlemmar ser på en digital bokningslösning.
 
-!﻿[](/images/uploads/porttelefon.jpeg)
+![](/images/uploads/porttelefon.jpeg)
 
 Ä﻿ven porttelefonen är monterad - alla medlemmar erbjöds mot en kostnad att installera en fast svarsapparat för att få videofunktion i svarsapparaten. Cirka 70 lägenheter valde denna lösning.
 
