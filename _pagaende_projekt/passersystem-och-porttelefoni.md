@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Passersystem och porttelefoni
+completed: false
+year: 2023-2024
 teaser: /images/uploads/Lagenhetsnummer liten.jpg
 feature: /images/uploads/Lagenhetsnummer feature.jpg
-completed: false
-year: "2023-2024"
 ---
 Föreningens passersystem och porttelefoni börjar bli gammalt och det är svårt att hitta reservdelar när de behöver bytas ut. Därför har styrelsen påbörjat en upphandlingsprocess för att uppgradera dessa system.
 
-I samband med detta undersöks även möjligheten att digitalisera våra bokningssystem till tvättstugor samt gästlägenhet och gemensamhetslokal. Med ett helt integrerat system kan föreningen slippa hantering av både nycklar och debitering då detta helt kan automatiseras.
+I samband med detta undersöks även möjligheten att digitalisera våra bokningssystem till tvättstugor samt gästlägenhet och gemensamhetslokal. Med ett helt integrerat system kan föreningen slippa hantering av både nycklar och debitering då detta helt kan automatiseras. 
 
 ## Passersystem
 
@@ -45,3 +45,13 @@ De funktioner som önskas från föreningen är bland annat:
 * Det är önskvärt att koppla in en larmsignal i lägenheten 
 
 Installation planerad till 2023
+
+_﻿__________________
+
+#﻿## Uppdatering 2024-02-05
+
+I﻿nstallationen av passersystem baserat på Axema är i det närmaste klart. Då många medlemmar inte ville ha en digital bokningslösning ströks det i projektet och en enkät har samlats in för att se hur alla medlemmar ser på en digital bokningslösning.
+
+!﻿[](/images/uploads/porttelefon.jpeg)
+
+Ä﻿ven porttelefonen är monterad - alla medlemmar erbjöds mot en kostnad att installera en fast svarsapparat för att få videofunktion i svarsapparaten. Cirka 70 lägenheter valde denna lösning.
