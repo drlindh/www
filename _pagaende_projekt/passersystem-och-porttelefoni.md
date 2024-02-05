@@ -46,9 +46,9 @@ De funktioner som önskas från föreningen är bland annat:
 
 Installation planerad till 2023
 
-_﻿__________________
+___________________________
 
-#﻿## Uppdatering 2024-02-05
+### Uppdatering 2024-02-05
 
 I﻿nstallationen av passersystem baserat på Axema är i det närmaste klart. Då många medlemmar inte ville ha en digital bokningslösning ströks det i projektet och en enkät har samlats in för att se hur alla medlemmar ser på en digital bokningslösning.
 
