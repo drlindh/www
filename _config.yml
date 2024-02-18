@@ -6,6 +6,7 @@ locale:             sv_SE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 teaser: 400x250.png # 400x250 px default teaser image used in image archive grid
+excerpt_separator: <!--more-->
 
 defaults:
 - scope:
