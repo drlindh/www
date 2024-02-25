@@ -12,14 +12,31 @@ Husen värms med fjärrvärme och det är vattenburen värme i lägenheterna. An
 
 ## El
 
-Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar därför el via månadsavgiften till föreningen. Avstämning görs varje månad..
+Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar därför el via månadsavgiften till föreningen. Avstämning görs varje månad.
 
 ## Balkonger
 
-Många av balkongerna är inglasade. Inglasningen är gjord på varje enskild medlems bekostnad. Eftersom de flesta lät göra detta i samband med balkongrenoveringen 2016/17 är det samma firma som utfört arbetet och det är ett inglasningssystem som heter Alnova. 
+Bostadsrättsinnehavarna har ansvaret för att balkongerna ser prydliga ut.
 
-[Information om Alnova inglasning](/images/uploads/EAlnova_Info_inglasad_balkong.pdf)
+Grillning på balkongerna är inte tillåten av brandsäkerhetsskäl och av hänsyn till grannarna.
+
+Tobaksrökning skall undvikas på balkongerna.
 
 Blomlådor på balkongräcket skall av säkerhetsskäl placeras på insidan.
 
-[Regler och rekommendationer om balkonger](/images/uploads/REGLER_OCH_REKOMMENDATIONER_FÖR_BALKONGER_220731.pdf)
+Om man har en inglasad balkong får gasolhållare som förvaras på balkongen ha maximal volym 5 liter.
+
+Balkongräckenas glasytor får ej målas. För att få ett enhetligt utseende och fullfölja de arkitektoniska intentionerna bör inte heller glasytorna täckas.
+
+I samband med att balkongerna renoverades 2015-16 erbjöds medlemmarna inglasning, vilken utfördes av företaget Alnova. Om man väljer att skaffa inglasning av balkong vid ett senare tillfälle skall denna ha samma utseende som den som utfördes i samband med balkongarbetena. Föreningen rekommenderar därför att Alnova anlitas. Något nytt bygglov behövs ej, men styrelsen vill att blanketten ”Begäran om tillstånd till ändring i lägenheten” skickas in till styrelsen.
+
+Plisségardiner för inglasning skall ha ljusgrå nyans.
+
+Borrning i balkongtak får inte ske närmare ytterkant än  20 cm och till ett maximalt djup av 4 cm.
+
+Målning av undersida balkongplatta får utföras med färg och kulör som skall godkännas av styrelsen. Underhåll av målningen är bostadsrättsinnehavarens ansvar.
+
+Eventuell målning av betonggolv är bostadsrättsinnehavarens ansvar.  Typ av färg som rekommenderas är en vattenburen, en komponent polyuretan/akrylat-baserad golvfärg avsedd för målning av betonggolv.
+
+Underhåll av väggpanelen är föreningens ansvar. Väggen är målad med akrylatfärg med kulör NCS S 1502-Y. 
+
