@@ -28,7 +28,7 @@ Om man har en inglasad balkong får gasolhållare som förvaras på balkongen ha
 
 Balkongräckenas glasytor får ej målas. För att få ett enhetligt utseende och fullfölja de arkitektoniska intentionerna bör inte heller glasytorna täckas.
 
-I samband med att balkongerna renoverades 2015-16 erbjöds medlemmarna inglasning, vilken utfördes av företaget Alnova. Om man väljer att skaffa inglasning av balkong vid ett senare tillfälle skall denna ha samma utseende som den som utfördes i samband med balkongarbetena. Föreningen rekommenderar därför att Alnova anlitas. Något nytt bygglov behövs ej, men styrelsen vill att blanketten ”Begäran om tillstånd till ändring i lägenheten” skickas in till styrelsen.
+I samband med att balkongerna renoverades 2015-16 erbjöds medlemmarna inglasning, vilken utfördes av företaget Alnova. Om man väljer att skaffa inglasning av balkong vid ett senare tillfälle skall denna ha samma utseende som den som utfördes i samband med balkongarbetena. Föreningen rekommenderar därför att Alnova anlitas. Något nytt bygglov behövs ej, men styrelsen vill att blanketten [”Begäran om tillstånd till ändring i lägenheten”](/images/uploads/2013-02-15_bygglov-brf.pdf) skickas in till styrelsen.
 
 Plisségardiner för inglasning skall ha ljusgrå nyans.
 
