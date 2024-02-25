@@ -74,11 +74,13 @@ Eftersom regelverket är mycket strängt så har styrelsen beslutat att införa 
 
 ## Balkonger
 
-Blomlådor på balkongräcket ska av säkerhetsskäl placeras på insidan.
+Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt djup är 4 cm. Att måla betonggolv är bostadsrättsinnehavarens ansvar. Vattenbaserad färg rekommenderas. Underhåll av väggpanelen är föreningens ansvar. Undersida balkongplatta får målas efter godkännande av styrelsen. 
 
-Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt djup är 4 cm. Att måla betonggolv är bostadsrättsinnehavarens ansvar. Vattenbaserad färg rekommenderas. Underhåll av väggpanelen är föreningens ansvar. Undersida balkongplatta får målas efter godkännande av styrelsen. Mer detaljer finns i regler och rekommendationer nedan.
+I samband med att balkongerna renoverades 2015-16 erbjöds medlemmarna inglasning. Om man väljer att skaffa inglasning av balkong vid ett senare tillfälle skall denna ha samma utseende som den som utfördes i samband med balkongarbetena.
 
-[Regler och rekommendationer om balkonger](/images/uploads/REGLER_OCH_REKOMMENDATIONER_FÖR_BALKONGER_220731.pdf)
+Mer detaljer finns i regler och rekommendationer nedan.
+
+[Regler och rekommendationer om balkonger](/images/uploads/REGLER_OCH_REKOMMENDATIONER_FOR_BALKONGER_240225.pdf)
 
 ## Ramavtal Sjövalla Byggservice
 
