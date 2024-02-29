@@ -72,6 +72,14 @@ Då det gäller gasspis har Räddningsverket informerat oss om att man får för
 
 Eftersom regelverket är mycket strängt så har styrelsen beslutat att införa anmälningsplikt från den boende FÖRE installationen. Besiktning av färdig installation ska sedan ske av behörig besiktningsman som lägenhetsinnehavaren själv tillkallar och ersätter. Besiktningsprotokollet ska skickas till styrelsen. Först efter en godkänd besiktning får gasspisen tas i bruk. Kontakta styrelsen på [kontakt@drlindh.se](mailto:kontakt@drlindh.se) vid frågor rörande gasspisar.
 
+## Asbest
+
+Asbest har påträffats i lim under linoleummattor, i fogar och fix i kakelplattor, kring vissa elledningar
+och förstås i eternitplattor. Någon systematisk kartläggning av var det kan påträffas finns inte vad vi vet.
+
+Vid risk för förekomst av asbest som kommer att rivas upp eller påverkas bör man ta prover.
+Företaget ALS ([www.alsglobal.se](www.alsglobal.se)) har tidigare rekommenderats av boende.
+
 ## Balkonger
 
 Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt djup är 4 cm. Att måla betonggolv är bostadsrättsinnehavarens ansvar. Vattenbaserad färg rekommenderas. Underhåll av väggpanelen är föreningens ansvar. Undersida balkongplatta får målas efter godkännande av styrelsen. 
