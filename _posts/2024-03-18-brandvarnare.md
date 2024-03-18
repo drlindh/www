@@ -8,4 +8,4 @@ I dagens GP 18/3 finns en artikel om det brandvarnarsystem som föreningen insta
 
 Styrelsen för en dialog med X2 om hur detta skall åtgärdas.
 
-Observera att detta endast berör brandvarnare i allmänna utrymmen. Däremot är det som alltid en god ide att kontrollera egna brandvarnare i lägenheten
+Observera att detta endast berör brandvarnare i allmänna utrymmen. Däremot är det som alltid en god idé att kontrollera egna brandvarnare i lägenheten
