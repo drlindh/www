@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brandvarnare
+title: Brandvarnare i allmänna utrymmen
 date: 2024-03-18T13:00:42.366Z
 teaser: /images/uploads/brandbil.jpg
 ---
