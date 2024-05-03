@@ -16,7 +16,7 @@ Installationsanvisningar för router och extender hittar du på <https://www.drl
 
 Notera att TV-boxen antingen måste kopplas med kabel direkt till routern (i ett av de uttag som är avsedda är TV), alternativt kan man koppla en kabel mellan router och extender, och koppla en kabel från TV-boxen till extendern. Det är inte möjligt att koppla TV:n till extendern om extendern inte har kabelanslutning till routern.
 
-Digitalboxen stöder inte uppspelning av program som redan visats – däremot är det möjligt att koppla in en hårddisk till boxen för att möjliggöra inspelning av program via fjärrkontrollen. Läs mer om denna funktion i boxens manual.
+Digitalboxen stöder inte uppspelning av program som redan visats – däremot är det möjligt att koppla in en hårddisk till boxen för att möjliggöra inspelning av program via fjärrkontrollen. Läs mer om denna funktion i boxens manual. Om du upplever problem med digitalboxen, kan detta ofta lösas genom en fabriksåterställning av boxen. På [Sappas webbplats](https://sappa.se/kundsupport/kundsupport-tv-play/installningar-i-digitalbox/funktioner-i-digitalbox/fabriksaterstallning#/guides?slug=s6) finns en utförlig guide till hur du skall gå till väga.
 
 I avtalet ingår också playtjänsten Sappa Play där du kan streama de flesta kanalerna från ditt utbud till mobil, surfplatta eller dator. Första gången du loggar in behöver du registrera ett konto på sappaplay.se eller i appen Sappa Play.
 
