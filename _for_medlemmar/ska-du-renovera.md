@@ -90,7 +90,7 @@ I samband med att balkongerna renoverades 2015-16 erbjöds medlemmarna inglasnin
 
 Mer detaljer finns i regler och rekommendationer nedan.
 
-[Regler och rekommendationer om balkonger](/images/uploads/REGLER_OCH_REKOMMENDATIONER_FOR_BALKONGER_240225.pdf)
+[Regler och rekommendationer om balkonger](/images/uploads/REGLER_OCH_REKOMMENDATIONER_FOR_BALKONGER_240618.pdf)
 
 ## Ramavtal Sjövalla Byggservice
 
