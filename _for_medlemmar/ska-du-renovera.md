@@ -84,7 +84,7 @@ Företaget ALS ([www.alsglobal.se](www.alsglobal.se)) har tidigare rekommenderat
 
 Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt djup är 4 cm. Att måla betonggolv är bostadsrättsinnehavarens ansvar. Vattenbaserad färg rekommenderas. Underhåll av väggpanelen är föreningens ansvar. 
 
-Undersida balkongplatta får målas efter godkännande av styrelsen. Föreningen accepterar  Alcro Tillit med kulören S 2000-N som färg för målning av balkongtak.
+Balkongtak får målas efter godkännande av styrelsen. Föreningen accepterar  Alcro Tillit med kulören S 2000-N som färg.
 
 I samband med att balkongerna renoverades 2015-16 erbjöds medlemmarna inglasning. Om man väljer att skaffa inglasning av balkong vid ett senare tillfälle skall denna ha samma utseende som den som utfördes i samband med balkongarbetena.
 
