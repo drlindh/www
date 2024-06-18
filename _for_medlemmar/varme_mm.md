@@ -34,7 +34,7 @@ Plisségardiner för inglasning skall ha ljusgrå nyans.
 
 Borrning i balkongtak får inte ske närmare ytterkant än  20 cm och till ett maximalt djup av 4 cm.
 
-Målning av undersida balkongplatta får utföras med färg och kulör som skall godkännas av styrelsen. Underhåll av målningen är bostadsrättsinnehavarens ansvar.
+Målning av undersida balkongplatta får utföras med färg och kulör som skall godkännas av styrelsen. Föreningen accepterar  Alcro Tillit med kulören S 2000-N som färg för  målning av balkongtak. Underhåll av målningen är bostadsrättsinnehavarens ansvar.
 
 Eventuell målning av betonggolv är bostadsrättsinnehavarens ansvar.  Typ av färg som rekommenderas är en vattenburen, en komponent polyuretan/akrylat-baserad golvfärg avsedd för målning av betonggolv.
 
