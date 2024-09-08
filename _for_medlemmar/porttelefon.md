@@ -26,6 +26,8 @@ Svarsapparaten erbjuder möjlighet att se besökaren via video. Även föreninge
 
 ![](/images/uploads/i53w.png)
 
+### Stör ej
+
 O﻿m man trycker på knappen "Do Not Disturb" på svarsapparaten så kopplas inga samtal fram till enheten (ringklocka och brandlarm fungerar dock fortsatt) - istället kopplas samtalen efter en viss fördröjning till registrerade telefonnummer.
 
 Svarsapparaten, samt dess installation, är valfri och bekostas av medlemmen själv. Priset om man installerade vid första erbjudandet var 2,400:-. Föreningen lämnar 1 års garanti på svarsapparaten. Svarsapparaten övergår därefter till medlemmens ansvar.
@@ -33,3 +35,27 @@ Svarsapparaten, samt dess installation, är valfri och bekostas av medlemmen sj�
 Vill man i efterhand installera en svarsapparat - kontakta styrelsen på kontakt@drlindh.se så går det att ordna till självkostnadspris.
 
 Den svarsapparat som installeras är modellen [i53w från fanvil](https://fanvil.com/products/p5/sipshineiji/20210921/5024.html). Det är säkerligen möjligt att använda andra modeller - men i53w är den som föreningen automatiskt konfigurerar.
+
+### Ändra volym
+
+För att ändra volym på enheten behöver man ansluta sig till enhetens webbinterface, förslagsvis med en dator (eller surfplatta).
+
+Först behöver man ta redan på enhetens IP nummer. Det ser man genom att klicka på "Menu" sedan "Status" då syns bilden nedan, notera IPv4 adressen.
+
+![](/images/uploads/i53w_ip.png)
+
+Öppna en webbläsare på dator eller surfplattan och skriv in IP numret i adressfältet
+
+Logga in med användarnamn admin och lösenord admin
+
+![](/images/uploads/i53w_login.png)
+
+Klicka sedan på Settings till vänster, Media Settings, och Media Settings igen.
+
+![](/images/uploads/i53w_media_settings.png)
+
+Ändra talvolymen vid samtal genom att ändra siffran vid Speakerphone Volume.
+
+Ändra volym för ringsignal och ringklocka genom att ändra siffran vid Speakerphone Ring Volume.
+
+Klicka sedan Apply nedanför för att ändra inställningarna.
