@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Passersystem och porttelefoni
-completed: false
+completed: true
 year: 2023-2024
 teaser: /images/uploads/Lagenhetsnummer liten.jpg
 feature: /images/uploads/Lagenhetsnummer feature.jpg
