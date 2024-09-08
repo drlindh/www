@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Solpaneler
-completed: false
+completed: true
 year: "2024"
 teaser: /images/uploads/gavel_liten.png
 feature: /images/uploads/img_6214 (feature).jpg
@@ -11,6 +11,10 @@ Styrelsen fick i uppdrag av Föreningsstämman att undersöka möjligheterna att
 Detta arbete pågår för fullt tillsammans med en av föreningens erfarna energikonsulter.
 
 ___________________________
+
+### Uppdatering 2024-09-08
+
+Anläggningen är nu godkänd av Göteborg Energi och driftsatt!
 
 ### Uppdatering 2024-02-04
 
