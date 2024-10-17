@@ -30,6 +30,10 @@ Svarsapparaten erbjuder möjlighet att se besökaren via video. Även föreninge
 
 O﻿m man trycker på knappen "Do Not Disturb" på svarsapparaten så kopplas inga samtal fram till enheten (ringklocka och brandlarm fungerar dock fortsatt) - istället kopplas samtalen efter en viss fördröjning till registrerade telefonnummer.
 
+Om man inte har aktiverat Stör Ej och inte svarar (när man till exempel inte är hemma) så kopplas **inte** samtalet vidare till de registrerade telefonnumret - det sker alltså endast om man aktiverat stör ej.
+
+### Installation och kostnad
+
 Svarsapparaten, samt dess installation, är valfri och bekostas av medlemmen själv. Priset om man installerade vid första erbjudandet var 2,400:-. Föreningen lämnar 1 års garanti på svarsapparaten. Svarsapparaten övergår därefter till medlemmens ansvar.
 
 Vill man i efterhand installera en svarsapparat - kontakta styrelsen på kontakt@drlindh.se så går det att ordna till självkostnadspris.
