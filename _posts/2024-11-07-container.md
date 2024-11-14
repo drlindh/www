@@ -4,5 +4,4 @@ title: Container
 date: 2024-11-07T10:41:56.976Z
 teaser: /images/uploads/container.png
 ---
-Som många säkert har sett finns en container uppställd utanför hus 4 inför städdagen 9 november. Containern kommer att stå kvar, tills den är full.
-Om du tänker kasta saker som du inte längre behöver, men som är fullt användbara, tänk på att det finns välgörenhetsorganisationer som gärna tar emot både det ena och det andra. Det finns också Facebookgrupper där ibland saker och ting hittar nya ägare.
+Containern, som stod uppställd utanför hus 4 i samband med städdagen, är nu bortforslad. Nästa container är planerad till början av januari, då det är dags att slänga ut granen.
