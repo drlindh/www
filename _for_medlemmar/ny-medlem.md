@@ -40,10 +40,9 @@ Föreningen har avtal med Sappa om bredband.  Detta omfattar internetuppkoppling
 
 [Mera information hittar du här](https://www.drlindh.se/for_medlemmar/bredband-tv-och-telefoni)
 
-
 ## El
 
-Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar därför el via månadsavgiften till föreningen.
+Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar därför el via månadsavgiften till föreningen. Eftersom kostnaden debiteras med två månaders eftersläpning, måste du själv komma överens med säljaren om betalningen för dessa två månader.
 
 ## Försäkring – bostadsrättstillägg
 
@@ -55,7 +54,7 @@ Föreningen har tecknat en extra tilläggsförsäkring som innebär att bostadsr
 
 Tvättstugan bokar du manuellt med hjälp av lås på tavla i tvättstugan. Nyckel till låset skall du ha fått av säljaren.
 
-## Parkering 
+## Parkering
 
 Du kan själv ställa dig i kö till parkeringsplats i [Nabos webbportal](https://portal.nabo.se/kundportal/login). 
 
