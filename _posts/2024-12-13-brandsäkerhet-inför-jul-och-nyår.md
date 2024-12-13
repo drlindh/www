@@ -2,7 +2,7 @@
 layout: post
 title: Brandsäkerhet inför jul och nyår
 date: 2024-12-13T20:08:03.627Z
-teaser: /images/uploads/ljus.png
+teaser: /images/uploads/varmeljus.png
 ---
 Tänk på att kontrollera brandvarnarna som skall finnas i lägenheten.
 
