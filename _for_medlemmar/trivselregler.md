@@ -16,7 +16,6 @@ Arbeten i lägenheten som medför hög ljudnivå, t ex borrning, slipning och sp
 
 När det gäller mera omfattande arbeten, t.ex. badrumsrenovering, gäller snävare tider. Dessa meddelas i samband med att styrelsen beviljar tillstånd för renoveringen. 
 
-
 ## Fotbollsspel på lekplatsen
 
 Ljusa vår- och sommarkvällar lockar till fotbollsspel och är tillåtet fram till kl. 22. Därefter stör det medlemmarna som bor med fönster mot lekplatsen.
@@ -31,7 +30,7 @@ Om du någon gång till exempel arrangerar en större fest eller utför något b
 
 ## Gemensamma utrymmen
 
-Entré- och våningsplan är inga lekplatser eller förvaringsutrymmen för cyklar, barnvagnar etc. Att förvara saker här utgör en säkehetsrisk vid tex brand eller annan akut situation.
+Entré- och våningsplan är inga lekplatser eller förvaringsutrymmen för cyklar, barnvagnar etc. Att förvara saker här utgör en säkerhetsrisk vid tex brand eller annan akut situation.
 
 ## Husdjur
 
