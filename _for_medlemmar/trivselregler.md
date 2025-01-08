@@ -34,9 +34,9 @@ Entré- och våningsplan är inga lekplatser eller förvaringsutrymmen för cykl
 
 ## Husdjur
 
-En lugn och trygg boendemiljö är väsentlig för de boendes trygghet och trivsel i bostadsområdet. Alla boende har en skyldighet att alltid visa hänsyn till sina grannar. Det är inte tillåtet att rasta hund eller ha den okopplad inom föreningens uteområde. Detta gäller för alla hundar. Trygghet och trivsel innebär också att den boende får ha husdjur om inte grannarna upplever husdjurets beteende som hotfullt eller störande.
+En lugn och trygg boendemiljö är väsentlig för de boendes trygghet och trivsel i bostadsområdet. Alla boende har en skyldighet att alltid visa hänsyn till sina grannar. Det är inte tillåtet att rasta hund eller ha den okopplad inom föreningens uteområde. Detta gäller för alla hundar. 
 
-Detta innebär t ex att s k kamphundar är förbjudna. Den boende ansvarar också för att besökande gäster uppfyller ovanstående krav.
+Trygghet och trivsel innebär också att den boende får ha husdjur om inte grannarna upplever husdjurets beteende som hotfullt eller störande. Detta innebär t.ex. att s.k. kamphundar är förbjudna. Den boende ansvarar också för att besökande gäster uppfyller ovanstående krav.
 
 **Det gäller alltså hundar som**
 
