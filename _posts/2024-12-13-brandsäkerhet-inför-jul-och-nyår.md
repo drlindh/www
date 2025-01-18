@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brandsäkerhet inför jul och nyår
+title: Brandsäkerhet
 date: 2024-12-13T20:08:03.627Z
 teaser: /images/uploads/varmeljus.png
 ---
@@ -15,5 +15,3 @@ Batterier till elcyklar mm drivs av litiumjonbatterier som vid ev brand utveckla
 Använd alltid originalladdare och CE märkta produkter.
 
 Undvik att ladda i hallen som oftast är en utrymningsväg vid brand.   Ladda under uppsikt!
-
-GOD JUL!
