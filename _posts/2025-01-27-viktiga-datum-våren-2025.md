@@ -5,7 +5,7 @@ date: 2025-01-26T23:44:01.826Z
 teaser: /images/uploads/kalender.jpeg
 ---
 
-29 mars      Motioner till föreningsstämman (sista dag)
+29 mars      Motioner till föreningsstämman (sista dag)\
 
 7  april     Lindhbladet manusstopp
 
