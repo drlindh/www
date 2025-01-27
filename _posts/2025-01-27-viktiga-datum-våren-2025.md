@@ -2,7 +2,7 @@
 layout: post
 title: Viktiga datum våren 2025
 date: 2025-01-26T23:44:01.826Z
-teaser: /images/uploads/vitsippor.png
+teaser: /images/uploads/kalender.png
 ---
 Här följer datum för några aktiviteter i föreningen under våren:
 
