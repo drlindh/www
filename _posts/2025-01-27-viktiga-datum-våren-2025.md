@@ -8,7 +8,7 @@ Här följer datum för några aktiviteter i föreningen under våren:
 
 | | |
 
-| :--- | :--- |
+|:---|:---|
 
 |29 mars | Motioner till föreningsstämman (sista dag)|
 
