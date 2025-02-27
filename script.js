@@ -38,7 +38,7 @@ function generateContributionForm() {
         <tr>
             <td>${apartment.id}</td>
             <td>
-                <input type="number" class="form-control d-inline-block" id="contribution${index}" style="width: auto;" min="0" max="${debtAmount}" placeholder="Ange belopp" oninput="calculateWithContribution()">
+                <input type="number" class="form-control d-inline-block" id="contribution${index}" style="width: 100%;" min="0" max="${debtAmount.toFixed(0)}" placeholder="Ange belopp" oninput="validateInput(this); calculateWithContribution()">
             </td>
             <td>
                 ${formatNumber(debtAmount)} kr
@@ -51,6 +51,19 @@ function generateContributionForm() {
     tbody.innerHTML = rows;
 }
 
+function validateInput(inputElement) {
+    const min = parseFloat(inputElement.min);
+    const max = parseFloat(inputElement.max);
+    const value = parseFloat(inputElement.value);
+    
+    if (value < min || value > max) {
+        // Highlight with a red background if the value is outside the allowed range
+        inputElement.style.backgroundColor = 'red';
+    } else {
+        // Reset to default background if the value is within the allowed range
+        inputElement.style.backgroundColor = '';
+    }
+}
 
 function calculateInitial() {
     const resultTable = document.getElementById('resultTable');
