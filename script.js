@@ -134,7 +134,7 @@ function calculateInitial() {
           <th>Skuldandelstal</th>
           <th>Del av Skuld (kr)</th>
           <th>Månadskostnad räntedel (kr)</th>
-          <th>Driftsandelstal</th>
+          <th>Driftandelstal</th>
           <th>Månadskostnad driftsdel (kr)</th>
           <th>Total Månadsavgift (kr)</th>
         </tr>
@@ -246,7 +246,7 @@ function calculateWithContribution() {
           <th>Skuldandelstal</th>
           <th>Del av Skuld (kr)</th>
           <th>Månadskostnad räntedel (kr)</th>
-          <th>Driftsandelstal</th>
+          <th>Driftandelstal</th>
           <th>Månadskostnad driftsdel (kr)</th>
           <th>Total Månadsavgift (kr)</th>
         </tr>
