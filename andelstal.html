@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beräkning av andelstal</title>
+    <!-- Inkludera Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+        }
+        input[type=number]::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1 class="mb-4">Beräkning av Andelstal</h1>
+
+        <!-- Ingångsdata -->
+        <div class="card mb-4">
+            <div class="card-header">
+                Ingångsdata
+            </div>
+            <div class="card-body">
+                <p>Årsavgifter: <span id="annualFeesDisplay"></span></p>
+                <p>Totala lån i föreningen: <span id="totalLoanDisplay"></span></p>
+                <div class="form-group">
+                    <label for="interestRate">Räntenivå (%):</label>
+                    <input type="number" class="form-control" id="interestRate" min="0" oninput="calculateWithContribution()">
+                </div>
+            </div>
+        </div>
+
+        <!-- Resultat utan kapitaltillskott -->
+        <h3>Avgiftsfördelning (utan tillskott):</h3>
+        <table class="table table-striped" id="resultTable"></table>
+
+<!-- Kapitaltillskott -->
+<div class="card my-4">
+    <div class="card-header">
+        <h3 class="mb-4">Frivilligt Kapitaltillskott</h3>
+    </div>
+    <div class="card-body">
+        <form id="capitalContributionForm">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Lägenhet</th>
+                        <th>Kapitaltillskott (kr)</th>
+                        <th>Aktuell skuldandel (kr)</th>
+                        <th>Skuldandel efter kapitaltillskott (kr)</th>
+                    </tr>
+                </thead>
+                <tbody id="contributionTableBody">
+                    <!-- Formulärelement kommer att genereras här dynamiskt av JavaScript -->
+                </tbody>
+            </table>
+        </form>
+    </div>
+</div>
+
+
+        <!-- Resultat med kapitaltillskott -->
+        <h3>Avgiftsfördelning (med tillskott):</h3>
+        <table class="table table-striped" id="contributionResultTable"></table>
+
+    </div>
+
+    <!-- Inkludera Bootstrap JS och jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
+
+<style>
+    table {
+    width: 100%; /* Använd hela sidans bredd */
+    border-collapse: collapse; /* Ta bort mellanrum mellan celler */
+}
+
+th, td {
+    padding: 2px; /* Minska vadderingen för att göra tabellen kompakt */
+}
+
+th {
+    background-color: #f2f2f2; /* Lätt bakgrundsfärg för huvudceller */
+}
+
+td {
+    border: 1px solid #dddddd; /* Tunn kantlinje för cellerna */
+    word-wrap: break-word; /* Hantera orduppläggning om de blir för långa */
+}
+
+@media (max-width: 768px) {
+    th, td {
+        padding: 4px; /* Ytterligare minskning av vaddering vid mindre skärmar */
+    }
+}
+.container {
+    width: 100%; /* Använd hela sidans bredd */
+    max-width: 1400px; /* Ta bort eventuell maximal breddbegränsning */
+    margin: 0 auto; /* Centrera containern horisontellt */
+    padding: 0 16px; /* Liten vaddering för innehållens andningsutrymme */
+    box-sizing: border-box; /* Se till att padding och border ingår i totalbredden */
+}
+</style>
+</body>
+</html>
