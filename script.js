@@ -77,6 +77,7 @@ function calculateInitial() {
             </tr>`;
     }).join('');
 
+    
     resultTable.innerHTML = `
       <thead>
         <tr>
@@ -92,21 +93,36 @@ function calculateInitial() {
       </thead>
       <tbody>
         ${rows}
+        <tr>
+                <th>Summa:</th>
+                <th></th>
+                <th>${apartments.reduce((sum, apt) => sum + apt.debtShare, 0).toFixed(6)} (${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + apt.debtPercent, 0))}%)</th>
+                <th>${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + totalLoan * (apt.debtPercent / 100), 0))} kr</th>
+                <th>${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + totalLoan / 12 * (apt.debtPercent / 100) * interestRate, 0))} kr</th>
+                <th>${apartments.reduce((sum, apt) => sum + apt.operatingShare, 0).toFixed(6)} (${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + apt.operatingPercent, 0))}%)</th>
+                <th>${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + annualOperatingCost / 12 * (apt.operatingPercent / 100), 0))} kr</th>
+                <th>${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + annualOperatingCost / 12 * (apt.operatingPercent / 100), 0) + apartmentsWithPercent.reduce((sum, apt) => sum + totalLoan / 12 * (apt.debtPercent / 100) * interestRate, 0))} kr</th>
+        </tr>
       </tbody>
     `;
 }
 
 // Funktion för att uppdatera HTML med data
 function updateInputData() {
-    document.getElementById('annualFeesDisplay').textContent = `${formatNumber(annualOperatingCost)} kr`;
+    const interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
+    document.getElementById('annualFeesDisplay').textContent = `${formatNumber(annualOperatingCost)} kr (per månad: ` + formatNumber(annualOperatingCost/12) + ` kr)`;
+    document.getElementById('annualRatesDisplay').textContent = `${formatNumber(totalLoan * interestRate)} kr (per månad: ` + formatNumber(totalLoan * interestRate/12) + ` kr)`;
+
     document.getElementById('totalLoanDisplay').textContent = `${formatNumber(totalLoan)} kr`;
-    const interestInput = document.getElementById('interestRate');
-    if (interestInput) {
-        interestInput.value = 3;
-    }
+}
+
+function updateInterestRate() {
+
 }
 
 function calculateWithContribution() {
+    updateInputData();
+    calculateInitial();
     const interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
 
     if (isNaN(interestRate) || interestRate < 0) {
@@ -172,6 +188,8 @@ function calculateWithContribution() {
             </tr>`;
     }).join('');
 
+    const apartmentsWithPercent = calculatePercentShares();
+
     contributionResultTable.innerHTML = `
       <thead>
         <tr>
@@ -187,6 +205,17 @@ function calculateWithContribution() {
       </thead>
       <tbody>
         ${rows}
+        <tr>
+                <th>Summa:</th>
+                <th></th>
+                <th>${newDebtShares.reduce((sum, apt) => sum + apt, 0).toFixed(6)} (${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt / totalAdjustedDebt * 100, 0))}%)</th>
+                <th>${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt, 0))} kr</th>
+                <th>${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt * interestRate / 12, 0))} kr</th>
+                <th>${apartments.reduce((sum, apt) => sum + apt.operatingShare, 0).toFixed(6)} (${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + apt.operatingPercent, 0))}%)</th>
+                <th>${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + annualOperatingCost / 12 * (apt.operatingPercent / 100), 0))} kr</th>
+                <th>${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt * interestRate / 12, 0) + apartmentsWithPercent.reduce((sum, apt) => sum + annualOperatingCost / 12 * (apt.operatingPercent / 100), 0))} kr</th>
+
+                </tr>
       </tbody>
     `;
 }

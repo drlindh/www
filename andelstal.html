@@ -27,11 +27,12 @@
                 Ingångsdata
             </div>
             <div class="card-body">
-                <p>Årsavgifter: <span id="annualFeesDisplay"></span></p>
+                <p>Årsavgifter driftsdel: <span id="annualFeesDisplay"></span></p>
+                <p>Årsavgifter räntedel: <span id="annualRatesDisplay"></span></p>
                 <p>Totala lån i föreningen: <span id="totalLoanDisplay"></span></p>
                 <div class="form-group">
                     <label for="interestRate">Räntenivå (%):</label>
-                    <input type="number" class="form-control" id="interestRate" min="0" oninput="calculateWithContribution()">
+                    <input type="number" class="form-control" id="interestRate" min="0" oninput="calculateWithContribution()" value="3">
                 </div>
             </div>
         </div>
