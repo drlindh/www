@@ -69,18 +69,28 @@
         <div class="card-body">
             <p><b>Årsavgifter driftsdel:</b> <span id="annualFeesDisplay"></span></p>
             <p><i>Detta motsvarar föreningens riktiga driftskostnader inklusive tomträttsavgälg men exklusive räntekostnader och avskrivningar</i></p>
+            <hr>
             <p><b>Årsavgifter räntedel:</b> <span id="annualRatesDisplay"></span></p>
             <p><b>Totala lån i föreningen:</b> <span id="totalLoanDisplay"></span></p>
             <p><i>Detta motsvarar föreningens riktiga lån fördelat på dessa exempellägenheter</i></p>
+            <hr>
             <div class="form-group">
                 <label for="interestRate"><b>Räntenivå (%):</b></label>
-                <input type="float" class="form-control" id="interestRate" min="0" oninput="calculateWithContribution()" value="3.15">
+                <select class="form-control" id="interestRate" onchange="calculateWithContribution()">
+                    <option value="2.0">2.0%</option>
+                    <option value="2.5">2.5%</option>
+                    <option value="3.0">3.0%</option>
+                    <option value="3.15" selected>3.15% - Enligt budget 2025</option>
+                    <option value="3.5">3.5%</option>
+                    <option value="4.0">4.0%</option>
+                    <option value="4.5">4.5%</option>
+                </select>
             </div>
             <p><i>Här kan du ändra räntekostnader för föreningens lån. I Budgeten för 2025 har styrelsen räknat med 3.15%</i></p>
         </div>
     </div>
 </div>
-
+<hr>
 <div class="container">
         <!-- Resultat utan kapitaltillskott -->
     <h3>Avgiftsfördelning före eventuella frivilliga kapitaltillskott</h3>
@@ -89,6 +99,9 @@
     </p>
     <table class="table table-striped" id="resultTable"></table>
 
+</div>
+<hr>
+<div class="container">
     <!-- Kapitaltillskott -->
     <div class="card my-4">
         <div class="card-header">
@@ -126,6 +139,9 @@
         </div>
     </div>
 
+</div>
+<hr>
+<div class="container">
 
         <!-- Resultat med kapitaltillskott -->
         <h3>Avgiftsfördelning (med tillskott):</h3>
