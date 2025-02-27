@@ -151,20 +151,82 @@
 <hr>
 <div class="container">
 
-        <!-- Resultat med kapitaltillskott -->
-        <h3>Avgiftsfördelning efter frivilliga kapitaltillskott:</h3>
-        <p>
-            Nedan visas hur räntekostnader och avgift förändras om någon gör ett frivilligt kapitaltillskott.
-            Värden som ändras markeras med fetstil.
-        </p>
-        <p>
-            Notera att inga avgifter ändras för dem som väljer att inte göra ett frivilligt kapitaltillskott. Det enda
-            som ändras för dem är andelen av skulden i procent då föreningens skuld minksar med det tillförda
-            kapitalet som andra gjort.
-        </p>
-        <table class="table table-striped" id="contributionResultTable"></table>
+    <!-- Resultat med kapitaltillskott -->
+    <h3>Avgiftsfördelning efter frivilliga kapitaltillskott:</h3>
+    <p>
+        Nedan visas hur räntekostnader och avgift förändras om någon gör ett frivilligt kapitaltillskott.
+        Värden som ändras markeras med fetstil.
+    </p>
+    <p>
+        Notera att inga avgifter ändras för dem som väljer att inte göra ett frivilligt kapitaltillskott. Det enda
+        som ändras för dem är andelen av skulden i procent då föreningens skuld minksar med det tillförda
+        kapitalet som andra gjort.
+    </p>
+    <table class="table table-striped" id="contributionResultTable"></table>
+
+</div>
+
+<hr>
+<div class="container">
+    <!-- Kapitaltillskott -->
+    <div class="card my-4">
+        <div class="card-header">
+            <h3 class="mb-4">Amortering eller upplåning</h3>
+            <p>
+                Om föreningen efter att någon medlem gjort frivilligt kapitaltillskott lånar upp 
+                mer kapital - eller amorterar på sina lån - så behöver skuldandelstalen räknas om.
+            </p>
+            <p>
+                Vid denna typ av förändring av lånat kapital justeras alla medlemmars skuldandelar. Här finns
+                möjlighet att simulera två olika scenarion.
+            </p>
+            <div class="option rounded p-3 bg-success" id=defaultScen onclick="calculateWithContributionAndScen(50000000, 0.75);">
+                <h5 class="mb-4">Scenario A - Föreningen köper loss en av fyra tomter</h5>
+                <p>
+                    Föreningen lånar upp motsvarande 50 miljoner kronor för att köpa loss en av tomterna. För denna
+                    exempelförening motsvarar det 1 717 104 kr i ökade lån. I och med att föreningen 
+                    köper en tomt minskar även tomträttsavgälden med en fjärdedel.
+                </p>
+            </div>
+            <div class="option rounded p-3" onclick="calculateWithContributionAndScen(-5000000, 1);">
+                <h5 class="mb-4">Scenario B - Föreningen använder driftsöverskott till amortering</h5>
+                <p>
+                    Föreningen använder sitt överskott för att amortera motsvarande 5 miljoner på sina lån. För denna 
+                    exempelförening motsvarar det 171 710 kr.
+                </p>
+            </div>
+        </div>
+        <table class="table table-striped" id="contributionResultTableAfterScen"></table>
 
     </div>
+
+</div>
+
+<script>
+    window.onload = function() {
+        // Hämta Scenario A-diven
+        var scenarioA = document.getElementById('defaultScen');
+        
+        // Kontrollera om elementet existerar och klicka på det programmässigt
+        if (scenarioA) {
+            scenarioA.click();
+        }
+    };
+</script>
+
+<script>
+document.querySelectorAll('.option').forEach((option) => {
+    option.addEventListener('click', function() {
+        // Ta bort 'bg-success' från alla options
+        document.querySelectorAll('.option').forEach((opt) => {
+            opt.classList.remove('bg-success');
+        });
+
+        // Lägg till 'bg-success' till den aktuellt valda sektionen
+        this.classList.add('bg-success');
+    });
+});
+</script>
 
     <!-- Inkludera Bootstrap JS och jQuery -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

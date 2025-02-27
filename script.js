@@ -266,10 +266,111 @@ function calculateWithContribution() {
                 </tr>
       </tbody>
     `;
+
+    // Uppdatera sista tabellen
+    document.querySelector('.bg-success').click();
 }
 
+function calculateWithContributionAndScen(newLoan, avgaldRatio) {
+    newLoan = newLoan * partOfBRF/100;
+    console.log(newLoan);
+    const interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
 
+    if (isNaN(interestRate) || interestRate < 0) {
+        alert("Ange ett giltigt räntetal.");
+        return;
+    }
 
+    const contributions = apartments.map((_, index) =>
+        parseFloat(document.getElementById(`contribution${index}`).value) || 0
+    );
+
+    if (contributions.some(val => val < 0)) {
+        alert("Vänligen ange endast positiva tal för kapitaltillskott.");
+        return;
+    }
+
+    const contributionResultTable = document.getElementById('contributionResultTableAfterScen');
+    const totalDebtShares = apartments.reduce((sum, apt) => sum + apt.debtShare, 0);
+
+    // Beräkna justerade skulder och nya skuldandelstal
+    let adjustedDebts = [];
+    let newDebtShares = [];
+    let totalAdjustedDebt = 0;
+
+    apartments.forEach((apartment, index) => {
+        let initialDebtAmount = totalLoan * (apartment.debtShare / totalDebtShares);
+        let adjustedDebt = initialDebtAmount - contributions[index] + newLoan * (apartment.debtShare / totalDebtShares);
+        adjustedDebts.push(adjustedDebt);
+        totalAdjustedDebt += adjustedDebt;
+    });
+
+    let previousLoanAmount = totalLoan - contributions.reduce((sum, apt) => sum + apt, 0)
+
+    apartments.forEach((apartment, index) => {
+        let initialDebtAmount = totalLoan * (apartment.debtShare / totalDebtShares);
+
+        let newDebtShare = apartment.debtShare * (1 - (contributions[index] / initialDebtAmount)) + (apartment.operatingShare) * (newLoan / previousLoanAmount);
+        newDebtShares.push(newDebtShare);
+    });
+
+    let rows = apartments.map((apartment, index) => {
+        const adjustedDebtFee = adjustedDebts[index] * interestRate;
+        const newDebtPercentage = (adjustedDebts[index] / totalAdjustedDebt) * 100;
+        
+        const operatinShare = (apartment.operatingShare / apartments.reduce((sum, apt) => sum + apt.operatingShare, 0))
+        const operatingFee = ((currentAnnualOperatingCost + avgaldRatio * avgald)/100*partOfBRF) * operatinShare;
+        const totalMonthlyFee = (adjustedDebtFee + operatingFee) / 12;
+
+        // Funktion för att markera ändrade värden
+        function highlightChange(initialValue, currentValue) {
+            return initialValue !== currentValue ? `<b><u>${currentValue}</u></b>` : currentValue;
+        }
+
+        return `
+            <tr>
+                <td>${apartment.id}</td>
+                <td>${apartment.size}</td>
+                <td>${newDebtShares[index].toFixed(6)} ${'(' + newDebtPercentage.toFixed(1) + '%)'}</td>
+                <td>${formatNumber(adjustedDebts[index])} kr</td>
+                <td>${formatNumber(adjustedDebtFee/12)} kr</td>
+                <td>${apartment.operatingShare.toFixed(6)} (${(apartment.operatingShare / apartments.reduce((sum, apt) => sum + apt.operatingShare, 0) * 100).toFixed(1)}%)</td>
+                <td>${formatNumber(operatingFee/12)} kr</td>
+                <td>${formatNumber(totalMonthlyFee)} kr</td>
+            </tr>`;
+    }).join('');
+
+    const apartmentsWithPercent = calculatePercentShares();
+
+    contributionResultTable.innerHTML = `
+      <thead>
+        <tr>
+          <th>Lägenhet</th>
+          <th>Storlek</th>
+          <th>Skuldandelstal</th>
+          <th>Del av Skuld (kr)</th>
+          <th>Månadskostnad räntedel (kr)</th>
+          <th>Driftandelstal</th>
+          <th>Månadskostnad driftsdel (kr)</th>
+          <th>Total Månadsavgift (kr)</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${rows}
+        <tr>
+                <th>Summa:</th>
+                <th></th>
+                <th>${newDebtShares.reduce((sum, apt) => sum + apt, 0).toFixed(6)} (${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt / totalAdjustedDebt * 100, 0))}%)</th>
+                <th>${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt, 0))} kr</th>
+                <th>${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt * interestRate / 12, 0))} kr</th>
+                <th>${apartments.reduce((sum, apt) => sum + apt.operatingShare, 0).toFixed(6)} (${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + apt.operatingPercent, 0))}%)</th>
+                <th>${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + annualOperatingCost / 12 * (apt.operatingPercent / 100), 0))} kr</th>
+                <th>${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt * interestRate / 12, 0) + apartmentsWithPercent.reduce((sum, apt) => sum + annualOperatingCost / 12 * (apt.operatingPercent / 100), 0))} kr</th>
+
+                </tr>
+      </tbody>
+    `;
+}
 
 // Initiera formulär och initialberäkningar
 document.addEventListener('DOMContentLoaded', () => {
