@@ -38,10 +38,10 @@ function generateContributionForm() {
         <tr>
             <td>${apartment.id}</td>
             <td>
-                <input type="number" class="form-control d-inline-block" id="contribution${index}" style="width: 100%;" min="0" max="${debtAmount.toFixed(0)}" placeholder="Ange belopp" oninput="validateInput(this); calculateWithContribution()">
+                ${formatNumber(debtAmount)} kr
             </td>
             <td>
-                ${formatNumber(debtAmount)} kr
+                <input type="number" class="form-control d-inline-block" id="contribution${index}" style="width: 100%;" min="0" max="${debtAmount.toFixed(0)}" placeholder="Ange belopp" oninput="validateInput(this); calculateWithContribution()">
             </td>
             <td id="contributionsAdjusted${index}">
                 ${formatNumber(debtAmount)} kr
