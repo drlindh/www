@@ -67,13 +67,16 @@
             Förutsättningar
         </div>
         <div class="card-body">
-            <p>Årsavgifter driftsdel: <span id="annualFeesDisplay"></span></p>
-            <p>Årsavgifter räntedel: <span id="annualRatesDisplay"></span></p>
-            <p>Totala lån i föreningen: <span id="totalLoanDisplay"></span></p>
+            <p><b>Årsavgifter driftsdel:</b> <span id="annualFeesDisplay"></span></p>
+            <p><i>Detta motsvarar föreningens riktiga driftskostnader inklusive tomträttsavgälg men exklusive räntekostnader och avskrivningar</i></p>
+            <p><b>Årsavgifter räntedel:</b> <span id="annualRatesDisplay"></span></p>
+            <p><b>Totala lån i föreningen:</b> <span id="totalLoanDisplay"></span></p>
+            <p><i>Detta motsvarar föreningens riktiga lån fördelat på dessa exempellägenheter</i></p>
             <div class="form-group">
-                <label for="interestRate">Räntenivå (%):</label>
-                <input type="number" class="form-control" id="interestRate" min="0" oninput="calculateWithContribution()" value="3">
+                <label for="interestRate"><b>Räntenivå (%):</b></label>
+                <input type="float" class="form-control" id="interestRate" min="0" oninput="calculateWithContribution()" value="3.15">
             </div>
+            <p><i>Här kan du ändra räntekostnader för föreningens lån. I Budgeten för 2025 har styrelsen räknat med 3.15%</i></p>
         </div>
     </div>
 </div>
