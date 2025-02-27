@@ -1,3 +1,5 @@
+
+
 const apartments = [
     { id: '1 RoK', size: 38.1, debtShare: 0.00226, operatingShare: 0.00226 },
     { id: '1 RoK', size: 38.1, debtShare: 0.00226, operatingShare: 0.00226 },
@@ -9,8 +11,20 @@ const apartments = [
     { id: '6 RoK', size: 128.5, debtShare: 0.007217, operatingShare: 0.007217 },
 ];
 
-const totalLoan = 40000000/28; // Totalt lån
-const annualOperatingCost = 10000000/28; // Årliga driftkostnader
+const currentLoans = 42628380;
+const shareToPerc =  0.1989 / 0.002015;
+const partOfBRF = apartments.reduce((sum, apt) => sum + apt.operatingShare, 0) * shareToPerc;
+const currentAnnualOperatingCost = 10997000 - 2475000;
+const avgald = 2114000;
+
+// Scenario A
+const totalLoan = currentLoans/100*partOfBRF; // Totalt lån
+const annualOperatingCost = (currentAnnualOperatingCost + avgald)/100*partOfBRF; // Årliga driftkostnader
+
+// Scenario B Köpa en tomt för 50MSEK
+// const additionalLoan = 50000000;
+// const totalLoan = (currentLoans + additionalLoan)/100*partOfBRF; // Totalt lån
+// const annualOperatingCost = (currentAnnualOperatingCost + 0.75*avgald)/100*partOfBRF; // Årliga driftkostnader
 
 function formatNumber(number) {
     return new Intl.NumberFormat('sv-SE').format(Math.round(number));
