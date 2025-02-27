@@ -38,7 +38,7 @@ function generateContributionForm() {
         <tr>
             <td>${apartment.id}</td>
             <td>
-                <input type="number" class="form-control d-inline-block" id="contribution${index}" style="width: auto;" min="0" placeholder="Ange belopp" oninput="calculateWithContribution()">
+                <input type="number" class="form-control d-inline-block" id="contribution${index}" style="width: auto;" min="0" max="${debtAmount}" placeholder="Ange belopp" oninput="calculateWithContribution()">
             </td>
             <td>
                 ${formatNumber(debtAmount)} kr
@@ -163,9 +163,9 @@ function calculateWithContribution() {
             <tr>
                 <td>${apartment.id}</td>
                 <td>${apartment.size}</td>
-                <td>${highlightChange(apartments[index].debtShare.toFixed(6), newDebtShares[index].toFixed(6))} (${highlightChange(initialPercentage[index].toFixed(1),newDebtPercentage.toFixed(1))}%)</td>
+                <td>${highlightChange(apartments[index].debtShare.toFixed(6), newDebtShares[index].toFixed(6))} ${highlightChange('(' + initialPercentage[index].toFixed(1) + '%)','(' + newDebtPercentage.toFixed(1) + '%)')}</td>
                 <td>${highlightChange(formatNumber(initialDebts[index]), formatNumber(adjustedDebts[index]))} kr</td>
-                <td>${highlightChange(formatNumber(initialDebtFee), formatNumber(adjustedDebtFee))} kr</td>
+                <td>${highlightChange(formatNumber(initialDebtFee/12), formatNumber(adjustedDebtFee/12))} kr</td>
                 <td>${apartment.operatingShare.toFixed(6)} (${(apartment.operatingShare / apartments.reduce((sum, apt) => sum + apt.operatingShare, 0) * 100).toFixed(1)}%)</td>
                 <td>${formatNumber(operatingFee/12)} kr</td>
                 <td>${highlightChange(formatNumber(initialTotalMonthlyFee), formatNumber(totalMonthlyFee))} kr</td>
