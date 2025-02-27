@@ -18,56 +18,123 @@
 </head>
 <body>
 
-    <div class="container">
-        <h1 class="mb-4">Beräkning av Andelstal</h1>
-
-        <!-- Ingångsdata -->
-        <div class="card mb-4">
-            <div class="card-header">
-                Ingångsdata
-            </div>
-            <div class="card-body">
-                <p>Årsavgifter driftsdel: <span id="annualFeesDisplay"></span></p>
-                <p>Årsavgifter räntedel: <span id="annualRatesDisplay"></span></p>
-                <p>Totala lån i föreningen: <span id="totalLoanDisplay"></span></p>
-                <div class="form-group">
-                    <label for="interestRate">Räntenivå (%):</label>
-                    <input type="number" class="form-control" id="interestRate" min="0" oninput="calculateWithContribution()" value="3">
-                </div>
+<div class="container">
+    <h1 class="mb-4">Förslag på nya stadgar</h1>
+    <p>
+        Styrelsen för BRF Doktor Lindh arbetar med nya stadgar som kommer presenteras som en proposition på stämman i maj 2025.
+    </p>
+    <p>
+        Stadgarna uppdateras för att anpassas till ny lagstiftning. I samband med detta har styrelsen tagit ett helhetsgrepp om Stadgarna
+        och använt en mall från Bostadsrätterna.
+    </p>
+    <h3 class="mb-4">Tomträttsavgäld</h3>
+    <p>
+        Föreningen betalar tomträttsavgäld till kommunen för marken. Denna uppgår fram till 2027 till 2,114,000 kronor per år. Föreningen
+        blev erbjudna att köpa sin mark för cirka 200,000,000 kronor för ett antal år sedan. 2027 kommer sannolikt avgälden att öka.
+    </p>
+    <p>
+        På lång sikt kanske föreningen vill köpa loss marken, men för att göra det kommer föreningen behöva ta upp nya lån. Föreningens mark är
+        dock uppdelad på fyra fastigheter, så det finns möjlighet att köpa en del i taget.
+    </p>
+    <p>
+        För att finansiera ett sådant köp är det sannolikt nödvändigt att ta in kapital från medlemmar. De föreslagna stadgarna innehåller skrivningar
+        som hanterar detta - utan att införa det om inte en framtida stämma så beslutar. Även om stadgarna godkänns så förändras alltså inte andelsberäkningar
+        om inte ytterligare en stämma beslutar om att medlemmar får möjlighet att göra frivilliga kapitaltillskott.
+    </p>
+    <p>
+        Viktigt att poängtera här är alltså att kapitaltillskott är frivilliga, och de som i ett sådant scenario väljer att göra det, kan "överta" en
+        del av föreningens lån. I vissa fall kan detta vara förmånligt då föreningen inte har någon rätt till skatteavdrag på räntekostnader.
+    </p>
+</div>
+<hr>
+<div class="container-sm">
+    <h1 class="mb-4">Räknesnurra</h1>
+    <p>
+        Denna sida är till för att ge en uppfattning av vad ett sådant frivilligt kapitaltillskott skulle innebära för lägenheter i vår föreningen. Notera
+        dock att införandet av stadgarna inte ger denna möjlighet utan att ytterligare en framtida stämma fattar ett sådant beslut. Detta är endast ett exempel
+        på hur det skulle kunna se ut i framtiden om beslutet då tas.
+    </p>
+    <p>
+        Nedan finns en liten exempelförening som har lägenheter som liknar BRF Doktor Lindh - fast endast 8 lägenheter för att göra exemplet lättare att se.
+        Nedan kan man ändra räntan för att se hur det påverkar våra avgifter, och hur stor del av föreningens lån som "hör" till varje lägenhet.
+    </p>
+    <p>
+        Siffrorna i exemplet nedan ligger så nära de faktiska uppgifterna som möjligt.
+    </p>
+    <!-- Ingångsdata -->
+    <div class="card mb-4">
+        <div class="card-header">
+            Förutsättningar
+        </div>
+        <div class="card-body">
+            <p>Årsavgifter driftsdel: <span id="annualFeesDisplay"></span></p>
+            <p>Årsavgifter räntedel: <span id="annualRatesDisplay"></span></p>
+            <p>Totala lån i föreningen: <span id="totalLoanDisplay"></span></p>
+            <div class="form-group">
+                <label for="interestRate">Räntenivå (%):</label>
+                <input type="number" class="form-control" id="interestRate" min="0" oninput="calculateWithContribution()" value="3">
             </div>
         </div>
-
-        <!-- Resultat utan kapitaltillskott -->
-        <h3>Avgiftsfördelning (utan tillskott):</h3>
-        <table class="table table-striped" id="resultTable"></table>
-
-<!-- Kapitaltillskott -->
-<div class="card my-4">
-    <div class="card-header">
-        <h3 class="mb-4">Frivilligt Kapitaltillskott</h3>
-    </div>
-    <div class="card-body">
-        <form id="capitalContributionForm">
-            <table class="table table-striped">
-                <thead>
-                    <tr>
-                        <th>Lägenhet</th>
-                        <th>Aktuell andel av föreningens skuld (kr)</th>
-                        <th>Kapitaltillskott (kr)</th>
-                        <th>Skuldandel efter kapitaltillskott (kr)</th>
-                    </tr>
-                </thead>
-                <tbody id="contributionTableBody">
-                    <!-- Formulärelement kommer att genereras här dynamiskt av JavaScript -->
-                </tbody>
-            </table>
-        </form>
     </div>
 </div>
+
+<div class="container">
+        <!-- Resultat utan kapitaltillskott -->
+    <h3>Avgiftsfördelning före eventuella frivilliga kapitaltillskott</h3>
+    <p>
+        Andelstal är tagna från några exempellägenheter i föreningen
+    </p>
+    <table class="table table-striped" id="resultTable"></table>
+
+    <!-- Kapitaltillskott -->
+    <div class="card my-4">
+        <div class="card-header">
+            <h3 class="mb-4">Frivilligt Kapitaltillskott</h3>
+            <p>
+                Här kan man testa med olika frivilliga kapitaltillskott. Man kan välja jämna
+                multiplar av prisbasbelopp (58,800 kr) dock aldrig mer än lägenhetens skuldandel. 
+                Inbetalat kapitaltillskott används oavkortat för att amortera på föreningens lån.
+                (Dock måste eventuell ränteskillnad dras av först om föreningens lån är bundna)
+            </p>
+            <p>
+                Om detta skulle införas på riktigt är det stämman som beslutar om vilka belopp som 
+                en medlem frivilligt kan välja att betala in.
+            </p>
+            <p>
+                Notera också att kapitaltillskott är avdragsgillt vid en eventuell försäljning.
+            </p>
+        </div>
+        <div class="card-body">
+            <form id="capitalContributionForm">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Lägenhet</th>
+                            <th>Aktuell andel av föreningens skuld (kr)</th>
+                            <th>Kapitaltillskott (kr)</th>
+                            <th>Skuldandel efter kapitaltillskott (kr)</th>
+                        </tr>
+                    </thead>
+                    <tbody id="contributionTableBody">
+                        <!-- Formulärelement kommer att genereras här dynamiskt av JavaScript -->
+                    </tbody>
+                </table>
+            </form>
+        </div>
+    </div>
 
 
         <!-- Resultat med kapitaltillskott -->
         <h3>Avgiftsfördelning (med tillskott):</h3>
+        <p>
+            Nedan visas hur räntekostnader och avgift förändras om någon för ett kapitaltillskott.
+            Värden som ändras markeras med fetstil
+        </p>
+        <p>
+            Notera att inga avgifter ändras för dem som väljer att inte göra ett kapitaltillskott. Det enda
+            som ändras för dem är andelen av skulden i procent då föreningens skuld minksar med det tillförda
+            kapitalet som andra gjort.
+        </p>
         <table class="table table-striped" id="contributionResultTable"></table>
 
     </div>

@@ -16,7 +16,7 @@ const shareToPerc =  0.1989 / 0.002015;
 const partOfBRF = apartments.reduce((sum, apt) => sum + apt.operatingShare, 0) * shareToPerc;
 const currentAnnualOperatingCost = 10997000 - 2475000;
 const avgald = 2114000;
-
+const pbb = 58800;
 // Scenario A
 const totalLoan = currentLoans/100*partOfBRF; // Totalt lån
 const annualOperatingCost = (currentAnnualOperatingCost + avgald)/100*partOfBRF; // Årliga driftkostnader
@@ -47,6 +47,7 @@ function generateContributionForm() {
 
     let rows = apartmentsWithPercent.map((apartment, index) => {
         const debtAmount = totalLoan * (apartment.debtPercent / 100);
+        const options = generateOptions(debtAmount);
 
         return `
         <tr>
@@ -55,14 +56,34 @@ function generateContributionForm() {
                 ${formatNumber(debtAmount)} kr
             </td>
             <td>
-                <input type="number" class="form-control d-inline-block" id="contribution${index}" style="width: 100%;" min="0" max="${debtAmount.toFixed(0)}" placeholder="Ange belopp" oninput="validateInput(this); calculateWithContribution()">
+                <select class="form-control d-inline-block" id="contribution${index}" style="width: 100%;" onchange="calculateWithContribution()">
+                    ${options}
+                </select>
             </td>
             <td id="contributionsAdjusted${index}">
                 ${formatNumber(debtAmount)} kr
             </td>
         </tr>
-    `}).join('');
+    `;
+    }).join('');
     tbody.innerHTML = rows;
+}
+
+function generateOptions(debtAmount) {
+    const options = [];
+    let multiple = 0;
+
+    while (multiple <= debtAmount) {
+        options.push(`<option value="${multiple}">${formatNumber(multiple)} kr</option>`);
+        multiple += pbb;
+    }
+
+    // Lägg till debtAmount som ett alternativ om det inte redan finns i listan
+    if (!options.some(option => option.includes(`${debtAmount}`))) {
+        options.push(`<option value="${debtAmount}">${formatNumber(debtAmount)} kr</option>`);
+    }
+
+    return options.join('');
 }
 
 function validateInput(inputElement) {
