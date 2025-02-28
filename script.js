@@ -364,8 +364,8 @@ function calculateWithContributionAndScen(newLoan, avgaldRatio) {
                 <th>${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt, 0))} kr</th>
                 <th>${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt * interestRate / 12, 0))} kr</th>
                 <th>${apartments.reduce((sum, apt) => sum + apt.operatingShare, 0).toFixed(6)} (${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + apt.operatingPercent, 0))}%)</th>
-                <th>${formatNumber(apartmentsWithPercent.reduce((sum, apt) => sum + annualOperatingCost / 12 * (apt.operatingPercent / 100), 0))} kr</th>
-                <th>${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt * interestRate / 12, 0) + apartmentsWithPercent.reduce((sum, apt) => sum + annualOperatingCost / 12 * (apt.operatingPercent / 100), 0))} kr</th>
+                <th>${formatNumber(((currentAnnualOperatingCost + avgaldRatio * avgald)/100*partOfBRF/12))} kr</th>
+                <th>${formatNumber(adjustedDebts.reduce((sum, apt) => sum + apt * interestRate / 12, 0) + ((currentAnnualOperatingCost + avgaldRatio * avgald)/100*partOfBRF/12))} kr</th>
 
                 </tr>
       </tbody>
