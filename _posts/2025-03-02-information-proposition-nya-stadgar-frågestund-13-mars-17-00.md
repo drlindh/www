@@ -9,9 +9,7 @@ Styrelsen har tillsatt en arbetsgrupp för att uppdatera våra stadgar. Detta f�
 
 Styrelsen kallar de som är intresserade till informationsmöte den 13 mars kl 17:00 för att svara på frågor i gemensamhetslokalen - framförallt angående tillägget om frivilliga kapitaltillskott.
 
-Läs mer om detta på vår hemsida!
-
-<!--more-->
+Läs mer om detta på vår hemsida!<!--more-->
 
 # Förslag på nya stadgar
 
