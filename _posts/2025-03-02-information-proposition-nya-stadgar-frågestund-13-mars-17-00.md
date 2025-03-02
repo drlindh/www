@@ -7,9 +7,7 @@ feature: /images/uploads/Anslagstavla feature.jpg
 ---
 Styrelsen har tillsatt en arbetsgrupp för att uppdatera våra stadgar. Detta för att följa ny lagstiftning - men även för att i framtiden kunna tillåta frivilliga kapitaltillskott. Motivet till detta är att i en framtid ha möjlighet att köpa loss marken som föreningens hus står på.
 
-Styrelsen kallar de som är intresserade till informationsmöte den 13 mars kl 17:00 för att svara på frågor i gemensamhetslokalen - framförallt angående tillägget om frivilliga kapitaltillskott.
-
-Läs mer om detta på vår hemsida!<!--more-->
+Styrelsen kallar de som är intresserade till informationsmöte den 13 mars kl 17:00 för att svara på frågor i gemensamhetslokalen - framförallt angående tillägget om frivilliga kapitaltillskott - Läs mer om detta på vår hemsida!<!--more-->
 
 # Förslag på nya stadgar
 
