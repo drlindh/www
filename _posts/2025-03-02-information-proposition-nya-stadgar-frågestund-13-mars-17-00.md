@@ -5,9 +5,7 @@ date: 2025-03-02T12:14:48.837Z
 teaser: /images/uploads/klubba.png
 feature: /images/uploads/Anslagstavla feature.jpg
 ---
-Styrelsen har tillsatt en arbetsgrupp för att uppdatera våra stadgar. Detta för att följa ny lagstiftning - men även för att i framtiden kunna tillåta frivilliga kapitaltillskott. Motivet till detta är att i en framtid ha möjlighet att köpa loss marken som föreningens hus står på.
-
-Frågestund med styrelsen den 13/3 kl 17 i gemensamhetslokalen - framförallt angående tillägget om frivilliga kapitaltillskott - Läs mer på vår hemsida!<!--more-->
+Styrelsen arbetar med ett förslag till nya stadgar. Dessa anpassas efter ny lagstiftning - men även för att i framtiden kunna tillåta frivilliga kapitaltillskott. Motivet till detta är att i en framtid ha möjlighet att köpa loss marken som föreningens hus står på. Styrelsen bjuder in till frågestund den 13/3 kl 17 i gemensamhetslokalen - framförallt angående tillägget om frivilliga kapitaltillskott - Läs mer på vår hemsida!<!--more-->
 
 # Förslag på nya stadgar
 
