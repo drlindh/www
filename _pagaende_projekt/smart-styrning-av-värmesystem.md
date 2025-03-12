@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Smart styrning av värmesystem
-completed: false
+completed: true
 year: "2024"
 teaser: /images/uploads/Radiatorventil liten.jpg
 feature: /images/uploads/Radiatorventil feature.jpg
