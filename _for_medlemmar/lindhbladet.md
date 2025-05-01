@@ -10,6 +10,8 @@ Ansvarig utgivare för Lindhbladet är föreningens ordförande. Skicka gärna i
 
 ## Senaste numret av Lindhbladet
 
+Kommer snart
+
 [Lindhbladet 2: 2024](/images/uploads/Lindhbladet_2_2024_web.pdf)
 
 ### Här kan du läsa samtliga tidigare nummer av Lindhbladet
