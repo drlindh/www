@@ -8,7 +8,7 @@ Här är handlingarna till föreningsstämman, som äger rum onsdagen den 21 maj
 
 [Kallelse](/images/uploads/Kallelse_foreningsstamma_2025.pdf)
 
-<!-- [Årsredovisning och revisionsberättelser](/images/uploads/arsredovisning_2023.pdf) -->
+<!-- [Årsredovisning och revisionsberättelser](/images/uploads/arsredovisning_2025.pdf) -->
 
 [Valberedningens förslag till styrelse och revisorer](/images/uploads/Valberedningens_forslag_till_arsstamman_Dr_Lindh_2025.pdf)
 
