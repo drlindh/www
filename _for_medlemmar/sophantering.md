@@ -44,7 +44,7 @@ Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfar
 
 Visst avfall, t.ex. elektronik, är alltid gratis. Här kan du läsa mer om återvinningscentralerna:
 
-[Återvinningscentraler](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTYzcDQy9TAy9LSwczQwcLb3dDE1NnQz9A0z1wwkpiAJKG-AAjgb6BbmhigCHN9bf/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+[Återvinningscentraler](https://goteborg.se/wps/portal/start/bygga-bo-och-leva-hallbart/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/hitta-atervinningscentraler)
 
 Du kan också mot en avgift beställa [hämtning av vitvaror](https://goteborg.se/wps/portal/start/bygga-bo-och-leva-hallbart/avfall-och-atervinning/sophamtning/boende-i-villa-eller-radhus/bestall-hamtning-av-avfall/bestall-hamtning-av-vitvaror):
 
