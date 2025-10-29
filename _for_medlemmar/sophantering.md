@@ -58,4 +58,4 @@ Container för grovsopor beställs till föreningen i samband med höst- och vå
 
 Starka rengöringsmedel, frätande ämnen, fotokemikalier, lösningsmedel, färg, lack, lim, bekämpningsmedel, gifter, batterier, brandvarnare, lysrör, lågenergilampor, kvicksilvertermometrar, oljeprodukter och bränslen är exempel på saker du kan lämna till farligt avfallbilen.
 
-[Information om farligt avfallbilen och turlista finns på Göteborgs kommuns webbsida](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/farligtavfallbilen/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTYzcDQy9TAy9_cM8TQ0Cgz1Nzdy8TQwMzU30w8EKDFCAo4FTkJGTsYGBu7-RfhTp-pFNIk4_HgVR-I0vyA0NDXVUVAQAPeN9Cw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+[Information om farligt avfallbilen och turlista finns på Göteborgs kommuns webbsida](https://goteborg.se/wps/portal/start/bygga-bo-och-leva-hallbart/avfall-och-atervinning/har-lamnar-hushall-avfall/farligt-avfallbilen)
