@@ -38,9 +38,9 @@ Däremot kan du inte lämna vitvaror här. Om du köpt exempelvis kyl och frys m
 
 ## Återvinningscentraler
 
-Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfarligt avfall lämnas på någon av Göteborgs kommuns återvinningsanläggningar t.ex. Högsbo industriområde. A. Odhners gata, 031 – 61 85 30, http://www.renova.se . För att komma in på anläggningen behöver du ett ÅVC-kort, som berättigar till tolv fria besök per kalenderår. Kortet kan du hämta på någon av återvinningscentralerna eller beställa här:
+Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfarligt avfall lämnas på någon av Göteborgs kommuns återvinningsanläggningar t.ex. Högsbo industriområde. A. Odhners gata, 031 – 61 85 30, http://www.renova.se . För att komma in på anläggningen behöver du ett giltigt körkort eller ett ÅVC-kort, som berättigar till ett obegränsat antal fria besök. Kortet kan du beställa här:
 
-[Beställ ditt ÅVC-kort](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/avc-kort/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziAwy9Ai2cDB0N_N0t3Qw8Q7wD3Py8ffxDPU30wwkpiAJKG-AAjgb6BbmhigD7q5WG/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+[Beställ ditt ÅVC-kort](https://goteborg.se/wps/portal/start/bygga-bo-och-leva-hallbart/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/bestall-avc-kort)
 
 Visst avfall, t.ex. elektronik, är alltid gratis. Här kan du läsa mer om återvinningscentralerna:
 
