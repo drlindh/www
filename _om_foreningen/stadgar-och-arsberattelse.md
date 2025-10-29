@@ -13,6 +13,7 @@ Föreningens stadgar är reviderade för att följa de senaste lagändringarna f
 ## Årsredovisning
 
 Föreningens årsstämma hålls normalt i maj varje år. 
+* [2024 Årsredovisning](/images/uploads/arsredovisning_2024.pdf)
 * [2023 Årsredovisning](/images/uploads/arsredovisning_2023.pdf)
 * [2022 Årsredovisning](/images/uploads/Årsredovisning_2022.pdf)
 * [2021 Årsredovisning](/images/uploads/Årsredovisning_2021.pdf)
