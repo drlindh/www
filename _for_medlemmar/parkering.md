@@ -20,7 +20,7 @@ På parkeringsplatsen får enbart kördugligt och registrerat fordon parkeras. 
 
 **Frågor om parkeringsplatser**
 
-Vid frågor kontakta Nabo. Du kan också logga in på portal.nabo.se, och skapa ett ärende.
+Vid frågor kontakta Nabo. Du kan logga in på portal.nabo.se, och skapa ett ärende.
 
 ## Besöksparkering
 
