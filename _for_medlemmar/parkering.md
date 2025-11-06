@@ -42,7 +42,7 @@ När du som medlem anlitar hantverkare för renoveringsarbete måste hantverkarn
 
 ## Parkering inom bostadsområdet
 
-Det är tillåtet att parkera max 15 minuter i bostadsområdet i samband med av- och pålastning, om inte annat anfes av skyltning.
+Det är tillåtet att parkera max 15 minuter i bostadsområdet i samband med av- och pålastning, om inte annat anges av skyltning.
 
 ### Västia Parkering
 
