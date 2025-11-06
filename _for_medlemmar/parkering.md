@@ -10,17 +10,17 @@ Det finns både parkeringsplatser att hyra och gästparkeringsplatser.
 
 Det finns parkeringsplatser på p-däcket och i garagen. Några platser är dessutom utrustade med laddstolpar för elbilar. 
 
-Parkeringsplatsen hör inte till lägenheten utan plats söks i särskild ordning (kölista).  I första hand kan medlem hyra en parkeringsplats per medlem/familj. Medlem kan hyra mer än en parkeringsplats om ingen kösituation föreligger. All uthyrning och uppsägning av garage/parkeringsplatser sköts av vår ekonomiske förvaltare Nabo.  
+Parkeringsplatsen hör inte till lägenheten utan plats söks i särskild ordning (kölista).  I första hand kan medlem hyra en parkeringsplats per medlem/familj. Medlem kan hyra mer än en parkeringsplats om ingen kösituation föreligger. All uthyrning och uppsägning av garage/parkeringsplatser sköts av vår ekonomiska förvaltare Nabo.  
 
 Andrahandsuthyrning av p-platser i garage och på p-däck är inte tillåten. Vid andrahandsuthyrning av lägenhet förfaller omgående hyresrätten till parkeringsplats.
 
-I﻿ mån av plats hyr föreningen ut parkeringsplatser till medlemmar som ej bor i föreningen, samt personer som ej är medlemmar i föreningen, t.ex. andrahandshyresgäster. Dessa platser hyrs ut med kortare uppsägningstid, samt med en förhöjd hyra (+50% + moms). Kontakta styrelsen om ni är intresserade av en sådan plats.
+I﻿ mån av plats hyr föreningen ut parkeringsplatser till personer som ej är medlemmar i föreningen, t.ex. andrahandshyresgästen. Dessa platser hyrs ut med kortare uppsägningstid, samt med en förhöjd hyra (+50% + moms). Kontakta styrelsen om ni är intresserade av en sådan plats.
 
 På parkeringsplatsen får enbart kördugligt och registrerat fordon parkeras. Det betyder att platsen endast är avsedd för fordon, det är inte tillåtet att förvara andra saker som däck, takbox m.m. på parkeringsplatsen.
 
 **Frågor om parkeringsplatser**
 
-Vid frågor kontakta Nabo. Du kan logga in på portal.nabo.se, och skapa ett ärende.
+Vid frågor kontakta Nabo, tel. 010-288 00 27. Du kan också logga in på portal.nabo.se, och skapa ett ärende.
 
 ## Besöksparkering
 
@@ -42,8 +42,8 @@ När du som medlem anlitar hantverkare för renoveringsarbete måste hantverkarn
 
 ## Parkering inom bostadsområdet
 
-Det är tillåtet att parkera max 15 minuter i bostadsområdet i samband med av- och pålastning.
+Det är tillåtet att parkera max 15 minuter i bostadsområdet i samband med av- och pålastning, om inte annat anfes av skyltning.
 
-### Controlla
+### Västia Parkering
 
 Parkeringsövervakningen hanteras av Västia Parkering AB.
