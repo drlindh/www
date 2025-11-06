@@ -34,7 +34,7 @@ På två av platserna finns laddstolpar för elbilar. Där kan man ladda geno
 
 Fordon med speciellt tillstånd för rörelsehindrade får parkera i 3 timmar på gator och torg som förvaltas av kommunen. Detta gäller också på gator där parkering enligt en lokal trafikföreskrift är förbjuden eller tillåten under kortare tid än 3 timmar som på Doktor Lindhs gata.
 
-[På kommunens webbsida kan du läsa mer om parkeringsreglerna](https://goteborg.se/wps/portal/start/parkeringstillstand-och-parkeringsplatser/parkeringstillstand/parkeringstillstand-for-rorelsehindrade/regler-for-att-parkera/!ut/p/z1/jY_LDoIwEEW_hm1nShVbd7AxEhKjCYLdGJAKjVCbipr49T42ajTG2U1yzp25ICEHaYqTrote703R3vaVDNYpxTmPaIgzuhzhNBY8oTzyuWCQPQB8mxCjhR8xxMnMB_mP_wOQH_GvhyAGqcuOnDcdQSKY4GyIQcAwGNGBuL8fmpLxGqRTW-WUI0d3a9X0vR176GHlWm2qhhyUh7ZwO-W0qYlt7De12R96yJ8K2C7NL4nKrtKcsu0!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+[På kommunens webbsida kan du läsa mer om parkeringsreglerna](https://goteborg.se/wps/portal/start/trafik-och-resor/parkering)
 
 ## Parkering för hantverkare
 
