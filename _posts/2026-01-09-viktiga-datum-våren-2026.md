@@ -2,7 +2,7 @@
 layout: post
 title: Viktiga datum våren 2026
 date: 2026-01-09T10:56:08.186Z
-teaser: /images/uploads/img_6220 (liten).jpg
+teaser: /images/uploads/blasippa_liten.jpg
 ---
 Här följer datum för några aktiviteter i föreningen under våren:
 
