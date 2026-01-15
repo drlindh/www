@@ -12,7 +12,7 @@ Man bokar tid genom att flytta sitt "tvättlås" till önskad tid på tavlan. Ma
 
 I flera tvättstugor finns också en mindre tvättmaskin och torktumlare som inte får bokas i förväg utan bara användas genast i mån av tillgänglighet.
 
-Av hänsyn till boende får tvättstugan endast an vändas kl. 07-22. Kl. 07-08 kan inga maskiner bokas.
+Av hänsyn till boende får tvättstugan endast användas kl. 07-22. Kl. 07-08 kan inga maskiner bokas.
 
 Övriga regler för användning samt tidbokning finns anslagna i tvättstugan.
 
