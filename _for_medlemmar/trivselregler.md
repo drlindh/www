@@ -12,7 +12,7 @@ Hänsyn till grannar måste man visa. Kl. 22.00 - 07.00 skall därför hög musi
 
 Fester får man dock ha i rimlig omfattning, men meddela gärna i förväg, t.ex. på anslagstavlor i hiss och/eller entrén, om du planerar en fest.
 
-## Arbete i lägenheten
+### Arbete i lägenheten
 
 Arbeten i lägenheten som medför hög ljudnivå, t ex borrning, slipning och spikande, får utföras på följande tider:
 
@@ -25,19 +25,19 @@ När det gäller mera omfattande arbeten, t.ex. badrumsrenovering, gäller snäv
 
 Det är bra att informera grannarna med ett meddelande på anslagstavlan i entrén och/eller hissen. Informera gärna personligen de närmast berörda.
 
-## Störande utomhusaktiviteter
+### Störande utomhusaktiviteter
 
 Ljusa vår- och sommarkvällar lockar till fotbollsspel på lekplatsen och till grillfester. Sådana aktiviteter är tillåtna fram till kl. 22. Därefter stör det de medlemmar som bor med fönster mot lekplatsen/grillplatsen.
 
-## Grillning
+### Grillning
 
 Inom området finns två grillplatser, som medlemmarna uppmanas att använda. Den ena är belägen mellan hus 4 och hus 6, den andra på norra sidan av hus 6. Grillning på balkongerna är inte tillåten, eftersom detta dels medför olägenheter för grannarna i form av rök och grillos, dels innebär brandrisk.
 
-## Gemensamma utrymmen
+### Gemensamma utrymmen
 
 Entré- och våningsplan är inga lekplatser eller förvaringsutrymmen för cyklar, barnvagnar etc. Att förvara saker här utgör en säkerhetsrisk vid t.ex. brand eller annan akut situation.
 
-## Husdjur
+### Husdjur
 
 Husdjur får inte rastas inom föreningens område.
 
@@ -52,10 +52,10 @@ Trygghet och trivsel innebär också att den boende endast får ha husdjur, om i
 * bara med svårighet kan förmås att avbryta ett angrepp
 * har en benägenhet att rikta sitt kampintresse mot människor och andra hundar
 
-## Rökning
+### Rökning
 
 Tobaksrökning skall undvikas på balkonger och i anslutning till bostadshusens entréer. Rökning på lekplats är förbjudet enligt lag.
 
-## Cyklar
+### Cyklar
 
 Cyklar och elsparkcyklar placeras i cykelrum eller cykelställ.
