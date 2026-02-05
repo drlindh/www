@@ -6,7 +6,7 @@ feature: /images/uploads/Balkong m barn feature.jpg
 ---
 Våra trivselregler finns för allas trevnad.
 
-## Ljudnivå, fester
+### Ljudnivå, fester
 
 Hänsyn till grannar måste man visa. Kl. 22.00 - 07.00 skall därför hög musik och andra störande moment undvikas. 
 
