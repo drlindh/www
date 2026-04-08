@@ -20,6 +20,8 @@ Ansökan till styrelsen kan lämnas via e-post eller i föreningens brevlåda i 
 
 [Ansökan att skicka till styrelsen](/images/uploads/2013-02-15_bygglov-brf.pdf)
 
+Föreningen har som policy att inte rekommendera någon entreprenör.
+
 ### VVS-installationer i lägenheten
 
 Det är viktigt att VVS-installationer genomföres av kvalificerad personal för att undvika skador på byggnader och stammar.
@@ -92,6 +94,7 @@ Mer detaljer finns i regler och rekommendationer nedan.
 
 [Regler och rekommendationer om balkonger](/images/uploads/REGLER_OCH_REKOMMENDATIONER_FOR_BALKONGER_240618.pdf)
 
+<!--
 ## Ramavtal Sjövalla Byggservice
 
 Föreningen har tecknat ett ramavtal med Sjövalla Byggservice AB för byggnads-och installationsarbeten
@@ -100,6 +103,8 @@ för reparations-och renoveringsprojekt.
 Som bostadsrättsägare har Du möjlighet att anlita Sjövalla Byggservice AB med de villkor som gäller i avtalet. För mera information kontakta styrelsen. Klicka på den gröna ikonen Felanmälan nedan!
 
 Kontaktperson är Daniel Sundén,  [daniel@sjovallabygg.se](mailto:daniel@sjovallabygg.se), 0705-223568
+
+-->
 
 ## Parkering för hantverkare
 
