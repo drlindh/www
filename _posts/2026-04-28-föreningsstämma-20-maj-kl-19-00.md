@@ -8,9 +8,7 @@ Här är handlingarna till föreningsstämman, som äger rum onsdagen den 20 maj
 
 [Kallelse](/images/uploads/kallelse_stamma_2026.pdf)
 
-<!--[Årsredovisning och revisionsberättelser](/images/uploads/arsredovisning_2025.pdf)-->
-
-Årsredovisning och revisionsberättelser kommer inom kort
+[Årsredovisning och revisionsberättelser](/images/uploads/arsredovisning_2025.pdf)
 
 [Valberedningens förslag till styrelse och revisorer](/images/uploads/Valberedningens_forslag_2026.pdf)
 
