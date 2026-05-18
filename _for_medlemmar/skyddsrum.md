@@ -11,7 +11,7 @@ Samtliga rum är utmärkta med skylt enligt bild. Avsikten är att skyddsrummen 
 
 Observera att du tillhör inget särskilt skyddsrum utan använder det som finns närmast där du befinner dig. Det betyder också att personer som tillfälligt befinner sig här, det vill säga även icke boende, skall bege sig till våra skyddsrum.
 
-Om vi hamnar i den olyckliga situation där cykelrummen måste transformeras till skyddsrum, kommer vi förhoppningsvis att få 48 timmar på oss för genomförandet. Detta är ett arbete som alla arbetsföra medlemmar är skyldiga att hjälpa till med. Hur det skall gå till kan du läsa om här:
+Om vi hamnar i den olyckliga situation där cykelrummen måste transformeras till skyddsrum, kommer vi förhoppningsvis att få 48 timmar på oss för genomförandet. Detta är ett arbete som alla arbetsföra medlemmar förväntas hjälpa till med. Hur det skall gå till kan du läsa om här:
 
 [Skyddsrumsrutiner](/images/uploads/skyddsrum.pdf)
 
