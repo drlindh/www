@@ -13,7 +13,7 @@ Observera att du tillhör inget särskilt skyddsrum utan använder det som finns
 
 Om vi hamnar i den olyckliga situation där cykelrummen måste transformeras till skyddsrum, kommer vi förhoppningsvis att få 48 timmar på oss för genomförandet. Detta är ett arbete som alla arbetsföra medlemmar förväntas hjälpa till med. Hur det skall gå till kan du läsa om här:
 
-[Skyddsrumsrutiner](/images/uploads/skyddsrum.pdf)
+[Skyddsrumsrutiner](/images/uploads/Skyddsrum.pdf)
 
 Skyddsrummen besiktigades enligt gällande regelverk år 2015 av MSB (Myndigheten för samhällsskydd och beredskap) och blev godkända efter åtgärdande av besiktningsanmärkningarna.
 
