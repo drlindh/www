@@ -17,7 +17,7 @@ Bokning kan göras tidigast 3 månader i förväg.
 
 Lokalen bokas genom att skicka mejl till:
 
-* Per-Åke Jansson, perake.jansson49@icloud.com eller
+* Linda Hedborg, linda.hedborg@gmail.com eller
 * Gunilla Rehn, rehngunilla@gmail.com
 
 Ange lägenhetsnummer (föreningens interna samt nummer enligt Lantmäteriverkets regler), e-postadress samt önskat datum när du önskar hyra lokalen.
