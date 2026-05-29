@@ -22,6 +22,8 @@ Man kan ange flera nummer, om man är fler som bor i lägenheten. Då ringer por
 
 ## Svarsapparat
 
+**_Observera_** Den gamla svarsapparaten används som ringklocka. Om den gamla apparaten monteras ned saknar alltså lägenheten ringklocka.
+
 Svarsapparaten erbjuder möjlighet att se besökaren via video. Även föreningens brandlarm kopplas till enheten vilket gör att enheten larmar med en ljudsignal om brandlarmet går i trapphuset. Den befintliga ringklockan ansluts också och får en egen ringsignal. Dörren låses upp genom att trycka på den mittersta knappen med en nyckelsymbol.
 
 ![](/images/uploads/i53w.png)
@@ -35,6 +37,8 @@ Om man inte har aktiverat Stör Ej och inte svarar (när man till exempel inte �
 ### Installation och kostnad
 
 Svarsapparaten, samt dess installation, är valfri och bekostas av medlemmen själv. Priset om man installerade vid första erbjudandet var 2,400:-. Föreningen lämnar 1 års garanti på svarsapparaten. Svarsapparaten övergår därefter till medlemmens ansvar.
+
+**_Observera_** Detta förutsätter oskadat kablage från det gamla systemet. Är kablaget skadat så tillkommer kostnad för dragning av ny kabel.
 
 Vill man i efterhand installera en svarsapparat - kontakta styrelsen på kontakt@drlindh.se så går det att ordna till självkostnadspris.
 
