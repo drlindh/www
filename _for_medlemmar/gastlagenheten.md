@@ -14,7 +14,7 @@ Sängarna är utrustade med täcken, kuddar och filtar (allt i syntetmaterial). 
 
 ## Bokning av gästlägenheten
 
-Du bokar lägenheten genom att kontakta någon av de bokningsansvariga, Per-Åke Jansson eller Linda Hedborg, via e-post. Båda bokningsansavariga nås på adressen nedan. Ange husnummer, lägenhetsnummer, samt incheckningsdag och utcheckningsdag.
+Du bokar lägenheten genom att kontakta via e-post. Ange husnummer, lägenhetsnummer, samt incheckningsdag och utcheckningsdag.
 
 * [boka@drlindh.se](mailto:boka@drlindh.se)
 
