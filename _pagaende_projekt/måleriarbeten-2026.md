@@ -4,6 +4,7 @@ title: Måleriarbeten 2026
 completed: false
 year: "2026"
 teaser: /images/uploads/img_6214 (liten).jpg
+feature: /images/uploads/DSCF3495 (feature).jpg
 ---
 U﻿nder året genomförs ett antal måleriarbeten.
 
