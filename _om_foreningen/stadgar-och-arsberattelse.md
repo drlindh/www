@@ -8,7 +8,7 @@ Föreningens stadgar är reviderade för att följa de senaste lagändringarna f
 
 ## Föreningens stadgar
 
-[Stadgar för Bostadsrättsföreningen Doktor Lindh](/images/uploads/2018-09-29_Stadgar_BRF_DrLindh.pdf)
+[Stadgar för Bostadsrättsföreningen Doktor Lindh](/images/uploads/Stadgar - 716444-9758.pdf)
 
 ## Årsredovisning
 
