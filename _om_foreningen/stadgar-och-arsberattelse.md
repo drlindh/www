@@ -14,7 +14,7 @@ Föreningens stadgar är reviderade för att följa de senaste lagändringarna f
 
 Föreningens årsstämma hålls normalt i maj varje år. 
 
-* 2﻿025 Årsredovisning
+* [2﻿025 Årsredovisning](images/uploads/brf-doktor-lindh-716444-9758-årsredovisning-2025-12-31-inkl-fastställelseintyg-1.pdf)
 * [2024 Årsredovisning](/images/uploads/arsredovisning_2024.pdf)
 * [2023 Årsredovisning](/images/uploads/arsredovisning_2023.pdf)
 * [2022 Årsredovisning](/images/uploads/Årsredovisning_2022.pdf)
