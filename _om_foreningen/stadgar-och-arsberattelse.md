@@ -8,11 +8,13 @@ Föreningens stadgar är reviderade för att följa de senaste lagändringarna f
 
 ## Föreningens stadgar
 
-[Stadgar för Bostadsrättsföreningen Doktor Lindh](/images/uploads/Stadgar - 716444-9758.pdf)
+\[Stadgar för Bostadsrättsföreningen Doktor Lindh](/images/uploads/Stadgar - 716444-9758.pdf)
 
 ## Årsredovisning
 
 Föreningens årsstämma hålls normalt i maj varje år. 
+
+* 2﻿025 Årsredovisning
 * [2024 Årsredovisning](/images/uploads/arsredovisning_2024.pdf)
 * [2023 Årsredovisning](/images/uploads/arsredovisning_2023.pdf)
 * [2022 Årsredovisning](/images/uploads/Årsredovisning_2022.pdf)
